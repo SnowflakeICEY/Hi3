@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Lier Scarlet(B):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       338 ?    ?   532      
+ATK      30  ?    ?   47         
+DEF      43  ?    ?   68         
+CRT      3   ?    ?   5       
+Load     9   10   11  12</pre>
+Навык:		Увеличивает скорость передвижения на 11%/?/?/15% и скорость атаки на 16%/?/?/20%, но уменьшает максимальные HP на 15% в бою.
+
+<img src = "file:///android_res/drawable/stig_scarlet_b.png" width="300" height= "300">

@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Nuwa(M):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       340 ?    ?   535        
+ATK      0   0    0   0        
+DEF      71  ?    ?   105         
+CRT      4   ?    ?   8         
+Load     9   10   11  12</pre>
+Навык:		Увеличивает наносимый огненный урон на 1% за каждую единицу счетчика Combo (максимум на 60%/?/?/102%).<br>
+
+<img src = "file:///android_res/drawable/stig_nuwa_m.png" width="300" height= "300">

@@ -1,1 +1,13 @@
 <body bgcolor="#cccccc" >
+<pre>Charlemagne(T):
+Редкость  3   3/1 4
+Уровень   25  3   35  
+HP        137 ?   200
+ATK       34  ?   50
+DEF       34  ?   50
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык:      При SP выше 70%, каждые дополнительные 5% SP повышают физический урон от
+                                   обычной атаки (включая комбо и заряженные атаки) на 2 / 3 / 4 %<br>
+
+<img src = "file:///android_res/drawable/stig_karl_t.png" width="300" height= "300">

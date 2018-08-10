@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Ji Xuanyuan(T):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       344 ?    ?   541        
+ATK      59  ?    ?   93       
+DEF      61  ?    ?   92          
+CRT      0   0    0   0       
+Load     9   10   11  12</pre>
+Навык:		Увеличивает наносимый физический урон от атак при смене персонажа (в том числе QTE) на 36%/?/?/62%.<br>
+
+<img src = "file:///android_res/drawable/stig_nyan_t.png" width="300" height= "300"> 

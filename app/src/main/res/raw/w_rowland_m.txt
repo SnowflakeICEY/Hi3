@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Rowland(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        237 287 343
+ATK       0   0   0
+DEF       44  52  61
+CRT       2   3   4
+Load      6   7   8</pre>
+Навык:       При наложении дебаффа, 35 / 42 / 51 % шанс незамедлительно его снять.<br>
+
+<img src = "file:///android_res/drawable/stig_roland_m.png" width="300" height= "300">

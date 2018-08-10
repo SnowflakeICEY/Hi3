@@ -1,5 +1,5 @@
 ﻿<body bgcolor="#cccccc" >
-<pre>Roland(T):
+<pre>Rowland(T):
 Редкость  3   3/1 4
 Уровень   25  30  35  
 HP        237 287 343
@@ -11,7 +11,7 @@ Load      6   7   8</pre>
 
 <img src = "file:///android_res/drawable/stig_roland_t.png" width="300" height= "300">
 
-<pre>Roland(M):
+<pre>Rowland(M):
 Редкость  3   3/1 4
 Уровень   25  30  35
 HP        237 287 343
@@ -23,7 +23,7 @@ Load      6   7   8</pre>
 
 <img src = "file:///android_res/drawable/stig_roland_m.png" width="300" height= "300">
 
-<pre>Roland(B):
+<pre>Rowland(B):
 Редкость  3   3/1 4 
 Уровень   25  30  35
 HP        237 287 343

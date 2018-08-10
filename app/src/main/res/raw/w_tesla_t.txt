@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Nikola Tesla(T):
+Редкость  3   3/1 4
+Уровень   25  30  35  
+HP        216 ?   357
+ATK       40  ?   58
+DEF       16  ?   23
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык:      Повышает весь урон по парализованным врагам на  32 / ? / 51 %<br>
+
+<img src = "file:///android_res/drawable/stig_tesla_t.png" width="300" height= "300">

@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Lier(T):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       358 ?    ?   563       
+ATK      58  ?    ?   91        
+DEF      20  ?    ?   38         
+CRT      0   0    0   0        
+Load     9   10   11  12</pre>
+Навык:		При HP выше 80% увеличивает DEF на 60%/?/?/103%.<br>
+
+<img src = "file:///android_res/drawable/stig_lier_t.png" width="300" height= "300"> 

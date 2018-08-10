@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Lier Scarlet(T):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       338 ?    ?   532        
+ATK      59  ?    ?   96          
+DEF      43  ?    ?   68         
+CRT      0   0    0   0       
+Load     9   10   11  12</pre>
+Навык:		Увеличивает наносимый урон базовых атак (в том числе комбо и заряженных атак) на 23%/?/?/36%, но уменьшает максимальные HP на 20% в бою.<br>
+
+<img src = "file:///android_res/drawable/stig_scarlet_t.png" width="300" height= "300">

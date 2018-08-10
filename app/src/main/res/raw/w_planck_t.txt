@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Planck(T):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       354 ?    ?   556       
+ATK      59  ?    ?   93        
+DEF      32  ?    ?   54         
+CRT      0   0    0   0       
+Load     9   10   11  12</pre>
+Навык:		За каждые недостающие 10% от максимальных HP персонажа увеличивает ВЕСЬ наносимый урон на 3.6%/?/?/6.2%<br>
+
+<img src = "file:///android_res/drawable/stig_planck_t.png" width="300" height= "300">

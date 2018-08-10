@@ -1,1 +1,13 @@
 <body bgcolor="#cccccc" >
+<pre>Otto Apocalypse(B):
+Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+HP       307 ?   ?   483
+ATK      36  ?   ?   57
+DEF      33  ?   ?   53
+CRT      6   ?   ?   9
+Load     9   10  11  12</pre>
+
+Навык:		Увеличивает молниевый урон на 35%/?/?/55%, когда персонаж призывает кого-то на поле боя.<br>
+
+<img src = "file:///android_res/drawable/stig_otto_b.png" width="300" height= "300">

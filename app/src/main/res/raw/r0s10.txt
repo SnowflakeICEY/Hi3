@@ -9,6 +9,7 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:      Увеличивает физический урон от атак типа Charge(Атаки персонажей Bronya и Himeko) на 11 / 14 / 18 % <br>
 
+<img src = "file:///android_res/drawable/stig_ryouma_t.png" width="300" height= "300">
 
 <pre>Sakamoto Ryouma(M):
 Редкость  3   3/1 4
@@ -20,6 +21,8 @@ CRT       5   6   8
 Load      6   7   8</pre>
 Навык:       Увеличивает физический урон от Switch атак на 22 / 31 / 41 % (включая QTE атаки)<br>
 
+<img src = "file:///android_res/drawable/stig_ryouma_m.png" width="300" height= "300">
+
 <pre>Sakamoto Ryouma(B):
 Редкость  3   3/1 4 
 Уровень   25  30  35
@@ -29,6 +32,8 @@ DEF       41  49  57
 CRT       3   4   4
 Load      6   7   8</pre>
 Навык:	Увеличивает урон от комбо атак на  15 / 20 / 26 %<br>
+
+<img src = "file:///android_res/drawable/stig_ryouma_b.png" width="300" height= "300">
 
 Комплект стигмат:<br>
 

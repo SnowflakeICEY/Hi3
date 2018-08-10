@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Sakamoto Ryouma(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        237 288 344
+ATK       20  24  29
+DEF       41  49  57
+CRT       3   4   4
+Load      6   7   8</pre>
+Навык:	Увеличивает урон от комбо атак на  15 / 20 / 26 %<br>
+
+<img src = "file:///android_res/drawable/stig_ryouma_b.png" width="300" height= "300">

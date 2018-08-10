@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Rinaldo(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        272 ?   394
+ATK       0   0   0
+DEF       59  ?   87
+CRT       5   5   5
+Load      6   7   8</pre>
+Навык:       При критическом ударе парализует цель и окружающих ее противников в радиусе 2 метров, на 1.5 сек. Перезарядка 8 / ? / 5 сек<br>
+
+<img src = "file:///android_res/drawable/stig_rinaldo_m.png" width="300" height= "300">

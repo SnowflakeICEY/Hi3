@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Rinaldo(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        296 ?   285
+ATK       21  ?   31
+DEF       29  ?   43
+CRT       4   ?   6
+Load      6   7   8</pre>
+Навык:	Критический удар восстанавливает 60 / ? / 120 HP, перезарядка 8 сек.<br>
+
+<img src = "file:///android_res/drawable/stig_rinaldo_b.png" width="300" height= "300">

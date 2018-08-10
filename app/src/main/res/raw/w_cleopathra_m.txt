@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Cleopatra(M):
+Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+HP       350 ?   ?   552
+ATK      0   ?   ?   0
+DEF      41  ?   ?   65
+CRT      7   ?   ?   11
+Load     9   10  11  12</pre>
+Навык:		Увеличивает ВЕСЬ наносимый урон по оглушенным противникам на 48%/?/?/86%<br>
+
+<img src = "file:///android_res/drawable/stig_cleopathra_m.png"width="300" height= "300"> 

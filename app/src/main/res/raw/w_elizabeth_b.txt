@@ -1,1 +1,12 @@
-<body bgcolor="#cccccc" ><body bgcolor="#cccccc" >
+<body bgcolor="#cccccc" >
+<pre>Elizabeth Bathory(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        242 294 351
+ATK       20  24  29
+DEF       27  33  40
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык:	При здоровье выше 80%, повышает скорость передвижения на 25 / 33 / 41 %<br>
+
+<img src = "file:///android_res/drawable/stig_elizabeth_b.png" width="300" height= "300">

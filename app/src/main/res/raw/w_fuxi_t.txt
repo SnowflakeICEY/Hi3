@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Fuxi(T):     
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       362 ?    ?   569       
+ATK      58  ?    ?   91       
+DEF      10  ?    ?   25       
+CRT      0   0    0   0         
+Load     9   10   11  12</pre>
+Навык:		Увеличивает наносимый стихийный урон против замороженных противников на 58%/?/?/92%.<br>
+
+<img src = "file:///android_res/drawable/stig_fuxi_t.png" width="300" height= "300"> 

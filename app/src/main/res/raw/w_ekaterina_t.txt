@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Ekaterina(T):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45   50
+HP       344 404  470  541
+ATK      59  ?    ?   93
+DEF      61  ?    ?   91
+CRT      0   0    0   0
+Load     9   10   11  12</pre> 
+Навык:		При комбо более 25 увеличивает Def на 44%/?/?/61%.<br>
+
+<img src = "file:///android_res/drawable/stig_ekaterina_t.png" width="300" height= "300"> 

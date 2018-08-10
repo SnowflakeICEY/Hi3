@@ -1,1 +1,13 @@
 <body bgcolor="#cccccc" >
+
+<pre>Sakamoto Ryouma(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        238 288 344
+ATK       0   0   0
+DEF       41  49  57
+CRT       5   6   8
+Load      6   7   8</pre>
+Навык:       Увеличивает физический урон от Switch атак на 22 / 31 / 41 % (включая QTE атаки)<br>
+
+<img src = "file:///android_res/drawable/stig_ryouma_m.png" width="300" height= "300">
