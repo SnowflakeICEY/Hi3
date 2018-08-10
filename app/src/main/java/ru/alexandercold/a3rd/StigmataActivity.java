@@ -21,7 +21,8 @@ import java.util.Map;
 
 public class StigmataActivity extends AppCompatActivity {
     private String[] mGroupsArray = new String[]{"★★★☆/☆","★★★★☆/☆☆",};
-    private String mThreeStars[] = { "Uncnown",};
+    private String mThreeStars[] = { "Attila","Charlemagne","Dragon Boat Festival","Edison","Elizabeth Bathory","Ji Xuanyuan Aqua","Nikola Tesla","Ogier","Rinaldo","Rowland","Sakamoto Ryouma"
+    ,"Wang Zhaojun","Yodo Dono",};
     //Создаем массив разделов:
     private String mFourStars[] = {
             "Beach Party",

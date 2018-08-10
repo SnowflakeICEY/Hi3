@@ -1,0 +1,12 @@
+﻿<body bgcolor="#cccccc" >
+<pre>Dracula(T):
+Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+HP       276 ?   ?   435
+ATK      58  ?   ?   91
+DEF      55  ?   ?   88
+CRT      6   ?   ?   9
+Load     9   10  11  12</pre>
+Навык:		Увеличивает наносимый физический урон на 25%/?/?/40% по противникам с кровотечением.<br>
+
+<img src = "file:///android_res/drawable/stig_dracula_t.jpg" width="300" height= "300"> 

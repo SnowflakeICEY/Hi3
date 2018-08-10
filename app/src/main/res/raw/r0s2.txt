@@ -1,46 +1,12 @@
 ﻿<body bgcolor="#cccccc" >
-<pre>Charlemagne(T):
-Редкость  3   3/1 4
-Уровень   25  3   35  
-HP        137 ?   200
-ATK       34  ?   50
-DEF       34  ?   50
-CRT       0   0   0
-Load      6   7   8</pre>
-Навык:      При SP выше 70%, каждые дополнительные 5% SP повышают физический урон от
-                                   обычной атаки (включая комбо и заряженные атаки) на 2 / 3 / 4 %<br>
-
-<img src = "file:///android_res/drawable/stig_karl_t.png" width="300" height= "300">
-
-<pre>Charlemagne(M):
+<pre>Dragon Boat Festival (M):
 Редкость  3   3/1 4
 Уровень   25  30  35
-HP        275 ?   400
+HP        236 286 343
 ATK       0   0   0
-DEF       103 ?   150
-CRT       13  ?   20
+DEF       24  ?   37
+CRT       4   5   6
 Load      6   7   8</pre>
-Навык:      При SP выше 70%, повышает защиту на 50 / ? / 75 %<br>
+Навык:      Шанс 10 % парализовать врага на 2 сек.    Перезарядка 8 / ? / 5 сек<br>
 
-<img src = "file:///android_res/drawable/stig_karl_m.png" width="300" height= "300">
-
-<pre>Charlemagne(B):
-Редкость  3   3/1 4 
-Уровень   25  30  35
-HP        206 ?   300
-ATK       34  ?   50
-DEF       68  ?   100
-CRT       13  ?   20
-Load      6   7   8</pre>
-Навык:	При SP выше 70%, повышает скорость передвижения на 15 / ? / 25 %<br>
-
-<img src = "file:///android_res/drawable/stig_karl_b.png" width="300" height= "300">
-
-Комплект стигмат:<br>
-
-Комплект	Бонус комплекта:<br>
-
-2		При SP выше 70%, уменьшает ATK и DEF окружающих противников на 20%.<br>
-
-3		Повышает физический урон против врагов типа Mecha на 20 %
-                               Повышает HP на 25 % если используется на Mei или Yae Sakura
+<img src = "file:///android_res/drawable/stig_dragon_festival_m.png" width="300" height= "300">
