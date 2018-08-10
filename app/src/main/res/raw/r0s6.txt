@@ -1,0 +1,44 @@
+﻿<body bgcolor="#cccccc" >
+<pre>Nikola Tesla(T):
+Редкость  3   3/1 4
+Уровень   25  30  35  
+HP        216 ?   357
+ATK       40  ?   58
+DEF       16  ?   23
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык:      Повышает весь урон по парализованным врагам на  32 / ? / 51 %<br>
+
+<img src = "file:///android_res/drawable/stig_tesla_t.png" width="300" height= "300">
+
+<pre>Nikola Tesla(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        246 ?   357
+ATK       0   ?   0
+DEF       13  ?   23
+CRT       3   4   5
+Load      6   7   8</pre>
+Навык:       Повышает весь урон по замороженным врагам на  32 / ? / 51 %<br>
+
+<img src = "file:///android_res/drawable/stig_tesla_m.png" width="300" height= "300">
+
+<pre>Nikola Tesla(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        246 ?   357
+ATK       20  ?   29
+DEF       13  ?   23
+CRT       1   1   1
+Load      6   7   8</pre>
+Навык:	Повышает весь урон по оглушенным врагам на  32 / ? / 51 %<br>
+
+<img src = "file:///android_res/drawable/stig_tesla_b.png" width="300" height= "300">
+
+Комплект стигмат:<br>
+
+Комплект	Бонус комплекта:<br>
+
+2		  Повышает урон на 15% при разрушенном элитном щите врага<br>
+
+3		Повышает lightning урон на 30%

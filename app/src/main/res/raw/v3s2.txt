@@ -1,0 +1,45 @@
+<body bgcolor="#cccccc" >
+<p align="center"<img src = "file:///android_res/drawable/emoji_scarlet.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Scarlet Fusion<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
+<img src = "file:///android_res/drawable/valk_scarlet.png"width="112" height= "98"align = "left">Наносит элементальный <img src = "file:///android_res/drawable/effect_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning урон.<br>
+
+<img src = "file:///android_res/drawable/valk_scarlet_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle"> Time Fracture<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Fusion Shuttle: Увеличивает скорость передвиждения на 40% в течении 3сек после уворота.При удачном увороте получает электрический заряд,увеличивает стойкость.Перезарядка 15 сек.  <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Nexus Unlock: Nexus увеличивает физические способности Himeko. При активации увеличивает АТК,скорость атаки также наносит <font color="#FFFF00">lightning</font> урон с каждой атаки.Для активации нужно 100SP,потребляет 20SP при активации и 10SP/сек<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Fusion Arms: Увеличение урона на 20% при смене персонажа  <br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_breaker.png" width="20" height= "20"align= "top" align= "middle">Dimensional Breaker >>>>><br>
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot  >>>>><br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">King Cobra</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_b.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (B)</font></a><br>
+Увеличенивает обычный и критический урон по <font color="#FFD700">парализованым</font> целям.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup</a><br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Balmung</font></a>/ <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Dance</a>/ <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Xuanyuan greatsword</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_t.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>
+Увеличивает <font color="#FFFF00">lightning</font> урон.<br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Schwert Gewehr</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Cleopathra (B)</font></a><br>
+Увеличивает урон по парализованым целям и  <font color="#FFFF00">lightning</font> урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_band_t.txt"style="text-decoration: none;"><font color="#000000">Tesla: Band (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
+<br>

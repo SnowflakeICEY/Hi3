@@ -1,0 +1,40 @@
+﻿<body bgcolor="#cccccc" >
+<p align="center"<img src = "file:///android_res/drawable/emoji_moonbeam.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*Knight Moonbeam<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<img src = "file:///android_res/drawable/valk_moonbeam.png"width="112" height= "98"align="left">
+Наносит огромный урон при активации QTE.<br>
+
+<img src = "file:///android_res/drawable/valk_moonbeam_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"> Враг в воздухе<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Fissure: Запускает Time Fracture и значительно увеличивает скорость движения. Перезарядка 20 сек<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Gungnir Execution:При активации используя энергию валькирии создаёт пушку в воздухе,которая бомбандирует врагов.Пушка наносит физический урон,равный 1900% от АТК. Потребляет 125 SP. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Glitter: Увеличивает критический урон всей команды на 30%,если все союзники типа <font color="#FFA500">Creature</font> увеличивает еще на 20%<br>
+Рекомендации:<br>
+
+<pre><img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:
+
+<img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle"> Black Nucleus >>>>>
+<img src = "file:///android_res/drawable/emoji_violet.png" width="20" height= "20"align= "top" align= "middle"> Violet Executer >>>></pre>
+
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Dominator Pisto</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_t.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
+Увеличивает шанс критического удара и урона по <font color="#F0E68C">парализованым</font> врагам.<br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Dominator Pisto</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_t.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
+Увеличивает урон,шанс <font color="#F0E68C">парализовать</font> врага,значительно увеличивает урон после 30 комбо.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
+Увеличивает физического урон.

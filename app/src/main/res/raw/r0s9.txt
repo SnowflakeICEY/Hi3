@@ -1,0 +1,47 @@
+﻿<body bgcolor="#cccccc" >
+<pre>Roland(T):
+Редкость  3   3/1 4
+Уровень   25  30  35  
+HP        237 287 343
+ATK       40  78  58
+DEF       44  52  61
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык:      Восстанавливает 22 / ? / 46 HP каждые 3 сек.<br>
+
+<img src = "file:///android_res/drawable/stig_roland_t.png" width="300" height= "300">
+
+<pre>Roland(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        237 287 343
+ATK       0   0   0
+DEF       44  52  61
+CRT       2   3   4
+Load      6   7   8</pre>
+Навык:       При наложении дебаффа, 35 / 42 / 51 % шанс незамедлительно его снять.<br>
+
+<img src = "file:///android_res/drawable/stig_roland_m.png" width="300" height= "300">
+
+<pre>Roland(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        237 287 343
+ATK       20  25  29
+DEF       44  52  61
+CRT       2   3   4
+Load      6   7   8</pre>
+Навык:	При HP более 80%, повышает защиту на 19 / 25 / 31 %<br>
+
+<img src = "file:///android_res/drawable/stig_roland_b.png" width="300" height= "300">
+
+Комплект стигмат:<br>
+
+Комплект	Бонус комплекта:<br>
+
+2		 Уменьшает получаемый урон от врагов типа Psychic на 20%
+                                Повышает HP на 20 % в бою, если используется на персонажах Kiana или Kallen.<br>
+
+3		Уменьшает получаемый урон от врагов типа Psychic на 20%
+                                Повышает HP на 20 % в бою, если используется на персонажах Kiana или Kallen.
+                               

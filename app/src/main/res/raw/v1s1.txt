@@ -1,0 +1,48 @@
+<body bgcolor="#cccccc" >
+<p align="center"<img src = "file:///android_res/drawable/emoji_strike.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei * Valkyrie Bladestrike<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"></p>
+<img src = "file:///android_res/drawable/valk_strike.png" width ="112" height= "98"align="left">
+Хорошо набивает комбо.<br>
+
+<img src = "file:///android_res/drawable/valk_strike_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle"> Time Fracture<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Phantom Blade: Быстро телепортируется и уворачивается от врагов. При удачном увороте запускает <font color="#9400D3">Time Fracture</font>. Перезарядка  15 сек  <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Susanoo: При активации выплёскивает энергию валькирии. Чтобы активировать нужно 100SP, потребляет 20SP при использовании и 10SP/сек <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Enchantment of Sakura: Увеличивает защиту на 30%. Увеличивает максимальные HP на 7% у Валькирий типа creature <br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_yamabuki.png" width="20" height= "20"align= "top" align= "middle"> Yamabuki Armor >>>>><br>
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot  >>><br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
+Увеличивает <font color="#FFFF00">lightning</font>  и физический урон.<br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_t.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_m.txt"style="text-decoration: none;"><font color="#000000">Atilla (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
+Увеличивает <font color="#FFFF00">lightning</font>  и физический урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">3rd Sacred Relic</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ekaterina_t.txt"style="text-decoration: none;"><font color="#000000">Ekaterina (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ekaterina_m.txt"style="text-decoration: none;"><font color="#000000">Ekaterina (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ekaterina_b.txt"style="text-decoration: none;"><font color="#000000">Ekaterina (B)</font></a><br>
+Увеличивает защиту,физический урон,скорость при комбо .<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss setup<br>
+<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
+Уменьшает урон от температуры,увеличивает физический урон.<br>
+

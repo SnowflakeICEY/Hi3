@@ -1,0 +1,82 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+<ul>
+<p align="center"	<li onClick="toggle_show('theresa')" type="none"><img src = "file:///android_res/drawable/emoji_theresa.png" width="20" height= "20"align= "top" align= "middle" align="left">Theresa Apocalypse*Valkyrie Pledge<img src = "file:///android_res/drawable/icon_physic.png" width="20" height= "20"align= "top" align= "middle"></p>
+		<ul id="theresa" style="display: none" type="none"  >
+			<li>
+ Возраст: 12(~45)<br>
+ День рождения 28 Марта<br>
+ Рост 145<br>
+ Вес 38<br>
+ Северная Европа<br>
+ Создана в результате эксперемента Отто.<br></li>
+		</ul>
+	</li>
+</ul>
+
+</body>
+<img src = "file:///android_res/drawable/valk_theresa.png"width="112" height= "98" align= "left">
+Без оружия Oath of Judah является не очень полезным персонажем.<br>
+
+
+<img src = "file:///android_res/drawable/valk_theresa_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" height= "20"align= "top" align= "middle"> Враг заморожен<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Refuge: После уклонения увеличивает свою скорость на 40% в течении 3 сек. При удачном уклонении запускает <font color="#9400D3">Time Fracture</font> на 3 сек. Перезарядка 15 сек. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Spearsss: Бросает копьё в воздух,которое превращается в дождь и атакует врагов. Наносит физический урон равный 25х75% от АТК. Потребляет 75 SP. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Our Pledge: Уменьшает продолжительность негативных эффектов на 35%. Увеличивает урон персонажам типа Physic на 21%. <br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot >>>><br>
+<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning Empress >>><br>
+
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_t.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
+Увеличивает урон.<font color="#FFD700">Парализует</font> врагов при критическом ударе.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_b.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (B)</font></a><br>
+Увеличивает физический урон. Увеличивает скорость атаки,физический урон после использовании активного скилла оружия. Уменьшает время Перезарядкаа оружия. <br>
+
+<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_b.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (B)</font></a><br>
+Увеличивает физический урон. Увеличивает скорость атаки,физический урон после использовании активного скилла оружия. Уменьшает время Перезарядкаа оружия. <br>
+
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>
+Увеличивает <font color="#FFFF00">lightning</font> и физический урон.<br>
+<br>
+</html>

@@ -1,0 +1,12 @@
+﻿<body bgcolor="#cccccc" >
+<pre>Ji Xuanyuan-Aqua(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        221 269 325
+ATK       36  44  54
+DEF       18  22  27
+CRT       1   2   3
+Load      6   7   8</pre>
+Навык:	Пвеличивает физический урон от Switch атак на 19 / ? / 31 % (включая QTE атаки)<br>
+
+<img src = "file:///android_res/drawable/stig_ji_nyan_b.png" width="300" height= "300">

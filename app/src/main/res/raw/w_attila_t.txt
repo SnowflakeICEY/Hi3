@@ -1,0 +1,12 @@
+﻿<body bgcolor="#cccccc" >
+<pre>Attila(T):
+Редкость 3   3/1 4
+Уровень  25  30  35  
+HP       233 ?   338
+ATK      40  ?   59
+DEF      55  ?   75
+CRT      0   ?   0
+Load     6   7   8</pre>
+Навык:      При 10 и более комбо, повышает скорость передвижения на 11 / ? / 15 %<br>
+
+<img src = "file:///android_res/drawable/stig_attila_t.png" width="300" height= "300">

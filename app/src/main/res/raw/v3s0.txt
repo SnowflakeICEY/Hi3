@@ -1,0 +1,64 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+<ul>
+<body bgcolor="#cccccc" >
+
+<p align="center"<li onClick="toggle_show('himeko')" type="none"><img src = "file:///android_res/drawable/emoji_storm.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Battle Storm<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<ul id="himeko" style="display: none" type="none"  >
+<li>
+Murata Himeko<br>
+Возраст: 27<br>
+День рождение: 11 Июня<br>
+Рост: 167<br>
+Вес: 55<br>
+Япония<br>
+		</ul>
+	</li>
+</ul>
+<img src = "file:///android_res/drawable/valk_storm.png"width="112" height= "98"align= "left">
+Персонаж с очень медленными неприрываемыми атаками<br>
+
+<img src = "file:///android_res/drawable/valk_storm_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" height= "20"align= "top" align= "middle"> Враг парализован<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Sprint: После уворота увеличивает скорость на 40%,при удачном увороте создаёт <font color="#9400D3">Time Fracture</font>,Перезарядка 15 сек <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Tornado Storm: Вращается как торнадо и наносит окружающим врагам физический урон равный 7х80 от АТК. Последний удар наносит 400% от АТК. Притягивает врагов при активации.Потребляет 50 SP <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Stand By: Уменьшает физический урон нанесённый команде на 20% <br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning Empress >>>>><br>
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot >>>><br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">King Cobra</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_b.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (B)</font></a><br>
+Увеличивает физический урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Ghostslayer Nagamitsu</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Xuanyuan greatsword</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_jixuanyuan_b.txt"style="text-decoration: none;"><font color="#000000">Jixuanyuan (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_jixuanyuan_m.txt"style="text-decoration: none;"><font color="#000000">Jixuanyuan (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_jixuanyuan_t.txt"style="text-decoration: none;"><font color="#000000">Jixuanyuan (B)</font></a><br>
+Увеличивает физический урон от switch/QTE.Увеличивает весь урон от активного скилла оружия.<br>

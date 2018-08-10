@@ -1,0 +1,14 @@
+﻿<body bgcolor="#cccccc" >
+<pre>Yae Sakura Prayer(B):
+Редкость 4   4/1  4/2  5
+Уровень  35  40   45  50
+HP       276 ?    ?   434      
+ATK      28  ?    ?   45       
+DEF      43  ?    ?   70         
+CRT      9   ?    ?   15       
+Load     9   10   11  12</pre>
+Навык:	Увеличивает физический урон комбо атак на 10%/?/?/20%.
+	Увеличивает физический урон комбо атак еще на 5%/?/?/10%, если экипировано на Сакуре.<br>
+
+
+<img src = "file:///android_res/drawable/stig_sakura_prayer.png" width="300" height= "300">

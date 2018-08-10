@@ -1,0 +1,82 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+<ul>
+
+<p align="center"<li onClick="toggle_show('snow')" type="none"><img src = "file:///android_res/drawable/emoji_snow.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Snow Sniper<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<ul id="snow" style="display: none" type="none"  >
+<li>
+Возраст:14<br>
+День рождения 8 Августа<br>
+Рост 146<br>
+Вес 40<br>
+Россия<br>
+Не может радоваться и самостоятельно ходить.Подробнее в манге "Violet Sea Story"<br>
+		</ul>
+	</li>
+</ul>
+<img src = "file:///android_res/drawable/valk_snow.png" width="112" height= "98"align= "left">
+Хорошо контролирует противников,наносит хороший урон с QTE. На ранге sS и выше начинать наносить большой урон.<br>
+
+<img src = "file:///android_res/drawable/valk_snow_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"> Враг в воздухе<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Shift: При удачном увороте <font color="#6495ED">замораживает</font> атакующего и замедляет врагов на 50%. Перезарядка 15 сек <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - cнег: Заморжаивает всех врагов на карте на 8 сек,потребляет 75 SP <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Manchine Integration: Уменьшает время Перезарядкаа Evasion Skill на 3.5 сек <br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot >>>><br>
+<img src = "file:///android_res/drawable/emoji_ranger.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Ranger  >>><br>
+<img src = "file:///android_res/drawable/emoji_shadow.png" width="20" height= "20"align= "top" align= "middle">Shadow Dash >>>>><br>
+<img src = "file:///android_res/drawable/emoji_prayer.png" width="20" height= "20"align= "top" align= "middle">Divine Prayer >>><br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu</font></a>/<a href="file:///android_res/raw/w_hannah_t.txt"style="text-decoration: none;"><font color="#000000">Hannah (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_m.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (M)</a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_aqua_b.txt"style="text-decoration: none;"><font color="#000000">Jixuanyuan: Aqua (B)</a><br>
+Увеличивает урон от QTE.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_t.txt"style="text-decoration: none;"><font color="#000000">Planck (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_b.txt"style="text-decoration: none;"><font color="#000000">Planck (B)</font></a><br>
+Увеличивает прирост SP,увеличивает физический урон,увеличивает стойкость.<br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/q0.txt"style="text-decoration: none;"><font color="#000000">Bronya: Sloth (B)</font></a><br>
+Увеличивает SP/сек пока не используется.<br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Chiyou Cannon</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_b.txt"style="text-decoration: none;"><font color="#000000">Planck (B)</font></a><br>
+Увеличивает физический урон и стойкость<br>
+<br>
+

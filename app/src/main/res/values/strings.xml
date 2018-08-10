@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">3rd</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_honkai">HonkaiActivity</string>
+    <string name="title_activity_honkai_start">HonkaiStart</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_honkai_test">HonkaiActivityTest</string>
+    <string name="title_activity_weapon">WeaponActivity</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="title_activity_guid">GuidActivity</string>
+    <string name="title_activity_guid_view">GuidViewActivity</string>
+</resources>

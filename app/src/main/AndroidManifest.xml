@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.alexandercold.a3rd">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".StigmataActivity"
+            android:label="Стигматы"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StigmataViewActivity"
+            android:label="Honkai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ValkyriaActivity"
+            android:label="Валькирии"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ValkyriaViewActivity"
+            android:label="Honkai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HonkaiActivity"
+            android:label="Honkai Impact"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HonkaiStart"
+            android:label="Honkai"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WeaponActivity"
+            android:label="@string/title_activity_weapon"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TableActivity"
+            android:label="@string/title_activity_table"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GuidActivity"
+            android:label="@string/title_activity_guid"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GuidViewActivity"
+            android:label="@string/title_activity_guid_view"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

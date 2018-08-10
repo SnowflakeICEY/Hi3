@@ -1,0 +1,63 @@
+﻿<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+<ul>
+<p align="center"<li onClick="toggle_show('kiana')" type="none"><img src = "file:///android_res/drawable/emoji_comet.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*White comet<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20" align= "top" align= "middle"></p>
+<ul id="kiana" style="display: none" type="none"  >
+<li>
+Возраст:16<br>
+День рождения: 7 Декабря<br>
+Рост:161<br>
+Вес:49<br>
+Северная Европа<br>
+</ul>
+	</li>
+</ul>
+<img src = "file:///android_res/drawable/valk_comet.png"width="112" height= "98"align="left">
+Один из бесполезных персонажей. Может станит врагов через switch skill.<br>
+
+<img src = "file:///android_res/drawable/valk_comet_stat.png" width="300" height= "240"><br>
+
+QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"> Враги в воздухе<br>
+Skill:<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Shift: При удачном увороте создаёт <font color="#9400D3">Time Fracture</font> на 3 сек.Перезарядка  15 сек<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate skill - Valkyrie Burst: При активации выплёскивает энергию валькирии,чтобы активировать нужно 75 SP, потребляет 20 SP для активации и 10 SP/сек, пока SP не будет исчерпан.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Leader Skill - Meteor Bless: Увеличивает максимальные HP на 16%<br>
+Рекомендации:<br>
+
+<pre><img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:
+
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle"> Valkyrie Chariot >>>>
+<img src = "file:///android_res/drawable/emoji_impulse.png" width="20" height= "20"align= "top" align= "middle">Crimson Impulse  >>></pre>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_b.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (B)</font></a><br>
+Увеличивает урон по врагам <img src = "file:///android_res/drawable/effect_shild_break.png" width="20" height= "20"align= "top" align= "middle"> без элитный щита и по  врагам в <font color="#CD853F">стане</font>  .<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_band_t.txt" style="text-decoration: none;"><font color="#000000">Tesla: Band (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt" style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt" style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
+Значительно увеличивает физический урон.
+</html>
+

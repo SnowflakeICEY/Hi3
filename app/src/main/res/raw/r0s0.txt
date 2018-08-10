@@ -1,0 +1,45 @@
+<body bgcolor="#cccccc" >
+<pre>Attila(T):
+Редкость 3   3/1 4
+Уровень  25  30  35  
+HP       233 ?   338
+ATK      40  ?   59
+DEF      55  ?   75
+CRT      0   ?   0
+Load     6   7   8</pre>
+Навык:      При 10 и более комбо, повышает скорость передвижения на 11 / ? / 15 %<br>
+
+<img src = "file:///android_res/drawable/stig_attila_t.png" width="300" height= "300">
+
+<pre>Attila(M):
+Редкость  3    3/1 4
+Уровень   25   30  35
+HP        233  ?   338
+ATK       0    ?   0
+DEF       55   ?   75
+CRT       2    ?   3
+Load      6    7   8</pre>
+Навык:      При 20 и более комбо, повышает защиту на 25 / ? / 41 %<br>
+
+<img src = "file:///android_res/drawable/stig_attila_m.png" width="300" height= "300">
+
+<pre>Attila(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        234 284 338
+ATK       20  25  29
+DEF       55  65  75
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык:	При 30 и более комбо, повышает физический урон на 19 / ? / 31 %<br>
+
+<img src = "file:///android_res/drawable/stig_attila_b.png" width="300" height= "300">
+
+Комплект стигмат:<br>
+
+Комплект	Бонус комплекта:<br>
+
+2	Повышает критический урон на 30%
+                                      При использовании на валькириях типа Mecha, повышает максимальный SP на 10 %<br>
+
+3		Во время битвы, повышает показатель CRT на 40 %
