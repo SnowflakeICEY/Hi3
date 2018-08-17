@@ -1,0 +1,15 @@
+﻿<font color="#B8860B">Creature</font><br>
+<font color="#1E90FF">Mecha</font><br>
+<font color="#800080">Psychic</font><br>
+<font color="#9400D3">Time Fracture</font><br>
+<font color="#9932CC">Black Hole</font><br>
+<font color="#8A2BE2">Time Lock</font><br>
+<font color="#DAA520">парализовать</font><br>
+<font color="#6495ED">заморозка</font>
+<font color="#CD853F">стан</font>
+<font color="#FFFF00">lightning</font>
+<font color="#FF8COO">огонь</font>
+<font color="#FF4500">кровотечение</font>
+<font color="#000000">weapon</font>
+<font color="#2196F3">числа типа ?</font>
+

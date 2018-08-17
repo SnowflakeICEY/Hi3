@@ -1,15 +1,35 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot*Bronya Zaychik<img src = "file:///android_res/drawable/icon_physic.png" width="20" height= "20"align= "top" align= "middle"></p>
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<p align="center"<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot*Bronya Zaychik<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_chariot.png"width="112" height= "98"align="left">
 Хорошо стягивает врагов со всей карты,начальный персонаж,но не теряющий свою актуальность.<br>
 
 <img src = "file:///android_res/drawable/valk_chariot_stat.png" width="300" height= "240">
 <br>
 QTE:<img src = "file:///android_res/drawable/effect_stun.png" width="20" height= "20"align= "top" align= "middle"> Враг в стане<br>
-Skill:<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Shift: При удачном увороте создаёт <font color="#9400D3">Time Fracture</font> на 5 сек. Перезарядка 15 сек  <br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Shift: При удачном увороте создаёт <font color="#9400D3">Time Fracture</font> на 5 сек. Время восстановления 15 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Void Explosion: Призывает <font color="#9932CC">Black Hole</font> на 10 сек,которая стягивает врагов,враги получают дебафф  и наносят на 50% меньше физического урона,потребляет 50 SP.  <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Riot Armor: Уменьшает получаемый  физический урон всей команде на 26%  <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Riot Armor: Уменьшает получаемый  физический урон всей команде на <font color="#2196F3">26%</font>  <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
@@ -35,15 +55,15 @@ Skill:<br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
 <img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_plack_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_plack_b.txt"style="text-decoration: none;"><font color="#000000">Planck (B)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_b.txt"style="text-decoration: none;"><font color="#000000">Planck (B)</font></a><br>
 Увеличивает физический урон и повышает скорость атаки.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss Setup<br>
 <img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a>/ <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a><br>
-<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>
 Уменьшает урон от температуры,увеличивает физический урон.<br>
 
 

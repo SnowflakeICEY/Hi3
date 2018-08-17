@@ -1,15 +1,35 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_yamabuki.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Yamabuki Armor<img src = "file:///android_res/drawable/icon_physic.png" width="20" height= "20"align= "top" align= "middle"></p>
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+<body bgcolor="#cccccc" >
+
+<p align="center"<img src = "file:///android_res/drawable/emoji_yamabuki.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Yamabuki Armor<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_armor.png"width="112" height= "98" align="left">
 Хороший саппорт,накладывает щит на каждого из союзников,что очень полезно в матрице.<br>
 
 <img src = "file:///android_res/drawable/valk_armor_stat.png" width="300" height= "240">
 <br>
-QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle">Замедление времени/врага<br>
-Skill:<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Field: Прикрывается бронёй,непроходят лобовые атаки,чтобы сделать идеальную защиту нужно отпустить кнопку защиты во время лобовой атаки. При идеальной защите создаёт Time Fracture на 5 сек. Перезарядка 15 сек  <br>
+QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle">Time Fracture/Time Lock<br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Field: Прикрывается бронёй,непроходят лобовые атаки,чтобы сделать идеальную защиту нужно отпустить кнопку защиты во время лобовой атаки. При идеальной защите создаёт <font color="#9400D3">Time Fracture</font> на 5 сек. Время восстановления 15 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Overdrive: При активации переводит броню в режим "Овердрайва" в котором броня бьёт сама,если до этого режима повесить на врага дебафф(быстрое нажатие на кнопку атаки),то в этом режиме противник будет замедлен и удары по нему будут восстанавливать HP всей команде.Для активации нужно 40 SP, потребляет 10 SP при активации  и еще 10SP/сек <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Spiritual Conherence: Увеличивает шанс критического удара на 22%,если союзник типа <font color="#FF00FF">Physic</font> увеличивает его критический урон на 23% <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Spiritual Conherence: Увеличивает шанс критического удара на <font color="#2196F3">22%</font>,если союзник типа <font color="#800080">Psychic</font> увеличивает его критический урон на <font color="#2196F3">23%</font><br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
@@ -22,7 +42,7 @@ Skill:<br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabet_t.txt"style="text-decoration: none;"><font color="#000000">Elizabet Battory(T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_charlemagne_m.txt"style="text-decoration: none;"><font color="#000000">Charlemagne (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_charlemagne_b.txt"style="text-decoration: none;"><font color="#000000">Charlemagne (B)</font></a><br>
-Увеличивает защиту и повышает урон при комбо более 30.<br>
+Увеличивает защиту.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup</a><br>
 <img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Quantum Destroyer Type-II</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>

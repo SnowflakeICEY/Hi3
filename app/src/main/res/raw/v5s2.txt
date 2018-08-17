@@ -1,0 +1,61 @@
+﻿<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<img src = "file:///android_res/drawable/emoji_rondo.png" width="20" height= "20"align= "top" align= "middle">Theresa Apocalypse*Sakuno Rondo<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"><br>
+<img src = "file:///android_res/drawable/valk_rondo.png"width="112" height= "98"align= "left">Высокая подавляющая способность к одиночному врагу, наносит большой урон огнём.<br>
+
+<img src = "file:///android_res/drawable/valk_rondo_stat.png" width="300" height= "240">
+<br>
+QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" height= "20"align= "top" align= "middle">Враг парализован<br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Flaming Sword Dance: При удачном уклонении создаёт ауру меча, которая бьёт 3 раза и наносит физический урон, равный 10% от АТК окружающим врагам. Увеличивает скорость передвижения на 40% в течение 3 сек. Каждый удар ауры меча добавляет метку на врага. Время восстановления 15 сек. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Ballistic Sakura: При активации входит в состоянии "Сакуры" и наносит 3 комбо удара по всем целям на большой площади, каждый удар наносит физический урон, равный 100% от АТК и ставит метку. Во время этого навыка удары наносят урон огнём и имеют шанс поставить метку на врага. Чтобы активировать нужно 100 SP, тратит 20 SP при активации и 8SP/сек.  <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Ritual Dance: Увеличивает урон по врагам в воздухе на <font color="#2196F3">18%</font> всей команде. Если все персонажи в команде разного типа увеличивает елементальный урон на <font color="#2196F3">14%</font>. <br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning Empress >>><br>
+<img src = "file:///android_res/drawable/emoji_miko.png" width="20" height= "20"align= "top" align= "middle">Gyakushin Miko  >>><br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Fire Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dono_m.txt"style="text-decoration: none;"><font color="#000000">Yodo Dono (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
+Увеличивает физический урон и урон от <font color="#FF8COO">огня</font>.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Pledge of Sakura</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_higokumaru_t.txt"style="text-decoration: none;"><font color="#000000">Higokumaru (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nuwa_m.txt"style="text-decoration: none;"><font color="#000000">Nuwa (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_higokumaru_b.txt"style="text-decoration: none;"><font color="#000000">Higokumaru (B)</font></a><br>
+Увеличивает физический урон и урон от <font color="#FF8COO">огня</font>.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a>/<a href="file:///android_res/raw/w_siegfried_m.txt"style="text-decoration: none;"><font color="#000000">Siegfried Kaslana (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>
+Увеличивает физический урон, уменьшает перезарядку активного скилла оружия(Если используется Siegfried Kaslana (M)), увеличивает <font color="#FFFF00">lightning</font> урон .<br>
+<br>
+

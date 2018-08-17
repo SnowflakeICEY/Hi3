@@ -35,7 +35,7 @@ Load     9   10   11   12</pre>
 
 <img src = "file:///android_res/drawable/stig_ekaterina_b.png" width="300" height= "300"> 
 
-Комплект стигмат:<br>
+Бонус комплекта:<br>
 
 Комплект	Бонусный навык:<br>
 

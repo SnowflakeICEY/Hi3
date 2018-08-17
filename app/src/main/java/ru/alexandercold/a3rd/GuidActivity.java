@@ -17,6 +17,12 @@ public class GuidActivity extends AppCompatActivity {
     //Создаем массив разделов:
     private String titles[] = {
             "Баффы матрицы",
+            "Разбор оружия",
+            "Уровни",
+            "QTE",
+            "Оружия",
+            "Абисс",
+            "Мемориал",
     };
 
     @Override
@@ -47,5 +53,10 @@ public class GuidActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+    }
+     @Override
+    public boolean onSupportNavigateUp() {
+        onBackPressed();
+        return true;
     }
 }

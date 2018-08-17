@@ -40,9 +40,10 @@ public class ValkyriaViewActivity extends AppCompatActivity {
         webView.setWebViewClient(new MyWebViewClient());
         webView.getSettings().setJavaScriptEnabled(true);
         webView.setBackgroundColor(Color.parseColor("#CCCCCC"));
+
         Intent intent = getIntent();
         //получаем строку и формируем имя ресурса
-        String resName = "v" + intent.getIntExtra("mValkyrieName", 0) + "s" + intent.getIntExtra("mSuitName", 0);
+        String resName = "v" + intent.getIntExtra("mValkyrieName", 0) + "s" + intent.getIntExtra("mSuitName", 0) ;
         Log.i("name", resName);
         Context context = getBaseContext(); //получаем контекст
 

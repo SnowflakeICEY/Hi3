@@ -1,15 +1,35 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Lightning Empress<img src = "file:///android_res/drawable/icon_physic.png" width="20" height= "20"align= "top" align= "middle"></p>
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<p align="center"<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Lightning Empress<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_lightning.png"width="112" height= "98"align="left">
 Хороший саппорт в начале уровне добавляет всей команде 50 SP. Наносит элементальный <img src = "file:///android_res/drawable/effect_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning урон.<br>
 
 <img src = "file:///android_res/drawable/valk_lightning_stat.png" width="300" height= "240">
 <br>
 QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"> Враг в воздухе<br>
-Skill:<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Lightning Speed: Быстро телепортируется и уворачивается от врагов. При удачном увороте<font color="#FFD700">парализует</font> атакующих на 5 сек. Перезарядка 10 сек <br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Lightning Speed: Быстро телепортируется и уворачивается от врагов. При удачном увороте <font color="#FFD700">парализует</font> атакующих на 5 сек. Время восстановления 10 сек <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate skill - Dragon Cry: При активации наносит урон равный 900% от АТК по большой площади. Потребляет 125 SP<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Haunted Night: В начале боя добавляет к общему SP + 50,если все союзники типа <font color="#FF00FF">Physic</font> увеличивает весь урон на 20%<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Haunted Night: В начале боя добавляет к общему SP + 50,если все союзники типа <font color="#800080">Psychic</font> увеличивает весь урон на <font color="#2196F3">20%</font><br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

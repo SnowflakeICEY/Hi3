@@ -14,4 +14,21 @@
     <string name="title_activity_table">TableActivity</string>
     <string name="title_activity_guid">GuidActivity</string>
     <string name="title_activity_guid_view">GuidViewActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Settings</string>
+
+
+    <string name="pref_title_lang">Выбрать язык</string>
+    <string-array name="pref_example_list_titles">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
 </resources>

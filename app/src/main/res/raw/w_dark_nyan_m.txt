@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Dark Jixuanyuan (M)
+Редкость 4   4/1  4/2 5
+Уровень  35  40   45  50
+HP       350 ?    ?   550       
+ATK      ?   ?    ?   ?       
+DEF      114 ?    ?   180       
+CRT      19  ?    ?   29      
+Load     9   10   11  12</pre>
+Навык: Во время Time Fracture увеличивает шанс критического удара на 15/?/?/30%.
+
+<img src = "file:///android_res/drawable/stig_dark_nyan_m.png" width="300" height= "300">

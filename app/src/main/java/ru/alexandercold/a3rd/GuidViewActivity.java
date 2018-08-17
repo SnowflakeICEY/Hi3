@@ -38,7 +38,7 @@ public class GuidViewActivity extends AppCompatActivity {
         String text = readRawTextFile(context, getResources().getIdentifier(resName,
                 "raw", "ru.alexandercold.a3rd"));
 
-        webView.loadDataWithBaseURL("file:///android_res/drawable/",text,"txt/html","UTF-8",null);
+        webView.loadDataWithBaseURL("file:///android_res/raw/",text,"txt/html","UTF-8",null);
     }
 
     //читаем текст из raw-ресурсов

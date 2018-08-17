@@ -1,0 +1,65 @@
+﻿<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik * Black Nucleus<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"><br>
+<img src = "file:///android_res/drawable/valk_black.png"width="112" height= "98"align= "left">Awakening Soul(Snowy Sniper). Используется только на ранге sS и выше. <br>
+
+<img src = "file:///android_res/drawable/valk_black_stat.png" width="300" height= "240">
+<br>
+QTE::<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle">Враг в воздухе<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle">Time Fracture/Time Lock<br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimensional Interruption: При успешном уклонении переходит в режим "Стелса", время восстановления 20 сек. Когда в "Стелсе" не может стать целью врагов,блокирует весь входящий урон и невосприимчива к негативным эффектам при атаке. Значительно увеличивает скорость передвижения и скорость атаки. Также статус "Стелс" убирается при нажатии кнопки атаки, при использовании ультимативного навыка или навыка оружия и при переключении персонажей.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Universal Murder: При активации бомбандирует обозначенную зону. Создаёт обездвиживающее поле вокруг цели и окружающих её врагов, нанося физический урон, равный 20х80% от АТК. Стоимость 125 SP.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Virtual Maneuver: Уменьшает время восстановления эффектов таких как  успешный уворот и успешная защита на <font color="#2196F3">3.5<font> сек всей команде.<br>
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_shadow.png" width="20" height= "20"align= "top" align= "middle">Shadow Dash >>>><br>
+<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkurie Chariot  >>>>><br>
+<br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">X-01 Azure Eyes</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_bronya_magic_t.txt"style="text-decoration: none;"><font color="#000000">Bronya: Magic (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_bronya_magic_m.txt"style="text-decoration: none;"><font color="#000000">Bronya: Magic (M)<font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sakura_summer_b.txt"style="text-decoration: none;"><font color="#000000">Sakura: Blistering Summer (B)</font></a><br>
+Увеличивает физический урон от дальних и Charge атак. Увеличивает урон при вступлении в бой.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Markov Type C</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_bronya_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_bronya_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)<font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sakura_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
+Увеличивает физический урон от Switch/QTE, при 30 комбо, при условии,что элитный щит противника снят.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Star Destroyer 19c</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sin_t.txt"style="text-decoration: none;"><font color="#000000">Sin Mal (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sin_b.txt"style="text-decoration: none;"><font color="#000000">Sin Mal (B)</font></a><br>
+Увеличивает физический урон, увеличивает физический урон и шанс критического удара в режиме "Стелс".<br>
+<br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Flint Sanada</font></a></<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_sin_b.txt"style="text-decoration: none;"><font color="#000000">Sin Mal (B)</font></a><br>
+Увеличивает физический урон, увеличивает шанс критического удара после режима "Стелс" .<br>
+

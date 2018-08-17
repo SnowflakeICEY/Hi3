@@ -35,9 +35,9 @@ Load     9   10   11  12</pre>
 
 <img src = "file:///android_res/drawable/stig_fuxi_b.png" width="300" height= "300"> 
 
-Комплект стигмат:<br>
+Бонус комплекта:<br>
 
-комплект	Бонусные навыки:<br>
+<br>
 
 2		Увеличивает максимальные HP на 15% в бою.
 		Уменьшает время перезарядки Ultimate skill и Evasion skill на 20%.<br>

@@ -1,15 +1,35 @@
-﻿<body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_shadow.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Shadow Dash<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"></p>
+﻿<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<p align="center" <img src = "file:///android_res/drawable/emoji_shadow.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Shadow Dash<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20" align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_shadow.png"width="112" height= "98"align="left">
 Хорошо подходит для кооператива из-за своего командного скилла,который увеличивает урон в спину.<br>
 
 <img src = "file:///android_res/drawable/valk_shadow_stat.png" width="300" height= "240">
 <br>
 QTE:<img src = "file:///android_res/drawable/effect_stun.png" width="20" height= "20"align= "top" align= "middle"> Враг в стане<br>
-Skill:<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Shadow Step: Быстро телепортируется и уворачивается от врагов. При удачном увороте создает свои копии. Перезарядка 10 сек<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Tsukuyomi: при активации использует энергию валькирии создает копию себя,потребляет 75 SP <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Monster Outbreak: увеличивает шанс критического удара на 17% если HP команды более 80% <br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Shadow Step: Быстро телепортируется и уворачивается от врагов. При удачном увороте создает свои копии. Время восстановления 10 сек<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Tsukuyomi: при активации использует энергию валькирии и создает копию себя,потребляет 75 SP <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Monster Outbreak: увеличивает шанс критического удара на <font color="#2196F3">17%</font> если HP команды более 80% <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
@@ -19,35 +39,35 @@ Skill:<br>
 
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_t.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ryouma_b.txt"style="text-decoration: none;"><font color="#000000">Sakamoto Ryouma(B)</font></a><br>
 Увеличивает защиту,физический и <font color="#FFFF00">lightning</font> урон.<br>
 
 
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_t.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ryouma_b.txt"style="text-decoration: none;"><font color="#000000">Sakamoto Ryouma(B)</font></a><br>
-Увеличивает критический урон,шанс <font color="#FFD700">парализовать</font> врага.<br>
+Увеличивает критический урон,шанс <font color="#DAA520">парализовать</font> врага.<br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Raikiri</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Raikiri</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
 Увеличивает <font color="#FFFF00">lightning</font> урон,копии наносџт больше урона благодарџ активному скиллу оружия.<br>
 
 
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"><a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Fairy icon_icon_sword.png Silven</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">3rd Sacred Relic</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"><a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Fairy Sword Silven</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">3rd Sacred Relic</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_celine_t.txt"style="text-decoration: none;"><font color="#000000">Celine (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_celine_b.txt"style="text-decoration: none;"><font color="#000000">Celine (B)</font></a><br>
 Увеличивает физический урон,шанс критического удара,критический урон.<br>
 <br>
 
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"><a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Fairy icon_icon_sword.png Silven</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">3rd Sacred Relic</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"><a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Fairy Sword Silven</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">3rd Sacred Relic</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a>/<a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>

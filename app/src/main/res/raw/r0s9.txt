@@ -35,9 +35,9 @@ Load      6   7   8</pre>
 
 <img src = "file:///android_res/drawable/stig_roland_b.png" width="300" height= "300">
 
-Комплект стигмат:<br>
+Бонус комплекта:<br>
 
-Комплект	Бонус комплекта:<br>
+
 
 2		 Уменьшает получаемый урон от врагов типа Psychic на 20%
                                 Повышает HP на 20 % в бою, если используется на персонажах Kiana или Kallen.<br>

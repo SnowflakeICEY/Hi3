@@ -1,0 +1,40 @@
+﻿<pre>Dark Jixuanyuan (T)
+Редкость 4   4/1  4/2 5
+Уровень  35  40   45  50
+HP       318 ?    ?   500       
+ATK      32  ?    ?   50       
+DEF      19  ?    ?   30       
+CRT      0   0    0   0       
+Load     9   10   11  12</pre>
+Навык: При активации Time Fracture наносит 300/?/?/450% физического урона от АТК противнику поблизости и отбрасывает его. Перезарядка 20 сек.
+
+<img src = "file:///android_res/drawable/stig_dark_nyan_t.png" width="300" height= "300">
+
+<pre>Dark Jixuanyuan (M)
+Редкость 4   4/1  4/2 5
+Уровень  35  40   45  50
+HP       350 ?    ?   550       
+ATK      0   0    0   0       
+DEF      114 ?    ?   180       
+CRT      19  ?    ?   29      
+Load     9   10   11  12</pre>
+Навык: Во время Time Fracture увеличивает шанс критического удара на 15/?/?/30%.
+
+<img src = "file:///android_res/drawable/stig_dark_nyan_m.png" width="300" height= "300">
+
+<pre>Dark Jixuanyuan (B)
+Редкость 4   4/1  4/2 5
+Уровень  35  40   45  50
+HP       350 ?    ?   552      
+ATK      29  ?    ?   46      
+DEF      48  ?    ?   74      
+CRT      6   ?    ?   9     
+Load     9   10   11  12</pre>
+Навык: Во время Time Fracture увеличивает скорость передвижения на 15/?/?/30% и скорость атаки на 10/?/?/25%.
+
+<img src = "file:///android_res/drawable/stig_dark_nyan_b.png" width="300" height= "300">
+
+Бонус комплекта:<br>
+2 Увеличивает физический урон на 40% при завершении Time Fracture. Если экипировано на Kiana или Kallen увеличивает получаемое SP с базовых атак на 4,перезарядка 2 сек.<br>
+
+3 Во время Time Fracture уменьшает расход SP при активации умения на 30%.

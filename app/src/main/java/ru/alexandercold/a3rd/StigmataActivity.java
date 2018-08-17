@@ -50,7 +50,10 @@ public class StigmataActivity extends AppCompatActivity {
             "Theresa",
            "Yae Sakura",
            "Yae Sakura Prayer",
-            "Zhugekongming(СЕА)",
+            "Zhugekongming",
+            "Dark Jixuanyuan",
+            "Higokumaru",
+            "Nagamitsu",
     };
 
     public void onCreate(Bundle savedInstanceState) {

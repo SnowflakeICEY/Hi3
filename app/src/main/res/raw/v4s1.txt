@@ -1,14 +1,34 @@
+﻿<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
 <body bgcolor="#cccccc" >
 <p align="center"<img src = "file:///android_res/drawable/emoji_memento.png" width="20" height= "20"align= "top" align= "middle">Goushinnso Memento<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
-<img src = "file:///android_res/drawable/valk_memento.png" width="112" height= "98" align= "left">С помощью кинетической энергии можно бить врагов на расстоянии. Заменяется на Shadow Dash.<br>
+<img src = "file:///android_res/drawable/valk_memento.png" width="112" height= "98" align= "left"> Awakening Soul(Shadow Dash). С помощью кинетической энергии можно бить врагов на расстоянии.<br>
 
 <img src = "file:///android_res/drawable/valk_memento_stat.png" width="300" height= "240">
 <br>
 QTE:<img src = "file:///android_res/drawable/effect_shild_break.png" width="20" height= "20"align= "top" align= "middle"> элитный щит разрушен<br>
-Skill:<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Clone Step: При удачном увороте создаёт ледяную статую,которая взрывается через 1 сек и наносит <font color="#6495ED">ледяной</font>  урон равный 200% от АТК. Перезарядка 15 сек <br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Clone Step: При удачном увороте создаёт ледяную статую,которая взрывается через 1 сек и наносит <font color="#6495ED">ледяной</font>  урон равный 200% от АТК. Время восстановления 15 сек <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Final Breath:Ледяной ветер наносит урон, равный в общей сложности 900% от ATK,последний удар <font color="#6495ED">замораживает</font> врага.Разбивает лёд,нанося физический урон,равный 1200% от АТК. Восстанавливает 250 единиц кинетической энергии. Стоимость 125 SP <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Sakura Dance: Увеличивает шанс критического удара на 15% <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Sakura Dance: Увеличивает шанс критического удара на <font color="#2196F3">15%</font> <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
@@ -18,27 +38,27 @@ Skill:<br>
 
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Crystal Edge</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Crystal Edge</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_m.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sakura_summer_b.txt"style="text-decoration: none;"><font color="#000000">Sakura: Blistering Summer (B)</font></a><br>
 Легко <font color="#6495ED">заморозить</font> врага с помощью активного скилла оружия. Увеличивает основной урон,физический урон и урон по замороженым врагам.<br>
 <br>
 
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Crystal Edge</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Crystal Edge</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kira_t.txt"style="text-decoration: none;"><font color="#000000">Shigure Kira (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_m.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kira_b.txt"style="text-decoration: none;"><font color="#000000">Shigure Kira (B)</font></a><br>
 Легко <font color="#6495ED">заморозить</font> врага с помощью активного скилла оружия. Увеличивает основной урон,физический урон и урон по замороженым врагам.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Ice Epiphyllum</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Ice Epiphyllum</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nohime_t.txt"style="text-decoration: none;"><font color="#000000">Nohime (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nohime_m.txt"style="text-decoration: none;"><font color="#000000">Nohime (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nohime_b.txt"style="text-decoration: none;"><font color="#000000">Nohime (B)</font></a><br>
 Увеличивает <font color="#6495ED">ледяной</font> урон и восстановление кинетической энергии. <br>
 <br>
-<img src = "file:///android_res/drawable/icon_icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Ice Epiphyllum</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Ice Epiphyllum</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_b.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (B)</font></a><br>

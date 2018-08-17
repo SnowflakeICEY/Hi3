@@ -1,0 +1,1 @@
+﻿<img src = "file:///android_res/drawable/tab_salvate.jpg" align= "left" align= "right">

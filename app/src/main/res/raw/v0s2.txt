@@ -1,15 +1,35 @@
-﻿<body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_prayer.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*Divine Prayer<img src = "file:///android_res/drawable/icon_physic.png" width="20" height= "20"align= "top" align= "middle"></p>
+﻿<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<p align="center"<img src = "file:///android_res/drawable/emoji_prayer.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*Divine Prayer<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_prayer.png"width="112" height= "98"align="left">
 Хорошо восстанавливает HP команде и подкидывает.<br>
 
 <img src = "file:///android_res/drawable/valk_prayer_stat.png" width="300" height= "240">
 <br>
 QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" height= "20"align= "top" align= "middle"> Враг парализован<br>
-Skill:<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Fetter: Накладывает на врага <font color="#8A2BE2">Time Lock</font> и подкидывает его (Роботы на последней стадии не подкидываются).Перезарядка 8 сек  <br>
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Fetter: Накладывает на врага <font color="#8A2BE2">Time Lock</font> и подкидывает его (Роботы на последней стадии не подкидываются).Время восстановления 8 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate skill - Valkyrie Refuge: При активации выплёскивает энергию валькирии и каждые 0.5 сек восстанавливает HP команде.Чтобы активировать нужно 75SP , потребляет 20 SP при активации и 10 SP/сек  <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Protection: Увеличивает элементный урон всей команде на 28%. Так же даёт к нему защиту на 24% <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Protection: Увеличивает элементный урон всей команде на <font color="#2196F3">28%</font>. Так же даёт к нему защиту на <font color="#2196F3">24%</font> <br>
 Рекомендации:<br>
 
 <pre><img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:
@@ -23,7 +43,7 @@ Skill:<br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rowland_t.txt"style="text-decoration: none;"><font color="#000000">Rowland (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
-Сетап помогать создавать условие для QTE другим валькириям.<br>
+Помогает создавать условие для QTE другим валькириям.<br>
 <br>
 
 <img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font><br>

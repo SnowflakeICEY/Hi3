@@ -36,9 +36,9 @@ Load      6   7   8</pre>
 
 <img src = "file:///android_res/drawable/stig_karl_b.png" width="300" height= "300">
 
-Комплект стигмат:<br>
+Бонус комплекта:<br>
 
-Комплект	Бонус комплекта:<br>
+
 
 2		При SP выше 70%, уменьшает ATK и DEF окружающих противников на 20%.<br>
 
