@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 Bronya Sloth(B):<br>
 
 
@@ -14,4 +25,7 @@ Load     9   10  11  12</pre>
 
 
 
-<img src = "file:///android_res/drawable/stig_bronya.png">  
+<br><img src = "file:///android_res/drawable/stig_bronya.png">  
+
+</body>
+</html>

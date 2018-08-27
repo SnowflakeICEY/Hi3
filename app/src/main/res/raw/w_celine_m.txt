@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Celine (M)      
+Редкость 4   5
+Уровень  35  50
+HP       338 531      
+ATK      0   0       
+DEF      99  158       
+CRT      3   4       
+Load     9   12</pre>
+Навык: Уменьшает получаемый элементальный урон на 15/?/?/30%.<br> Если есть дебафф, шанс 20% убрать его при ударе.
+
+<br><img src = "file:///android_res/drawable/stig_celine_m.png"width ="300" height = "300">

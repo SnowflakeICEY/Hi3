@@ -1,7 +1,18 @@
-﻿
-<pre>Shennong`s Guardians
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
 
-Редкость 4   4/1 4/2 5
+<body bgcolor="#cccccc" > 
+Shennong`s Guardians:
+<pre>Редкость 4   4/1 4/2 5
 Уровень  35  40  45  50
 ATK      181 ?   ?   285
 CRT      12  ?   ?   22
@@ -12,6 +23,7 @@ Load     14  15  17  18</pre>
 снижая силу атаки на 46/?/?/70%.<br>
 Остальные враги, не попавшие в эту область не могут быть выбраны целью
 и получают меньше урона. Эффект длится 7.60/?/?/9.98 секунд
-Пассивный навык:Увеличивает на 30/?/?/50% урон врагам со статусом слабости.
-<img src = "file:///android_res/drawable/weapon_guns_shennong.png">
-
+Пассивный навык:Увеличивает на 30/?/?/50% урон по врагам со статусом слабости.
+<br><img src = "file:///android_res/drawable/weapon_guns_shennong.png" class="img-responsive">
+</body>
+</html>

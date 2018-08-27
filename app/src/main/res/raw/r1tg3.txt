@@ -1,7 +1,17 @@
-﻿
-<pre>Fafnir Flame
-
-Редкость 4   4/1 4/2 5
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Fafnir Flame:
+<pre>Редкость 4   4/1 4/2 5
 Уровень  35  40  45  50
 ATK      156 ?   ?   248
 CRT      28  ?   ?   43
@@ -11,4 +21,6 @@ Load     14  15  17  18</pre>
 каждая волна наносит 87/?/?/115% физического урона от ATK и накладывает эффект горения,
 нанося 56/?/?/159 огненного урона каждые 0.5 секунд, в течение 3 секунд.<br>
 Пассивный навык:Увеличивает физический урон на 13/?/?/18% Во время ультимативного навыка.
-<img src = "file:///android_res/drawable/weapon_guns_fafnir.png">
+<br><img src = "file:///android_res/drawable/weapon_guns_fafnir.png" class="img-responsive">
+</body>
+</html>

@@ -1,1 +1,14 @@
+
 <body bgcolor="#cccccc" >
+<pre>Celine (T)       
+Редкость 4   5
+Уровень  35  50
+HP       230 362       
+ATK      79  125       
+DEF      22  35       
+CRT      3   4
+Load     9   12</pre>
+Навык: Увеличивает физический урон в ближнем бою на 15/?/?/25%.<br> Увеличивает физический урон по врагам в воздухе на 10/?/?/20%. 
+
+<br><img src = "file:///android_res/drawable/stig_celine_t.png"  width ="300" height = "300">
+   

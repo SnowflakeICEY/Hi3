@@ -18,7 +18,7 @@ body {
    }
 </style>
 <ul>
-<p align="center"<li onClick="toggle_show('kiana')" type="none"><img src = "file:///android_res/drawable/emoji_comet.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*White comet<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20" align= "top" align= "middle"></p>
+<p align="center"><li onClick="toggle_show('kiana')" type="none"><img src = "file:///android_res/drawable/emoji_comet.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*White comet<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20" align= "top" align= "middle"></p>
 <ul id="kiana" style="display: none" type="none"  >
 <li>
 Kiana Kaslana:<br>
@@ -48,14 +48,14 @@ QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height
 <img src = "file:///android_res/drawable/emoji_impulse.png" width="20" height= "20"align= "top" align= "middle">Crimson Impulse  >>><br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tg6.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_b.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (B)</font></a><br>
 Увеличивает урон по врагам без элитного щита и по  врагам в стане.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tg8.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_band_t.txt" style="text-decoration: none;"><font color="#000000">Tesla: Band (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt" style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt" style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>

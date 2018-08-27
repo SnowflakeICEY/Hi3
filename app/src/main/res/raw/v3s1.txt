@@ -40,8 +40,8 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
 <img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0ts0.txt"style="text-decoration: none;"><font color="696969">Nitro Crystal</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_m.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (B)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_m.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla</font></a></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila</font></a><br>
 Шанс <font color="#6495ED">заморозить</font> врага,увеличивает физический урон.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>

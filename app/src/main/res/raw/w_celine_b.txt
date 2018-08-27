@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Celine (B)         
+Редкость 4   5
+Уровень  35  50
+HP       276 386     
+ATK      36  42      
+DEF      44  70       
+CRT      7   11       
+Load     9   12</pre>
+Навык: После успешного уклонения, урон следующих базовых атак будет увеличен на 20/?/?/35%, время восстановления 1.5 сек.
+
+<br><img src = "file:///android_res/drawable/stig_celine_b.png" width ="300" height = "300">

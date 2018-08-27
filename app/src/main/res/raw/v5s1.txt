@@ -66,7 +66,7 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr1.txt"style="text-decoration: none;"><font color="#000000">Blood Embrace</font><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dracula_t.txt"style="text-decoration: none;"><font color="#000000">Dracula (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kepler_m.txt"style="text-decoration: none;"><font color="#000000">Kepler (M)</font></a>/<a href="file:///android_res/raw/w_tesla_band_m.txt"style="text-decoration: none;"><font color="#000000">Tesla: band (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_band_m.txt"style="text-decoration: none;"><font color="#000000">Tesla: band (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_b.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (B)</font></a><br>
 Легче повесить дебафф <font color="#FF4500">кровотечение</font>. Увеличивает урон по врагам с <font color="#FF4500">кровотечением</font>  и по <font color="#FFD700">парализованым</font> врагам.<br>
 

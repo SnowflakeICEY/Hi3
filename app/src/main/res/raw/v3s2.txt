@@ -55,10 +55,10 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts5.txt"style="text-decoration: none;"><font color="696969">Schwert Gewehr</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (B)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_b.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (B)</font></a><br>
 Увеличивает урон по парализованым целям и  <font color="#FFFF00">lightning</font> урон.<br>
 <br>
-<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts1.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts2.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_band_t.txt"style="text-decoration: none;"><font color="#000000">Tesla: Band (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>

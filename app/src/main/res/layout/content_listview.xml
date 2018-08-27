@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".GuidActivity">
-
     <ListView
         android:id="@+id/listView"
         android:layout_marginTop="?attr/actionBarSize"

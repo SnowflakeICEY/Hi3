@@ -20,15 +20,15 @@ body {
 
 <body bgcolor="#cccccc" >
 <img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik * Black Nucleus<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"><br>
-<img src = "file:///android_res/drawable/valk_black.png"width="112" height= "98"align= "left">Awakening Soul(Snowy Sniper). Используется только на ранге sS и выше. <br>
+<img src = "file:///android_res/drawable/valk_black.png"width="112" height= "98"align= "left">Awakening Soul(Snowy Sniper). <br>
 
 <img src = "file:///android_res/drawable/valk_black_stat.png" width="300" height= "240">
 <br>
-QTE::<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle">Враг в воздухе<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle">Time Fracture/Time Lock<br>
+QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle">Враг в воздухе, <img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle">Time Fracture/Time Lock<br>
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimensional Interruption: При успешном уклонении переходит в режим "Стелса", время восстановления 20 сек. Когда в "Стелсе" не может стать целью врагов,блокирует весь входящий урон и невосприимчива к негативным эффектам при атаке. Значительно увеличивает скорость передвижения и скорость атаки. Также статус "Стелс" убирается при нажатии кнопки атаки, при использовании ультимативного навыка или навыка оружия и при переключении персонажей.<br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Universal Murder: При активации бомбандирует обозначенную зону. Создаёт обездвиживающее поле вокруг цели и окружающих её врагов, нанося физический урон, равный 20х80% от АТК. Стоимость 125 SP.<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Virtual Maneuver: Уменьшает время восстановления эффектов таких как  успешный уворот и успешная защита на <font color="#2196F3">3.5<font> сек всей команде.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Virtual Maneuver: Уменьшает время восстановления эффектов таких как  успешный уворот и успешная защита на <font color="#2196F3">3.5<font><font> сек всей команде.<br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
@@ -57,9 +57,9 @@ QTE::<img src = "file:///android_res/drawable/effect_float.png" width="20" heigh
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sin_b.txt"style="text-decoration: none;"><font color="#000000">Sin Mal (B)</font></a><br>
 Увеличивает физический урон, увеличивает физический урон и шанс критического удара в режиме "Стелс".<br>
 <br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc9.txt"style="text-decoration: none;"><font color="696969">Flint Sanada</font></a></<a href="file:///android_res/raw/r1tc2.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
-<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_sin_b.txt"style="text-decoration: none;"><font color="#000000">Sin Mal (B)</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc9.txt"style="text-decoration: none;"><font color="696969">Flint Sanada</font></a>/<a href="file:///android_res/raw/r1tc2.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sin_b.txt"style="text-decoration: none;"><font color="#000000">Sin Mal (B)</font></a><br>
 Увеличивает физический урон, увеличивает шанс критического удара после режима "Стелс" .<br>
 

@@ -1,12 +1,10 @@
-<body bgcolor="#cccccc" >
-<pre>William Shakespeare(T):
+<pre>William Shakespeare(B):
 Редкость 4   4/1  4/2  5
 Уровень  35  40   45  50
-HP       337 ?    ?   530        
-ATK      58  ?    ?   91        
-DEF      81  ?    ?   118       
-CRT      0   0    0   0        
+HP       337 ?    ?   530       
+ATK      29  ?    ?   45        
+DEF      81  ?    ?   118           
+CRT      7   ?    ?   10       
 Load     9   10   11  12</pre>
-Навык:		Увеличивает урон молнией на 34%/?/?/51%<br>
-
-<br><img src = "file:///android_res/drawable/stig_shakespeare_t.png" width="300" height= "300">
+Навык:		Увеличивает урон льдом на 34%/?/?/51%<br>
+<br><img src = "file:///android_res/drawable/stig_shakespeare_b.png" width="300" height= "300">

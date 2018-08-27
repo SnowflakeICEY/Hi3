@@ -1,1 +1,11 @@
-<body bgcolor="#cccccc" >
+<pre>Yodo Dono(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        235 286 341
+ATK       0   0   0
+DEF       29  36  43
+CRT       4   5   6 
+Load      6   7   8</pre>
+Навык:       Увеличивает наносимый огнем урон на 19 / 26 / 31 % и сокращает получаемый огнем урон на 20 %. <br>
+
+<br><img src = "file:///android_res/drawable/stig_yodo_m.png"  widht = "300" height = "300">
