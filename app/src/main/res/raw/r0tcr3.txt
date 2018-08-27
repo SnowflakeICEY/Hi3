@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+ Ai-Chan's Candy
+<pre>Редкость: 3   3/1 4
+Уровень:  25  30  35
+АТК:      123 ?   178
+CTR:      11  ?   17
+Load:     9   11  12</pre>
+Активный навык(Стоимость SP: 15, перезарядка: 15 сек): Призывает крест на 8 сек,каждые 0.8 сек с неба в области падает конфета,которая наносит 662 физического урона.
+
+<br><img src = "file:///android_res/drawable/weapon_crosses_aichan.png" class="img-responsive">
+
+</body>
+</html>

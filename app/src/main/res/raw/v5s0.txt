@@ -18,11 +18,11 @@ body {
    }
 </style>
 <ul>
-<p align="center"	<li onClick="toggle_show('theresa')" type="none"><img src = "file:///android_res/drawable/emoji_theresa.png" width="20" height= "20"align= "top" align= "middle" align="left">Theresa Apocalypse*Valkyrie Pledge<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center">	<li onClick="toggle_show('theresa')" type="none"><img src = "file:///android_res/drawable/emoji_theresa.png" width="20" height= "20"align= "top" align= "middle" align="left">Theresa Apocalypse*Valkyrie Pledge<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 		<ul id="theresa" style="display: none" type="none"  >
 			<li>
 			Theresa Apocalypse:<br>
- Возраст: 12(~45)<br>
+ Возраст: 12(~45):
  День рождения 28 Марта<br>
  Рост 145<br>
  Вес 38<br>
@@ -53,20 +53,20 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tcr0.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_t.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
 Увеличивает урон.<font color="#FFD700">Парализует</font> врагов при критическом ударе.<br>
 <br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tcr0.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_b.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (B)</font></a><br>
 Увеличивает физический урон. Увеличивает скорость атаки и физический урон после использовании активного скилла оружия. Уменьшает время перезарядки оружия. <br>
 
 <br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr0.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_b.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (B)</font></a><br>
@@ -74,7 +74,7 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr0.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>

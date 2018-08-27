@@ -10,4 +10,4 @@ Load      6   7   8</pre>
 Навык:      При SP выше 70%, каждые дополнительные 5% SP повышают физический урон от
                                    обычной атаки (включая комбо и заряженные атаки) на 2 / 3 / 4 %<br>
 
-<img src = "file:///android_res/drawable/stig_karl_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_karl_t.png" width="300" height= "300">

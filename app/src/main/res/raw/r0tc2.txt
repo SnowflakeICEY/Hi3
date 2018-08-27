@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Cathode Type-07:
+<pre>АТК     CRT
+188     3</pre>
+Активный навык:	(Стоимость SP: 7, перезарядка: 20 сек):
+	Создает поле вокруг себя, поле снижает скорость атаки противника и скорость его передвижения на 80%, длится 8 сек.<br>
+Пассивный навык: Лазер.
+<br><img src = "file:///android_res/drawable/weapon_cannon_cathode_7.png" class="img-responsive">
+</body>
+</html>

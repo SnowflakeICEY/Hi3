@@ -9,4 +9,4 @@ CRT      5   ?    ?   7
 Load     9   10   11  12</pre>
 Навык:		При полном HP увеличивает физический урон на 29%/?/?/46%.<br>
 
-<img src = "file:///android_res/drawable/stig_lier_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_lier_b.png" width="300" height= "300">

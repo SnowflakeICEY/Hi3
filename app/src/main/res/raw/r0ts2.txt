@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Ion Resonance:
+<pre>АТК     CRT
+171     27</pre>
+Активный навык:	(Стоимость SP: 15, перезарядка: 10 сек):
+	Атакует врагов электрической энергией, наносит 3*743 АОЕ lightning урона по врагу и его окружению, парализует врагов на 2 сек.<br>
+<br><img src = "file:///android_res/drawable/weapon_greatsword_ion.png" class="img-responsive">
+</body>
+</html>

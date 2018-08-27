@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Crystal Edge:
+<pre>Редкость:3   3/1 4
+Уровень: 25  30  35
+ATK:	 117 ?   169
+CRT:	 21  ?   29
+Load:	 9  11   12</pre>
+Активный навык(Стоимость SP: 10, перезарядка: 18 сек):
+	Выпускает кристаллическую энергию, замораживая цель и ближайших противников в малом радиусе на 3.12/?/4.00 сек.
+	<br><img src = "file:///android_res/drawable/weapon_katana_crystal.png" class="img-responsive">
+</body>
+</html>

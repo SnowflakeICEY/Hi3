@@ -8,4 +8,4 @@ DEF      122 ?   ?   171
 CRT      14  ?   ?   24
 Load     9   10  11  12</pre>
 Навык:		Уменьшает время перезарядки способности оружия на 10%/?/?/40%. После использования способности оружия увеличивает DEF на 30%/?/?/50% на 6 секунд.<br>
-<img src = "file:///android_res/drawable/stig_siegfried_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_siegfried_m.png" width="300" height= "300">

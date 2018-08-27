@@ -12,4 +12,4 @@ Load     9   10  11  12</pre>
 		Когда счетчик комбо выше 50, увеличивает DEF на 48%/?/?/82%.<br>
 		Когда счетчик комбо выше 100, увеличивает DEF на 72%/?/?/123%.<br>
 
-<img src = "file:///android_res/drawable/stig_zhuge_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_zhuge_b.png" width="300" height= "300">

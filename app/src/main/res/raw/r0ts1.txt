@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Vanguard:
+<pre>АТК     CRT
+183     10</pre>
+Активный навык:	(Стоимость SP: 15, перезарядка: 8 сек):
+	Ударяет врага, подкидывет его и наносит урон, равный 449% от АТК.<br>
+<br><img src = "file:///android_res/drawable/weapon_greatsword_vanguard.png" class="img-responsive">
+</body>
+</html>

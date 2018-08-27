@@ -13,27 +13,27 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".StigmataActivity"
-            android:label="Стигматы"
+            android:label="@string/title_activity_stigmata"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".StigmataViewActivity"
-            android:label="Honkai"
+            android:label="@string/title_activity_stigmata"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ValkyriaActivity"
-            android:label="Валькирии"
+            android:label="@string/title_activity_valkuria"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ValkyriaViewActivity"
-            android:label="Honkai"
+            android:label="@string/title_activity_valkuria"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".HonkaiActivity"
-            android:label="Honkai Impact"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".HonkaiStart"
-            android:label="Honkai"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -47,11 +47,11 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".TableActivity"
-            android:label="@string/title_activity_table"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".GuidActivity"
-            android:label="@string/title_activity_guid"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".GuidViewActivity"
@@ -60,6 +60,58 @@
         <activity
             android:name=".SettingsActivity"
             android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CannonsActivity"
+            android:label="@string/title_activity_cannons_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CrossesActivity"
+            android:label="@string/title_activity_crosses_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SwordsActivity"
+            android:label="@string/title_activity_swords_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GreatswordsActivity"
+            android:label="@string/title_activity_greatswords_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GunsActivity"
+            android:label="@string/title_activity_guns_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CannonsViewActivity"
+            android:label="@string/title_activity_cannons_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SwordsViewActivity"
+            android:label="@string/title_activity_swords_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CrossesViewActivity"
+            android:label="@string/title_activity_crosses_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GunsViewActivity"
+            android:label="@string/title_activity_guns_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GreatswordsViewActivity"
+            android:label="@string/title_activity_greatswords_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TableViewActivity"
+            android:label="@string/title_activity_table_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".QiwiActivity"
+            android:label="@string/title_activity_qiwi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ThankActivity"
+            android:label="@string/title_activity_thank"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

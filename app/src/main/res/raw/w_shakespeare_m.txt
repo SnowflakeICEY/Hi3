@@ -9,4 +9,4 @@ CRT      10  ?    ?   15
 Load     9   10   11  12</pre>
 Навык:		Увеличивает урон огнем на 34%/?/?/51%<br>
 
-<img src = "file:///android_res/drawable/stig_shakespeare_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shakespeare_m.png" width="300" height= "300">

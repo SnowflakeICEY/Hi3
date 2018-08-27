@@ -19,36 +19,36 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<img src = "file:///android_res/drawable/emoji.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*White comet<img src = "file:///android_res/drawable/mecha.png" width="20" height= "20"align= "top" align= "middle"><br>
+<br><img src = "file:///android_res/drawable/emoji.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*White comet<br><img src = "file:///android_res/drawable/mecha.png" width="20" height= "20"align= "top" align= "middle"><br>
 Может станит врагов через switch skill<br>
 
-<img src = "file:///android_res/drawable/valk_comet_stat.png" width="300" height= "240">
+<br><img src = "file:///android_res/drawable/valk_comet_stat.png" width="300" height= "240">
 <br>
-QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"> Враг в воздухе<br>
+QTE:<br><img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"> Враг в воздухе<br>
 <br>
-<img src = "file:///android_res/drawable/skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill <br>
-<img src = "file:///android_res/drawable/skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill <br>
-<img src = "file:///android_res/drawable/skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill <br>
+<br><img src = "file:///android_res/drawable/skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill <br>
+<br><img src = "file:///android_res/drawable/skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill <br>
+<br><img src = "file:///android_res/drawable/skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill <br>
 Рекомендации:<br>
 
-<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+<br><img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
 
-<img src = "file:///android_res/drawable/emoji.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot >>>><br>
-<img src = "file:///android_res/drawable/emoji.png" width="20" height= "20"align= "top" align= "middle">Crimson Impulse  >>><br>
+<br><img src = "file:///android_res/drawable/emoji.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot >>>><br>
+<br><img src = "file:///android_res/drawable/emoji.png" width="20" height= "20"align= "top" align= "middle">Crimson Impulse  >>><br>
 
 <br>
-<img src = "file:///android_res/drawable/weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/guns.png" width="25" height= "25"align= "top" align= "middle">Water Spirit Type-I<br>
-<img src = "file:///android_res/drawable/top.png" width="20" height= "20"align= "top" align= "middle"> Naoe Kanetsugu (T)<br>
-<img src = "file:///android_res/drawable/mid.png" width="20" height= "20"align= "top" align= "middle"> Elizabeth Bathory (M)<br>
-<img src = "file:///android_res/drawable/bot.png" width="20" height= "20"align= "top" align= "middle"> Nikola Tesla (B)<br>
+<br><img src = "file:///android_res/drawable/weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<br><img src = "file:///android_res/drawable/guns.png" width="25" height= "25"align= "top" align= "middle">Water Spirit Type-I<br>
+<br><img src = "file:///android_res/drawable/top.png" width="20" height= "20"align= "top" align= "middle"> Naoe Kanetsugu (T):
+<br><img src = "file:///android_res/drawable/mid.png" width="20" height= "20"align= "top" align= "middle"> Elizabeth Bathory (M):
+<br><img src = "file:///android_res/drawable/bot.png" width="20" height= "20"align= "top" align= "middle"> Nikola Tesla (B):
 Увеличение урона по врагам без элитный щита и по  врагам в стане.<br>
 <br>
-<img src = "file:///android_res/drawable/weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/guns.png" width="25" height= "25"align= "top" align= "middle">Mjolnir<br>
-<img src = "file:///android_res/drawable/top.png" width="20" height= "20"align= "top" align= "middle"> Tesla: Band (T)<br>
-<img src = "file:///android_res/drawable/mid.png" width="20" height= "20"align= "top" align= "middle"> Mei: Pool Party (M)<br>
-<img src = "file:///android_res/drawable/bot.png" width="20" height= "20"align= "top" align= "middle"> Isaac Newton (B)<br>
+<br><img src = "file:///android_res/drawable/weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<br><img src = "file:///android_res/drawable/guns.png" width="25" height= "25"align= "top" align= "middle">Mjolnir<br>
+<br><img src = "file:///android_res/drawable/top.png" width="20" height= "20"align= "top" align= "middle"> Tesla: Band (T):
+<br><img src = "file:///android_res/drawable/mid.png" width="20" height= "20"align= "top" align= "middle"> Mei: Pool Party (M):
+<br><img src = "file:///android_res/drawable/bot.png" width="20" height= "20"align= "top" align= "middle"> Isaac Newton (B):
 Увеличение физического урона.<br>
 
 

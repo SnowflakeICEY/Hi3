@@ -1,0 +1,42 @@
+<body bgcolor="#cccccc" >
+<pre> (T)       
+Редкость 4   5
+Уровень  35  50
+HP       215 338        
+ATK      74  117       
+DEF      33  53       
+CRT      4   7       
+Load     9   12</pre>
+Навык: . 
+
+<img src = "file:///android_res/drawable/stig_sin_t.png" width="300" height= "300">
+   
+<pre> (M)      
+Редкость 4   5
+Уровень  35  50
+HP       307 483      
+ATK      0   0       
+DEF      88  140       
+CRT      8   13       
+Load     9   12</pre>
+Навык: .
+
+<img src = "file:///android_res/drawable/stig_sin_m.png" width="300" height= "300">      
+   
+<pre> (B)         
+Редкость 4   5
+Уровень  35  50
+HP       261 411     
+ATK      36  53       
+DEF      33  57       
+CRT      9   12       
+Load     9   12</pre>
+Навык: .
+
+<img src = "file:///android_res/drawable/stig_sin_b.png" width="300" height= "300">
+
+Бонус комплекта:<br>
+
+2 .<br>
+
+3 В режиме "Стелс" восстанавливает 2% HP и SP каждые 0.9 сек.

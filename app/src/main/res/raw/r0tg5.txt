@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" >
+ Alloy Hurricane Revolver
+<pre>Редкость 3/0 4/0
+Уровень  15  35             
+ATK      90  149
+CRT      14  24
+Load     8   12</pre>
+Активный навык(Стоимость SP: 15, перезарядка: 20 сек):
+Кружится множество раз, чтобы порезать ближайших врагов, 
+каждый порез наносит 65/?/?/?/174 урона льдом. Взрывается в конце,
+Нанося физический урон в размере 240% от ATK.
+<br><img src = "file:///android_res/drawable/weapon_guns_hurricane_four.png" class="img-responsive">
+
+</body>
+</html>

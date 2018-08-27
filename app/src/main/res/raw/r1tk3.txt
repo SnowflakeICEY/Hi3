@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Fairy Sword Silven:
+<pre>АТК     CRT
+275     36</pre>
+Активный навык:	(Стоимость SP: 17, перезарядка: 38 сек):
+	Создаёт поле на 19 сек, которое увеличивает скорость атаки, скорость передвижения и урон союзников на 45%, 20% и 10% соответственно.<br>
+Пассивный навык: За каждые 10% к скорости передвижения увеличивает урон от всех атак на 5%, стак до 50%. Увеличивает скорость передвижения на 20%.
+<br><img src = "file:///android_res/drawable/weapon_katana_fairy.png" class="img-responsive">
+</body>
+</html>

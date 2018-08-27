@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Xuanyuan Katana:
+<pre>Редкость:3   4 
+Уровень: 25  35
+ATK:	 112 165
+CRT:	 10  16
+Load:	 9   12</pre>
+Навык:	(Стоимость SP: 14, перезарядка: 18 сек):
+	выпускает ледяную энергию, формируя ледяное поле, наносит 539/?/1.024 урона льдом по противникам и понижает их скорость передвижения на 60%
+	в течение 5 сек.
+	<br><img src = "file:///android_res/drawable/weapon_katana_xuanyuan.png" class="img-responsive">
+</body>
+</html>

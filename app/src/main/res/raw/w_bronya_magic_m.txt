@@ -1,0 +1,13 @@
+<body bgcolor="#cccccc" >
+
+<pre>Bronya: Magic(M):
+Редкость  3   4
+Уровень   25  35
+HP        226 325
+ATK       0   0
+DEF       53  72
+CRT       6   9
+Load      6   8</pre>
+Навык: Увеличивает дистанционный урон на 11/13/15%. Если экипировано на Броне, увеличивает максимальные HP в бою на 6/8/10%.   <br>
+
+<br><img src = "file:///android_res/drawable/stig_magic_m.png" width="300" height= "300">

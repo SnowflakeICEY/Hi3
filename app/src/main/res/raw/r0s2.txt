@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Dragon Boat Festival (M):
 Редкость  3   3/1 4
 Уровень   25  30  35
@@ -9,4 +20,8 @@ CRT       4   5   6
 Load      6   7   8</pre>
 Навык:      Шанс 10 % парализовать врага на 2 сек.    Перезарядка 8 / ? / 5 сек<br>
 
-<img src = "file:///android_res/drawable/stig_dragon_festival_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_dragon_festival_m.png"  class="img-responsive">
+
+
+</body>
+</html>

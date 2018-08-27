@@ -2,8 +2,6 @@ package ru.alexandercold.a3rd;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
@@ -13,21 +11,20 @@ import android.widget.ListView;
 
 public class HonkaiActivity extends AppCompatActivity {
 
-    String[] point = {"Валькирии", "Стигматы","Оружие","Таблицы","Гайды","Армады(В разработке)","Анонсы(В разработке)"}; //Список элементов ListView
+    String[] point = {"Валькирии", "Стигматы","Оружие","Таблицы","Гайды","Армады",}; //Список элементов ListView
     Intent intent; //Переменная Intent для возможности нескольких использований
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_honkai2);
-
+        setContentView(R.layout.activity_honkai);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
+       // getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.CYAN));
         // находим список
         ListView listView = (ListView) findViewById(R.id.listView);
-
         // создаем адаптер
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, point);
@@ -51,6 +48,9 @@ public class HonkaiActivity extends AppCompatActivity {
                         break;
                     case 4:
                         intent = new Intent(HonkaiActivity.this, GuidActivity.class);
+                        break;
+                    case 5:
+                        intent = new Intent(HonkaiActivity.this, HonkaiActivity.class);
                         break;
                 }
                 startActivity(intent);

@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Pulse katana Type-19:
+<pre>Редкость:3   4
+Уровень: 25  35
+ATK:	 125 182
+CRT:	 7   12
+Load:	 9   12</pre>
+Пассивный навык: уменьшает стоимость SP для активации навыка на 17/?/23%
+		(минимальное требование SP для активации навыка остается тем же).
+		<br><img src = "file:///android_res/drawable/weapon_katana_pulse_type_19.png" class="img-responsive">
+</body>
+</html>

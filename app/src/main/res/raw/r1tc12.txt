@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Lurker's Cannon
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      139 ?   ?   234
+CRT      16  ?   ?   28
+Load     14  15  17  18</pre>
+Активный навык(Стоимость SP: 18, перезарядка: 12 сек): Делает несколько ударов по земле, откидывая врагов. Каждый удар наносит 94/?/?/120% от атаки и станит на 1.81/?/?/2.55 секунд. Дает короткий прирост скорости передвижения после активации.<br>
+Пассивный навык: Пушка.<br>
+<br><img src = "file:///android_res/drawable/weapon_cannon_lurker.png" class="img-responsive">
+</body>
+</html>

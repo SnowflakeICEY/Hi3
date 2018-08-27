@@ -38,20 +38,20 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Cathode Type-09</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tc0.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Cathode Type-09</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)<font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_b.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (B)</font></a><br>
 Увеличивает физический урон после активации скилла оружия, уменьшает время восстановления скилла оружия.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Quantum Destroyer Type-II</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc7.txt"style="text-decoration: none;"><font color="696969">Quantum Destroyer Type-II</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nagamitsu_t.txt"style="text-decoration: none;"><font color="#000000">Nagamitsu (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nagamitsu_m.txt"style="text-decoration: none;"><font color="#000000">Nagamitsu (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nagamitsu_b.txt"style="text-decoration: none;"><font color="#000000">Nagamitsu (B)</font></a><br>
 <font color="#6495ED">Замораживает</font> врагов вокруг и увеличивает физический урон.<br>
 <br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc2.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_band_t.txt"style="text-decoration: none;"><font color="#000000">Tesla: Band (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_band_m.txt"style="text-decoration: none;"><font color="#000000">Tesla: Band (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_band_b.txt"style="text-decoration: none;"><font color="#000000">Tesla: Band (B)</font></a><br>

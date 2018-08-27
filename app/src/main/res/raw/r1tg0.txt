@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" > 
+2nd Sacred Relic:
+<pre>Редкость 4  4/1  4/2  5
+Уровень  35   40   45   50
+ATK      161  ?    ?    254
+CRT      41   ?    ?    58
+Load     14   15   17   18</pre>
+Пассивный навык:Увеличивает получаемый SP на 23/?/?/35%<br>
+Добавляет дополнительные 19/?/?/50 элементального lightning урона каждый удар.
+<br><img src = "file:///android_res/drawable/weapon_guns_sacred.png" class="img-responsive">
+</body>
+</html>

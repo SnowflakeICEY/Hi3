@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>William Shakespeare(T):
 Редкость 4   4/1  4/2  5
 Уровень  35  40   45  50
@@ -9,7 +20,7 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		Увеличивает урон молнией на 34%/?/?/51%<br>
 
-<img src = "file:///android_res/drawable/stig_shakespeare_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shakespeare_t.png"  class="img-responsive">
 
 <pre>William Shakespeare(M):
 Редкость 4   4/1  4/2  5
@@ -21,7 +32,7 @@ CRT      10  ?    ?   15
 Load     9   10   11  12</pre>
 Навык:		Увеличивает урон огнем на 34%/?/?/51%<br>
 
-<img src = "file:///android_res/drawable/stig_shakespeare_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shakespeare_m.png"  class="img-responsive">
 
 <pre>William Shakespeare(B):
 Редкость 4   4/1  4/2  5
@@ -33,7 +44,7 @@ CRT      7   ?    ?   10
 Load     9   10   11  12</pre>
 Навык:		Увеличивает урон льдом на 34%/?/?/51%<br>
 
-<img src = "file:///android_res/drawable/stig_shakespeare_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shakespeare_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -46,3 +57,7 @@ Load     9   10   11  12</pre>
 
 
 
+
+
+</body>
+</html>

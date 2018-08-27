@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 
 
 <pre>Einstein(T):
@@ -11,7 +22,7 @@ DEF      75  ?   ?   110
 Load     9   10  11  12</pre>
 Навык:		При Hp менее 33% увеличивает Весь наносимый урон на 28%/?/?/41%.<br>
 
-<img src = "file:///android_res/drawable/stig_einstein_t.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_einstein_t.png"  class="img-responsive">
 
 <pre>Einstein(M):
 Редкость 4   4/1 4/2 5
@@ -23,7 +34,7 @@ CRT      9   ?   ?   14
 Load     9   10  11  12</pre>
 Навык:		При Hp менее 33% уменьшает получаемый урон с расстояния на 28%/?/?/41%.<br>
 
-<img src = "file:///android_res/drawable/stig_einstein_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_einstein_m.png"  class="img-responsive">
 
 
 <pre>Einstein(B):
@@ -36,7 +47,7 @@ CRT      6   ?   ?   9
 Load     9   10  11  12</pre>
 Навык:		При Hp менее 33% увеличивает DEF на 22%/?/?/31%.<br>
 
-<img src = "file:///android_res/drawable/stig_einstein_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_einstein_b.png"  class="img-responsive">
 
 
 Бонус комплекта:<br>
@@ -54,3 +65,7 @@ Load     9   10  11  12</pre>
 
 
 
+
+
+</body>
+</html>

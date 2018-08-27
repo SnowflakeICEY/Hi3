@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Pulse Katana Type-17:
+<pre>Редкость:3   4
+Уровень: 25  35
+ATK:	 129 188
+CRT:	 0   3
+Load:	 9   12</pre>
+Навык:	(Стоимость SP: 14, перезарядка: 12 сек):
+	выпускает 6 воздушных клинков, нанося клиноком 219/?/488 ледяного урона,
+	и понижающий у противника скорость передвижения и атаки на 70% в течение 2.5 сек.
+	<br><img src = "file:///android_res/drawable/weapon_katana_pulse_type_17.png" class="img-responsive">
+</body>
+</html>

@@ -10,4 +10,4 @@ Load      6   7   8</pre>
 Навык:      Заряжается каждые 9 / ? / 6 сек. Следующая обычная атака (включая комбо и заряженные атаки) 
                                    наносит дополнительно 324 / ? / 510 электрического урона.<br>
 
-<img src = "file:///android_res/drawable/stig_edison_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_edison_t.png" width="300" height= "300">

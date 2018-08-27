@@ -8,4 +8,4 @@ CRT      9   ?    ?   12
 Load     9   10   11  12</pre>
 Навык: Увеличивает скорость атаки на 25% и шанс критического удара на 20% в режиме "Стелс", эффект продолжается ещё 6 сек после выхода из режима.
 
-<img src = "file:///android_res/drawable/stig_sin_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_sin_b.png" width="300" height= "300">

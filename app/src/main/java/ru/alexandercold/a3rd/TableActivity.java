@@ -1,29 +1,48 @@
 package ru.alexandercold.a3rd;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 public class TableActivity extends AppCompatActivity {
-
+private String tab[] = {"Уровни","QTE(облегчённая версия)",};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_table);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+        // Получим идентификатор ListView
+        ListView listView = findViewById(R.id.listView);
+        //устанавливаем массив в ListView
+        listView.setAdapter(
+                new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, tab));
+        listView.setTextFilterEnabled(true);
+
+        //Обрабатываем щелчки на элементах ListView:
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            public void onItemClick(AdapterView<?> a, View v, int position, long id) {
+                Intent intent = new Intent();
+                intent.setClass(TableActivity.this, TableViewActivity.class);
+
+                intent.putExtra("tab", position);
+
+                //запускаем вторую активность
+                startActivity(intent);
             }
         });
     }
-
+    @Override
+    public boolean onSupportNavigateUp() {
+        onBackPressed();
+        return true;
+    }
 }

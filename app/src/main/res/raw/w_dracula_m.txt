@@ -9,4 +9,4 @@ CRT      8   ?   ?   13
 Load     9   10  11  12</pre>
 Навык:		Восстанавливает владельцу 1.5%/?/?/3.0% HP и 1.5%/?/?/3.0% SP при попадании по противникам с кровотечением. Перезарядка 4 секунды.<br>
 
-<img src = "file:///android_res/drawable/stig_dracula_m.jpg" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_dracula_m.jpg" width="300" height= "300"> 

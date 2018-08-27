@@ -1,0 +1,12 @@
+<body bgcolor="#cccccc" >
+
+<pre>Bronya: Magic(T):
+Редкость  3   4
+Уровень   25  35  
+HP        226 325
+ATK       38  55
+DEF       53  72
+CRT       0   0
+Load      6   8</pre>
+Навык: Увеличивает урон от charge атак на 13/?/20%.
+<br><img src = "file:///android_res/drawable/stig_magic_t.png" width="300" height= "300">

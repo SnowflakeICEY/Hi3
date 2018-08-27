@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Fire Spirit Type-1
+<pre>Редкость 3/0 3/1 4/0
+Уровень  25  30  35
+ATK      129 ?   188
+CRT      0   ?   3
+Load     9   11  12</pre>
+Пассивный навык: Шанс 7/?/10% наложить эффект горения, который наносит 76/?/119 урона,
+каждые 0.5 секунд в течение 1.65/?/2.06 сек.
+<br><img src = "file:///android_res/drawable/weapon_guns_fire1.png" class="img-responsive">
+</body>
+</html>

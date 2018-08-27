@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body bgcolor="#cccccc" > 
+Cyclops PRI
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      156  ?  ?   248
+CRT      28   ?  ?   43
+Load     14   15 17  18</pre>
+Пассивный навык: Пушка. Увеличивает урон на 12/?/?/20%, если на поле боя не больше 2 противников.<br>
+При попадании помечает врага на 5 секунд. Если за это время он умирает, то взрывается, нанося урон в размере 320/?/?/400% от атаки окружающим врагам.<br>
+
+</body>
+</html>
+<br><img src = "file:///android_res/drawable/weapon_cannon_cyclops.png" class="img-responsive">
+</body>
+</html>

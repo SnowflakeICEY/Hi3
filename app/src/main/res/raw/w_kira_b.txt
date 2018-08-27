@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Shigure Kira(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        233 ?   338
+ATK       22  ?   31
+DEF       19  ?   28
+CRT       5   ?   7
+Load      9   ?   12</pre>
+Навык: После успешного уклонения увеличивает элементальный огненный/ледяной/lightning урон на 8/?/20%, следующие 5 сек. Повторное уклонение во время баффа возобновляет его.<br>
+
+<br><img src = "file:///android_res/drawable/stig_kira_b.png" width="300" height= "300">

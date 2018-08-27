@@ -11,4 +11,4 @@ Load     9   10  11  12</pre>
 
 Навык:	Когда владелец неактивен, увеличивает союзникам скорость передвижения на 5%/?/?/10%. Когда владелец активен, увеличивает собственный наносимый молниевый урон на 20%/?/?/35% и скорость передвижения на 5%/?/?/10%.<br>
 
-<img src = "file:///android_res/drawable/stig_tesla_band_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_tesla_band_b.png" width="300" height= "300">

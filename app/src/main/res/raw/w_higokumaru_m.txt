@@ -10,5 +10,5 @@ CRT      4   ?    ?   7
 Load     9   10   11  12</pre>
 Навык: Уменьшает получаемый физический урон на 15/?/?/30%, после успешного уклонения higokumaru с силой атаки 200/?/?/600, создаёт горящий столб,который наносит огненный элементальный урон,равный 500% от силы атаки Higokumaru, время восстановления навыка Higokumaru 10 сек.
 
-<img src = "file:///android_res/drawable/stig_higokumaru_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_higokumaru_m.png" width="300" height= "300">
 

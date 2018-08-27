@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+MagStorm:
+<pre>Редкость: 4   4/1 4/2 5
+Уровень:  35  40  45  50
+ATK:	  190 ?   ?   298
+CRT:	  0   ?   ?   6
+Load:	  14  15  17  18</pre>
+Активный навык:	(Стоимость SP: 20, перезарядка: 15 сек):
+	Выпускает две магнитных бури после рывка вперед, нанося каждым по 745/?/?/1.920 урона молнией и парализуя противников на 2.26/?/?/2.50 сек.<br>
+Пассивный навык:	Увеличивает весь наносимый урон молнией на 28/?/?/40%.
+<br><img src = "file:///android_res/drawable/weapon_katana_magstorm.png" class="img-responsive">
+</body>
+</html>

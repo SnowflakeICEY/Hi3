@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Candy Sword:
+<pre>АТК     CRT
+221     24</pre>
+Пассивный навык: При критическом ударе, призывает 3 существ, каждое существо наносит 149.7% физического урона от АТК, время восстановления 8 сек.<br>
+Увеличивает физический урон на 15%, при комбо выше 10.
+<br><img src = "file:///android_res/drawable/weapon_katana_candy.png" class="img-responsive">
+</body>
+</html>

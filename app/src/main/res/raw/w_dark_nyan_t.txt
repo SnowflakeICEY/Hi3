@@ -9,4 +9,4 @@ CRT      ?   ?    ?   ?
 Load     9   10   11  12</pre>
 Навык: При активации Time Fracture наносит 300/?/?/450% физического урона от АТК противнику поблизости и отбрасывает его. Перезарядка 20 сек.
 
-<img src = "file:///android_res/drawable/stig_dark_nyan_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_dark_nyan_t.png" width="300" height= "300">

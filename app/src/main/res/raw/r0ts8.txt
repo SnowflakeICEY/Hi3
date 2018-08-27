@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Alloy Betrayer's Greatsword:
+<pre>АТК     CRT
+160     10</pre>
+Активный навык:	(Стоимость SP: 12, перезарядка: 10 сек):
+	Стреляет шестью ракетами, каждая наносит АОЕ физический урон, равный 199% от АТК.<br>
+<br><img src = "file:///android_res/drawable/weapon_greatsword_betrayer.png" class="img-responsive">
+</body>
+</html>

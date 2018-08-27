@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Markov Type A:
+<pre>АТК     CRT
+163     38</pre>
+Пассивный навык: Пушка. При попадании 60% шанс поджечь врага на 4.08 сек. Поджог наносит 149 элементального огненного урона каждые 0.5 сек.
+<br><img src = "file:///android_res/drawable/weapon_cannon_markov_a.png" class="img-responsive">
+</body>
+</html>

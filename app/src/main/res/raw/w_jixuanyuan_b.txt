@@ -9,4 +9,4 @@ CRT      0   ?    ?   1
 Load     9   10   11  12</pre>
 Навык:		Увеличивает ВЕСЬ наносимый урон от активной способности оружия на 24%/?/?/41%.<br>
 
-<img src = "file:///android_res/drawable/stig_nyan_b.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_nyan_b.png" width="300" height= "300"> 

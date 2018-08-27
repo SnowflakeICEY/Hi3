@@ -10,4 +10,4 @@ Load     9   10  11  12</pre>
 
 Навык:		Увеличивает молниевый урон на 35%/?/?/55%, когда персонаж призывает кого-то на поле боя.<br>
 
-<img src = "file:///android_res/drawable/stig_otto_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_otto_b.png" width="300" height= "300">

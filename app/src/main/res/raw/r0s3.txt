@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Edison(T):
 Редкость  3   3/1 4
 Уровень   25  30  35  
@@ -10,7 +21,7 @@ Load      6   7   8</pre>
 Навык:      Заряжается каждые 9 / ? / 6 сек. Следующая обычная атака (включая комбо и заряженные атаки) 
                                    наносит дополнительно 324 / ? / 510 электрического урона.<br>
 
-<img src = "file:///android_res/drawable/stig_edison_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_edison_t.png"  class="img-responsive">
 
 <pre>Edison(M):
 Редкость  3   3/1 4
@@ -22,7 +33,7 @@ CRT       4   5   6
 Load      6   7   8</pre>
 Навык:     Генерирует щит каждые 9 / ? / 6 секунд, уменьшая следующий полученный урон на 63 / ? / 102<br>
 
-<img src = "file:///android_res/drawable/stig_edison_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_edison_m.png"  class="img-responsive">
 
 <pre>Edison(B):
 Редкость  3   3/1 4 
@@ -35,7 +46,7 @@ Load      6   7   8</pre>
 Навык:	Заряжается каждые 9 / ? / 6 секунд. Следующая обычная атака (включая комбо и заряженные атаки) 
                                   уменьшает скорость передвижения врага на 23 / ? / 30 %, в течении 4 секунд.<br>
 
-<img src = "file:///android_res/drawable/stig_edison_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_edison_b.png"  class="img-responsive">
 								  
 Бонус комплекта:<br>
 
@@ -47,3 +58,7 @@ Load      6   7   8</pre>
 3		Повышает DEF на 30 %. Повышает HP на 20 % когда используется на Himeko.
                                Повышает HP на 25 % если используется на Mei или Yae Sakura
 
+
+
+</body>
+</html>

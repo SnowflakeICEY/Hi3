@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+ The Darh Crusher
+<pre>Редкость: 3   3/1 4
+Уровень:  25  30  35
+АТК:      125 ?   182
+CTR:      7   ?   12
+Load:     9   11  12</pre>
+Активный навык(Стоимость SP: 18, перезарядка: 12 сек): Призывает крест на 6 сек,каждые 1.5 сек наносит 1077 огненного элементального урона в области.
+
+<br><img src = "file:///android_res/drawable/weapon_crosses_crusher.png" class="img-responsive">
+
+</body>
+</html>

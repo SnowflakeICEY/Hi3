@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot*Bronya Zaychik<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"><img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot*Bronya Zaychik<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_chariot.png"width="112" height= "98"align="left">
 Хорошо стягивает врагов со всей карты,начальный персонаж,но не теряющий свою актуальность.<br>
 
@@ -39,28 +39,28 @@ QTE:<img src = "file:///android_res/drawable/effect_stun.png" width="20" height=
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tc0.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ryouma_m.txt"style="text-decoration: none;"><font color="#000000">Sakamoto Ryouma (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_b.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (B)</font></a><br>
 Увеличивает физический урон и урон от QTE.<br>
 <br>
 
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tc0.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_t.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
 Увеличивает урон от QTE. Шанс <font color="#FFD700">парализовать</font> врага.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc0.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_b.txt"style="text-decoration: none;"><font color="#000000">Planck (B)</font></a><br>
 Увеличивает физический урон и повышает скорость атаки.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a>/ <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc10.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a>/ <a href="file:///android_res/raw/r1tc0.txt"style="text-decoration: none;"><font color="696969">5th Sacred Relic</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>

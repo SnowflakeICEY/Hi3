@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Alloy Gluttony Scimitar:
+<pre>Редкость:3  3/1 4
+Уровень: 25 30  35
+ATK:	 95 ?   166
+CRT:	 7  ?   14
+Load:	 9  11  12</pre>
+Активный навык (Стоимость SP: 10, перезарядка: 15 сек):
+	Запускает клинок в вихрь, при попадании затягивает противников и притягивет к вам.
+	Каждый удар наносит 116/?/317 физического урона.
+	
+	<br><img src = "file:///android_res/drawable/weapon_katana_gluttony.png" class="img-responsive">
+</body>
+</html>

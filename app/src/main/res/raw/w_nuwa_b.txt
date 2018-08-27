@@ -9,4 +9,4 @@ CRT      0   ?    ?   2
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый огненный урон от поджога на 60%/?/?/103% и увеличивает длительность пожога на 60%/?/?/103%<br>
 
-<img src = "file:///android_res/drawable/stig_nuwa_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_nuwa_b.png" width="300" height= "300">

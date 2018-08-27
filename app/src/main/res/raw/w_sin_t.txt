@@ -8,4 +8,4 @@ CRT      4   ?    ?   7
 Load     9   10   11  12</pre>
 Навык: Увеличивает урон на 15% каждую секунду (максимум 45%) в режиме "Стелс", эффект продождает ещё 4 сек после выхода из режима. 
 
-<img src = "file:///android_res/drawable/stig_sin_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_sin_t.png" width="300" height= "300">

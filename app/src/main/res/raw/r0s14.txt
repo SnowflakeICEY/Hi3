@@ -1,0 +1,28 @@
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+<pre>Sakura: Blistering Summer (B):
+Редкость  3   3/1 4
+Уровень   25  30  35  
+HP        243 ?   353
+ATK       18  ?   26
+DEF       37  ?   54
+CRT       3   ?   5
+Load      6   7   8</pre>
+Навык: В активном состоянии увеличивает урон от базовых атак(включая branch и charged) на 10/?/15%<br>
+В неактивном состоянии уменьшает получаемый урон льдом на 10/?/25%(не стакается) 
+
+<br><img src = "file:///android_res/drawable/stig_sakura_summer_b.png"  class="img-responsive">
+
+
+</body>
+</html>

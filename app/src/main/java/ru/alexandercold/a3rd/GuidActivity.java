@@ -2,8 +2,6 @@ package ru.alexandercold.a3rd;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
@@ -17,12 +15,8 @@ public class GuidActivity extends AppCompatActivity {
     //Создаем массив разделов:
     private String titles[] = {
             "Баффы матрицы",
-            "Разбор оружия",
-            "Уровни",
-            "QTE",
-            "Оружия",
-            "Абисс",
-            "Мемориал",
+            "Шанс критического удара",
+            "Planeroid Token",
     };
 
     @Override

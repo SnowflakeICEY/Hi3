@@ -9,4 +9,4 @@ CRT      19  ?    ?   29
 Load     9   10   11  12</pre>
 Навык: Во время Time Fracture увеличивает шанс критического удара на 15/?/?/30%.
 
-<img src = "file:///android_res/drawable/stig_dark_nyan_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_dark_nyan_m.png" width="300" height= "300">

@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Ji Xuanyuan-Aqua(T):
 Редкость  3   3/1 4
 Уровень   25  30  35  
@@ -9,7 +20,7 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:      Увеличивает физический урон от комбо атак на 9 / ? / 15 %<br>
 
-<img src = "file:///android_res/drawable/stig_ji_nyan_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_ji_nyan_t.png"  class="img-responsive">
 
 <pre>Ji Xuanyuan-Aqua(M):
 Редкость  3   3/1 4
@@ -21,7 +32,7 @@ CRT       4   5   6
 Load      6   7  8</pre>
 Навык:      Увеличивает физический урон от Charged(Атаки персонажей Bronya и Himeko) атак на 8 / ? / 15 % <br>
 
-<img src = "file:///android_res/drawable/stig_ji_nyan_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_ji_nyan_m.png"  class="img-responsive">
 
 <pre>Ji Xuanyuan-Aqua(B):
 Редкость  3   3/1 4 
@@ -31,9 +42,9 @@ ATK       36  44  54
 DEF       18  22  27
 CRT       1   2   3
 Load      6   7   8</pre>
-Навык:	Пвеличивает физический урон от Switch атак на 19 / ? / 31 % (включая QTE атаки)<br>
+Навык:	Пвеличивает физический урон от Switch атак на 19 / ? / 31 % (включая QTE атаки):
 
-<img src = "file:///android_res/drawable/stig_ji_nyan_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_ji_nyan_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -42,3 +53,7 @@ Load      6   7   8</pre>
 2		 Увеличивает урон  против врага с разрушенным элитным щитом на 10 %<br>
 
 3		Увеличивает скорость передвижения на 10 %
+
+
+</body>
+</html>

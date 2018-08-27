@@ -9,4 +9,4 @@ CRT      3   ?    ?   5
 Load     9   10   11  12</pre>
 Навык:		Каждую секунду наносит физический урон всем ближайшим противникам в размере 60%/?/?/103% от ATK персонажа и каждые 3 секунды восстанавливает владельцу 12/?/?/20 HP, но уменьшает максимальные HP на 15% в бою.<br>
 
-<img src = "file:///android_res/drawable/stig_scarlet_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_scarlet_m.png" width="300" height= "300">

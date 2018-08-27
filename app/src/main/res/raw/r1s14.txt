@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Nuwa(T):
 Редкость 4   4/1  4/2  5
 Уровень  35  40   45  50
@@ -9,7 +20,7 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		При нанесении урона по подожженному противнику производит взрыв, нанося урон огнем в размере 48%/?/?/82% от ATK персонажа всем противникам вокруг. Перезарядка 1,5 сек.<br>
 
-<img src = "file:///android_res/drawable/stig_nuwa_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_nuwa_t.png"  class="img-responsive">
 
 <pre>Nuwa(M):
 Редкость 4   4/1  4/2  5
@@ -21,7 +32,7 @@ CRT      4   ?    ?   8
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый огненный урон на 1% за каждую единицу счетчика Combo (максимум на 60%/?/?/102%).<br>
 
-<img src = "file:///android_res/drawable/stig_nuwa_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_nuwa_m.png"  class="img-responsive">
 
 <pre>Nuwa(B):
 Редкость 4   4/1  4/2  5
@@ -33,7 +44,7 @@ CRT      0   ?    ?   2
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый огненный урон от поджога на 60%/?/?/103% и увеличивает длительность пожога на 60%/?/?/103%<br>
 
-<img src = "file:///android_res/drawable/stig_nuwa_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_nuwa_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -42,3 +53,6 @@ Load     9   10   11  12</pre>
 2		Увеличивает ВЕСЬ наносимый урон призванных персонажем существ на 50%.<br>
 
 3		Увеличивает ВЕСЬ наносимый урон на 20% за каждого призванного существа (в том числе персонажи, призванные дружеской помощью) до 5 раз (максимум на 100%).
+
+</body>
+</html>

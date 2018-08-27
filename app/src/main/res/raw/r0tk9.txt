@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Thermal Cutter:
+<pre>Редкость:3   4
+Уровень: 25  35
+ATK:	 123 178
+CRT:	 11  17
+Load:	 9   12</pre>
+Навык:	(Стоимость SP: 14, перезарядка: 10 сек):
+	выпускает огненую энергию после рывка вперед в противников перед собой, нанося физический урон равный 270% от АТК и поджигает их,
+	нанося 148/?/375 огненного урона каждые 0.5 сек. в течение 4 сек.
+	<br><img src = "file:///android_res/drawable/weapon_katana_cutter.png" class="img-responsive">
+</body>
+</html>

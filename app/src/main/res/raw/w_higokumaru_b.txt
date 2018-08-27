@@ -9,4 +9,4 @@ CRT      6   ?    ?   9
 Load     9   10   11  12</pre>
 Навык: Увеличивает скорость атаки на 3/?/?/6% за каждого горящего врага на поле боя, стакается до 3 раз, когда вокруг есть враги увеличивает огненный элементальный урон, равный 30/?/?/60% от АТК каждую секунду.
 
-<img src = "file:///android_res/drawable/stig_higokumaru_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_higokumaru_b.png" width="300" height= "300">

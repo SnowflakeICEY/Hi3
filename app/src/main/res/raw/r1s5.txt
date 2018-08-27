@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Einstein – Band(T):
 Редкость 4   4/1 4/2 5
 Уровень  35  40  45  50
@@ -9,7 +20,7 @@ CRT      0   ?   ?   0
 Load     9   10  11  12</pre>
 Навык:		Призывает боевого робота-помощника и разблокирует его способность атаковать лазером, которая наносит значительный урон. Увеличивает урон персонажа на 10%/15%/20%/25%, когда на поле боя 2 или более противника.
 
-<img src = "file:///android_res/drawable/stig_einsteint_band_t.jpg" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_einstein_band_t.jpg"  class="img-responsive">
 
 <pre>Einstein – Band(M):
 Редкость 4   4/1 4/2 5
@@ -21,7 +32,7 @@ CRT      4   ?   ?   7
 Load     9   10  11  12</pre>
 Навык:		Призывает боевого робота-помощника и разблокирует его способность шоковой волны, которая наносит АОЕ урон и отталкивает врагов. Каждые 6 секунд подбрасывает врагов и заключает их в ловушку времени на 1/?/?/3 секунды, когда на поле боя 3 или более противника.<br>
 
-<img src = "file:///android_res/drawable/stig_einsteint_band_m.jpg" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_einstein_band_m.jpg"  class="img-responsive">
 
 <pre>Einstein – Band(B):
 Редкость 4   4/1 4/2 5
@@ -34,7 +45,7 @@ Load     9   10  11  12</pre>
 
 Навык:		Призывает боевого робота-помощника и разблокирует его способность атаковать пулеметом, которая наносит постоянный продолжительный урон. Персонаж получает 10%/15%/20%/25% шанс заблокировать входящий урон, когда на поле боя 4 или более противника.<br>
 
-<img src = "file:///android_res/drawable/stig_einsteint_band_b.jpg" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_einstein_band_b.jpg"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -43,3 +54,6 @@ Load     9   10  11  12</pre>
 2		Способности лазера, шоковой волны и пулемета робота-помощника имеют 30% шанс нанести урон дважды.<br>
 
 3		Убирает условия на количество противников со всех стигм в данном сете. Увеличивает ВЕСЬ наносимый урон персонажа на 15%.
+
+</body>
+</html>

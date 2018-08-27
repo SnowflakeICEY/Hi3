@@ -9,4 +9,4 @@ CRT      2   2    2    3
 Load     9   10   11   12</pre> 
 Навык:		При комбо более 10 увеличивает скорость передвижения на 18%/22%/?/31%.<br>
 
-<img src = "file:///android_res/drawable/stig_ekaterina_b.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_ekaterina_b.png" width="300" height= "300"> 

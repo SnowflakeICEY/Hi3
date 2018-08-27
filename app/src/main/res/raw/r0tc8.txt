@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Ice Roar:
+<pre>АТК     CRT
+166     34</pre>
+Пассивный навык: Тяжелая пушка. Увеличен урон от базовых атак на 50%. <br> Каждый удар имеет шанс 39.8% заморозить врага на 3 сек, время восстановления 9.07 сек.
+<br><img src = "file:///android_res/drawable/weapon_cannon_ice.png" class="img-responsive">
+</body>
+</html>

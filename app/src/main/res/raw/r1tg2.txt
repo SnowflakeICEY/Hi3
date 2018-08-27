@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" > 
+Dominator`s Pistols:
+<pre>Редкость 4    5
+Уровень  30   55
+ATK      144  244
+CRT      8    16
+Load     12   17</pre>
+Активный навык(Стоимость SP: 25, перезарядка: 10 сек):
+Образует ряд ударов с земли, каждый наносит 50% от ATK близстоящим врагам к выбранной цели,
+Накладывает эффект горения им,нанося 89/149 огненного урона каждые 0.5 секунд, 
+в течение 1.69/2.10 секунд.<br>
+Пассивный навык:Наносит дополнительные 10/25 огненного урона каждый удар.
+<br><img src = "file:///android_res/drawable/weapon_guns_dominator_four.png" class="img-responsive">
+</body>
+</html>

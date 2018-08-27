@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Sheathed Blade:
+<pre>АТК     CRT
+287     27</pre>
+Пассивный навык:После успешного уклонения заряжается электричеством. Враг при ударе высвобождает электрический заряд, взрыв наносит 3982 АОЕ физического и lightning урона. Время восстановления 1.5 сек. <br> При попадании 8% шанс парализовать врагов на 3 сек в определенном радиусе, время восстановления 6 сек.
+<br><img src = "file:///android_res/drawable/weapon_katana_sheathed.png" class="img-responsive">
+</body>
+</html>

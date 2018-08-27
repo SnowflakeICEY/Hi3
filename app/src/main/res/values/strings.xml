@@ -1,19 +1,14 @@
 <resources>
-    <string name="app_name">3rd</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="title_activity_main3">Main3Activity</string>
+    <string name="app_name">Hi3</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
-    <string name="title_activity_honkai">HonkaiActivity</string>
-    <string name="title_activity_honkai_start">HonkaiStart</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="title_activity_honkai_test">HonkaiActivityTest</string>
-    <string name="title_activity_weapon">WeaponActivity</string>
-    <string name="title_activity_table">TableActivity</string>
-    <string name="title_activity_guid">GuidActivity</string>
-    <string name="title_activity_guid_view">GuidViewActivity</string>
+    <string name="title_activity_weapon">Weapon</string>
+    <string name="title_activity_table">Hi3</string>
+    <string name="title_activity_guid">Hi3</string>
+    <string name="title_activity_guid_view">Hi3</string>
     <string name="title_activity_settings">Settings</string>
 
     <!-- Strings related to Settings -->
@@ -21,14 +16,16 @@
     <!-- Example General settings -->
     <string name="pref_header_general">Settings</string>
 
-
+    <string name="title_activity_stigmata">Stigmata</string>
     <string name="pref_title_lang">Выбрать язык</string>
-    <string-array name="pref_example_list_titles">
-        <item>Русский</item>
-        <item>English</item>
-    </string-array>
-    <string-array name="pref_example_list_values">
-        <item>1</item>
-        <item>0</item>
-    </string-array>
+    <string name="title_activity_valkuria">Valkuria</string>
+    <string name="title_activity_cannons_view">Cannon</string>
+    <string name="title_activity_swords_view">Sword</string>
+    <string name="title_activity_crosses_view">Cross</string>
+    <string name="title_activity_guns_view">Gun</string>
+    <string name="title_activity_greatswords_view">Greatsword</string>
+    <string name="title_activity_table_view">Hi3</string>
+    <string name="title_activity_qiwi">Hi3</string>
+    <string name="title_activity_thank">Hi3</string>
+
 </resources>

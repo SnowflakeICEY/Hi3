@@ -9,4 +9,4 @@ CRT      0   ?   ?   0
 Load     9   10  11  12</pre>
 Навык:	Когда владелец неактивен, увеличивает союзникам наносимый физический урон на 5%/?/?/10% (не суммируется). Когда владелец активен, увеличивает собственный наносимый физический урон на 5%/?/?/15% и скорость атаки на 5%/?/?/20%.<br>
 
-<img src = "file:///android_res/drawable/stig_tesla_band_t.png" width="300" height= "300"
+<br><img src = "file:///android_res/drawable/stig_tesla_band_t.png" width="300" height= "300"

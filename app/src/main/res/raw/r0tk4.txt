@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Hell Thunder:
+<pre>Редкость:3   3/1 4
+Уровень: 25  30  35
+ATK:	 117 ?   169
+CRT:	 21  ?   29
+Load:	 9   11  12</pre>
+Активный навык (Стоимость SP: 12, перезарядка: 12 сек):
+	Выпускает волну клинка атакуя противников перед собой, нанося (300% от АТК) физического урона
+	и вызывающий у противников ослабленное состояние, понижающий защиту на 60% в течение 2.63/?/3.00 сек.
+	<br><img src = "file:///android_res/drawable/weapon_katana_hell_thunder.png" class="img-responsive">
+</body>
+</html>

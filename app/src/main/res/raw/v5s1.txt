@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_violet.png" width="20" height= "20"align= "top" align= "middle">Theresa Apocalypse*Violet Executer<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p> 
+<p align="center"><img src = "file:///android_res/drawable/emoji_violet.png" width="20" height= "20"align= "top" align= "middle">Theresa Apocalypse*Violet Executer<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p> 
 <img src = "file:///android_res/drawable/valk_violet.png"width="112" height= "98"align= "left">Имеет высокий урон от QTE по целям с эффектом <img src = "file:///android_res/drawable/effect_bleed.png" width="20" height= "20"align= "top" align= "middle">кровотечение.<br>
 <img src = "file:///android_res/drawable/valk_violet_stat.png" width="300" height= "240">
 <br>
@@ -37,37 +37,37 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">The Dark Crusher</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tcr2.txt"style="text-decoration: none;"><font color="696969">The Dark Crusher</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_m.txt"style="text-decoration: none;"><font color="#000000">Attila (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
 Увеличивает физический урон после использования скилла оружия. Увеличивает физический урон и защиту при комбо. <br>
 <br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tcr0.txt"style="text-decoration: none;"><font color="696969">Lightning Angel</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ryoma_m.txt"style="text-decoration: none;"><font color="#000000">Sakamoto Ryouma (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
 Увеличивает физический урон по врагам без элитного щита,при смене персонажа и при комбо более 30.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Embrace</font></a><br>
-<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopathra_t.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr1.txt"style="text-decoration: none;"><font color="696969">Blood Embrace</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_t.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dark_nyan_m.txt"style="text-decoration: none;"><font color="#000000">Dark Jixuanyuan (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dark_nyan_b.txt"style="text-decoration: none;"><font color="#000000">Dark Jixuanyuan (B)</font></a><br>
 Легче повесить дебафф <font color="#FF4500">кровотечение</font>. Увеличивает урон по врагам без элитный щита и во время Time Fracture когда срабатывает QTE(её или команды).<br>
 <br>
 
 <br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Embrace</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr1.txt"style="text-decoration: none;"><font color="696969">Blood Embrace</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dracula_t.txt"style="text-decoration: none;"><font color="#000000">Dracula(T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dark_nyan_m.txt"style="text-decoration: none;"><font color="#000000">Dark Jixuanyuan (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dark_nyan_b.txt"style="text-decoration: none;"><font color="#000000">Dark Jixuanyuan (B)</font></a><br>
 Легче повесить дебафф <font color="#FF4500">кровотечение</font>. Увеличивает урон по врагам с <font color="#FF4500">кровотечением</font> и во время Time Fracture когда срабатывает QTE(её или команды).<br>
 <br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="#000000">Blood Embrace</font><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr1.txt"style="text-decoration: none;"><font color="#000000">Blood Embrace</font><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dracula_t.txt"style="text-decoration: none;"><font color="#000000">Dracula (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kepler_m.txt"style="text-decoration: none;"><font color="#000000">Kepler (M)</font></a>/<a href="file:///android_res/raw/w_tesla_band_m.txt"style="text-decoration: none;"><font color="#000000">Tesla: band (M)</font></a><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopathra_b.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (B)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_b.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (B)</font></a><br>
 Легче повесить дебафф <font color="#FF4500">кровотечение</font>. Увеличивает урон по врагам с <font color="#FF4500">кровотечением</font>  и по <font color="#FFD700">парализованым</font> врагам.<br>
 
 

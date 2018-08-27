@@ -9,4 +9,4 @@ CRT      0   ?   ?   0
 Load     9   10  11  12</pre>
 Навык:		Уменьшает перезарядку способности, вызываемой уклонением, на 17%/?/?/26%<br>
 
-<img src = "file:///android_res/drawable/stig_zhuge_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_zhuge_t.png" width="300" height= "300">

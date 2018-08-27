@@ -9,4 +9,4 @@ CRT       1   1   1
 Load      6   7   8</pre>
 Навык:	Повышает весь урон по оглушенным врагам на  32 / ? / 51 %<br>
 
-<img src = "file:///android_res/drawable/stig_tesla_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_tesla_b.png" width="300" height= "300">

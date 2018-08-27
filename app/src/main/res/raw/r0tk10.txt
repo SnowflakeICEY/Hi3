@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Vermillion Edge:
+<pre>Редкость:3   4
+Уровень: 25  35
+ATK:	 111 163
+CRT:	 13  29
+Load:	 9   12</pre>
+Пассивный навык:	атака противника и его окружение 7 телекинетическими разрезами, каждый разрез наносит физический урон равный от 50% от АТК.
+	Во время атаки противники обездвиживаються.
+	<br><img src = "file:///android_res/drawable/weapon_katana_vermillion.png" class="img-responsive">
+</body>
+</html>

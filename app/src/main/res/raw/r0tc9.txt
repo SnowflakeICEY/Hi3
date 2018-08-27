@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+X-01 Azure Eyes:
+<pre>АТК     CRT
+178     17</pre>
+Активный навык:	(Стоимость SP: 12, перезарядка: 20 сек):
+	Каждая атака уменьшает скорость атаки и передвижения противника на 60%, длится 3.5 сек.<br>
+Пассивный навык: Самонаводящиеся ракеты.
+<br><img src = "file:///android_res/drawable/weapon_cannon_azure.png" class="img-responsive">
+</body>
+</html>

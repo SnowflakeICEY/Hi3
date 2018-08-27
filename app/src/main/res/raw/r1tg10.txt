@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Proto Spirit Bow:
+<pre>АТК     CRT
+279     35</pre>
+Активный навык:	(Стоимость SP: 18, перезарядка: 0 сек):
+	Стреляет двумя пулями на прямой линии, каждая пуля наносит физический урон, равный 110% от АТК. При попадании в противника с дебаффом кровотечение восстанавливает владельцу 10SP.<br>
+Пассивный навык: Повышает скорость атаки и передвижения на 25%.
+<br><img src = "file:///android_res/drawable/weapon_guns_bow.png" class="img-responsive">
+</body>
+</html>

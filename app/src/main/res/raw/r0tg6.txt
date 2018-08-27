@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" >
+ Water Spirit Type-1
+<pre>Редкость 3/0 3/1 4/0
+Уровень  25  30  35
+ATK      113 ?   169
+CRT      28  ?   29
+Load     9   11  12</pre>
+Пассивный навык:Увеличивает физический урон на 31/?/40% по врагам в воздухе.
+<br><img src = "file:///android_res/drawable/weapon_guns_water1.png" class="img-responsive">
+</body>
+</html>

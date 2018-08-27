@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Spirit Gun Yae:
+<pre>АТК     CRT
+267     21</pre>
+Активный навык:	(Стоимость SP: 21, перезарядка: 14 сек):
+	Бьёт окружающих врагов слэшами, каждый из 7 слэшей наносит урон, равный 77% от АТК, на 3.7 сек вешает на врагов дебафф "привязка".<br>
+Пассивный навык: При выполнении в Time Slow, наносит 47% физического урона от АТК каждые 0.5 сек, длится 5.7 сек..
+<br><img src = "file:///android_res/drawable/weapon_guns_yae.png" class="img-responsive">
+</body>
+</html>

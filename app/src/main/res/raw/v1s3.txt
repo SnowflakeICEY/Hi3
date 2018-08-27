@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Lightning Empress<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center">> <img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Lightning Empress<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_lightning.png"width="112" height= "98"align="left">
 Хороший саппорт в начале уровне добавляет всей команде 50 SP. Наносит элементальный <img src = "file:///android_res/drawable/effect_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning урон.<br>
 
@@ -39,29 +39,29 @@ QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Pulse Katana Type-17</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tk5.txt"style="text-decoration: none;"><font color="696969">Pulse Katana Type-17</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kira_t.txt"style="text-decoration: none;"><font color="#000000">Shigure Kira (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ryoma_m.txt"style="text-decoration: none;"><font color="#000000">Sakamoto Ryoma(M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_ryouma_m.txt"style="text-decoration: none;"><font color="#000000">Sakamoto Ryoma(M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_edison_b.txt"style="text-decoration: none;"><font color="#000000">Edison (B)</font></a><br>
 Увеличивает урон от  QTE и  <font color="#FFFF00">lightning</font> урон.<br>
 <br>
-<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Pulse Katana Type-17</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tk5.txt"style="text-decoration: none;"><font color="696969">Pulse Katana Type-17</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_t.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_m.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_tesla_b.txt"style="text-decoration: none;"><font color="#000000">Nikola Tesla (B)</font></a><br>
 Увеличивает <font color="#FFFF00">lightning</font> урон.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Raikiri</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tk12.txt"style="text-decoration: none;"><font color="696969">Raikiri</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
 Увеличивает <font color="#FFFF00">lightning</font> и физический урон.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss Setup<br>
-<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tk16.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>
 Уменьшает урон от температуры, увеличивает <font color="#FFFF00">lightning</font> урон.
 

@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<img src = "file:///android_res/drawable/emoji_rondo.png" width="20" height= "20"align= "top" align= "middle">Theresa Apocalypse*Sakuno Rondo<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"><br>
+<p align="center"><img src = "file:///android_res/drawable/emoji_rondo.png" width="20" height= "20"align= "top" align= "middle">Theresa Apocalypse*Sakuno Rondo<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p> <br>
 <img src = "file:///android_res/drawable/valk_rondo.png"width="112" height= "98"align= "left">Высокая подавляющая способность к одиночному врагу, наносит большой урон огнём.<br>
 
 <img src = "file:///android_res/drawable/valk_rondo_stat.png" width="300" height= "240">
@@ -38,21 +38,21 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Fire Angel</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tcr1.txt"style="text-decoration: none;"><font color="696969">Fire Angel</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dono_m.txt"style="text-decoration: none;"><font color="#000000">Yodo Dono (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
 Увеличивает физический урон и урон от <font color="#FF8COO">огня</font>.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Pledge of Sakura</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr2.txt"style="text-decoration: none;"><font color="696969">Pledge of Sakura</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_higokumaru_t.txt"style="text-decoration: none;"><font color="#000000">Higokumaru (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nuwa_m.txt"style="text-decoration: none;"><font color="#000000">Nuwa (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_higokumaru_b.txt"style="text-decoration: none;"><font color="#000000">Higokumaru (B)</font></a><br>
 Увеличивает физический урон и урон от <font color="#FF8COO">огня</font>.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">
-<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr0.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a>/<a href="file:///android_res/raw/w_siegfried_m.txt"style="text-decoration: none;"><font color="#000000">Siegfried Kaslana (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>

@@ -9,4 +9,4 @@ CRT      3   ?    ?   5
 Load     9   10   11  12</pre>
 Навык:		При атаке вводит противника в состояние дуэли на 5 секунд. В этом состоянии противник получает на 22%/?/?/31% урона больше, но и сам наносит на 28%/?/?/41% урона больше.<br>
 
-<img src = "file:///android_res/drawable/stig_newton_b.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_newton_b.png" width="300" height= "300"> 

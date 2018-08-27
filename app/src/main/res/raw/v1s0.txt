@@ -19,7 +19,7 @@ body {
 </style>
 <ul>
 
-<p align="center"<li onClick="toggle_show('crimson')" type="none"><img src = "file:///android_res/drawable/emoji_impulse.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Crimson Impulse<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"><li onClick="toggle_show('crimson')" type="none"><img src = "file:///android_res/drawable/emoji_impulse.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei*Crimson Impulse<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
 <ul id="crimson" style="display: none" type="none"  >
 <li>
 Raiden Mei:<br>
@@ -28,7 +28,6 @@ Raiden Mei:<br>
 Рост: 172<br>
 Вес: 55<br>
 Япония<br>
-Где-то глубоко в ней сущность судьи. <br>
 	</ul>
 	</li>
 </ul>
@@ -51,14 +50,14 @@ QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
+<img src = "file:///android_res/drawable/icon_sword.png.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tk7.txt"style="text-decoration: none;"><font color="696969">Lightning Soul</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_t.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_elizabeth_m.txt"style="text-decoration: none;"><font color="#000000">Elizabeth Bathory (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>
 Увеличивает физический урон и защиту.<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss setup<br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tk16.txt"style="text-decoration: none;"><font color="696969">Void Blade</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_attila_b.txt"style="text-decoration: none;"><font color="#000000">Attila (B)</font></a><br>

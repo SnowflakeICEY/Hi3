@@ -9,4 +9,4 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		При нанесении урона по подожженному противнику производит взрыв, нанося урон огнем в размере 48%/?/?/82% от ATK персонажа всем противникам вокруг. Перезарядка 1,5 сек.<br>
 
-<img src = "file:///android_res/drawable/stig_nuwa_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_nuwa_t.png" width="300" height= "300">

@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Endergonic Tachi:
+<pre>Редкость:3   4
+Уровень: 25  35
+ATK:	 121 175
+CRT:	 10  15
+Load:	 9   12</pre>
+Пассивный навык: повышает физический урон на 11/?/17% при наличии SP меньше 20%.
+		 атаки наносят дополнительно 45/?/72 огненного урона при наличии SP больше 80%.
+		 <br><img src = "file:///android_res/drawable/weapon_katana_tachi.png" class="img-responsive">
+</body>
+</html>

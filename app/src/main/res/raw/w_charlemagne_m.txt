@@ -9,4 +9,4 @@ CRT       13  ?   20
 Load      6   7   8</pre>
 Навык:      При SP выше 70%, повышает защиту на 50 / ? / 75 %<br>
 
-<img src = "file:///android_res/drawable/stig_karl_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_karl_m.png" width="300" height= "300">

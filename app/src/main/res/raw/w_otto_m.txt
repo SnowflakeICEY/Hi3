@@ -9,4 +9,4 @@ CRT      9   ?   ?   9
 Load     9   10  11  12</pre>
 Навык:		Базовые атаки (включая заряженные и комбо атаки) ослабляют врагов на 2/?/?/4 секунды, уменьшая их атаку на 20%/?/?/30%. Перезарядка 2 секунды. Эффект не суммируется.<br>
 
-<img src = "file:///android_res/drawable/stig_otto_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_otto_m.png" width="300" height= "300">

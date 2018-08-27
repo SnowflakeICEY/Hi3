@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Shennong(T):
 Редкость 4   4/1 4/2 5
 Уровень  35  40  45  50
@@ -9,7 +20,7 @@ CRT      0   ?   ?   0
 Load     9   10  11  12</pre>
 Навык:		При подборе сферы, восстанавливающей SP, увеличивает наносимый физический урон на 44%/?/?/61% и DEF на 44%/?/?/61% на 10 секунд. Перезарядка 15 секунд.<br>
 
-<img src = "file:///android_res/drawable/stig_shennong_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shennong_t.png"  class="img-responsive">
 
 <pre>Shennong(M):
 Редкость 4   4/1 4/2 5
@@ -21,7 +32,7 @@ CRT      6   ?   ?   10
 Load     9   10  11  12</pre>
 Навык:		 При подборе золота увеличивает скорость атаки на 34%/?/?/51% и скорость передвижения на 34/?/?/51% на 7 секунд. Перезарядка 10 секунд.<br>
 
-<img src = "file:///android_res/drawable/stig_shennong_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shennong_m.png"  class="img-responsive">
 
 <pre>Shennong(B):
 Редкость 4   4/1 4/2 5
@@ -32,7 +43,7 @@ DEF      51  ?   ?   78
 CRT      3   ?   ?   4
 Load     9   10  11  12</pre>
 
-<img src = "file:///android_res/drawable/stig_shennong_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_shennong_b.png"  class="img-responsive">
 
 Навык:		При атаке вы получайте щит на 5 секунд. Щит может поглотить урон (в том числе элементальный урон) равный 18%/?/?/31% от максимальных HP владельца. Перезарядка 12 секунд.<br>
 
@@ -43,3 +54,6 @@ Load     9   10  11  12</pre>
 2		Валькирия имеет шанс получить ноль урона (в том числе элементального урона), когда ее атакую слабые враги. Перезарядка 3 секунды.<br>
 
 3		Увеличивает получаемые HP и SP со сфер на 50%.
+
+</body>
+</html>

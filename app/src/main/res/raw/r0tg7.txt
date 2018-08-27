@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Water Spirit Type-2
+
+<pre>Редкость 3/0 3/1 4/0
+Уровень  25  30  35
+ATK      117 ?   169
+CRT      21  ?   29
+Load     9   11  12</pre>
+Активный навык:(Стоимость SP: 9, перезарядка: 13 сек):
+Делает замораживающий выстрел, который замораживает врагов
+в веерообразном диопазоне на 2.85/?/3.79 сек.
+<br><img src = "file:///android_res/drawable/weapon_guns_water2.png" class="img-responsive">
+
+</body>
+</html>

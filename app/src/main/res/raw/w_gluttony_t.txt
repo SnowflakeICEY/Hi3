@@ -9,4 +9,4 @@ CRT      0   ?   ?   0
 Load     9   10  11  12</pre>
 Навык:		10% шанс обронить леденец при атаке цели. Подбирание леденца увеливает урон на 9%/?/?/18% на 5 секунд. Перезарядка 2 секунды. Леденец исчезает после 8 секунд, если его не подобрать.<br>
 
-<img src = "file:///android_res/drawable/stig_theresa_gluttony_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_theresa_gluttony_t.png" width="300" height= "300">

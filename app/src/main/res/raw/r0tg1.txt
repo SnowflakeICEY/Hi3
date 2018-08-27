@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" >
+ Alloy Dominator`s Pistols
+
+<pre>Редкость 3/0  4/0
+Уровень  15   35             
+ATK      96   160
+CRT      5    10
+Load     9    12</pre>
+Активный навык(Стоимость SP: 19, перезарядка: 10 сек):
+Образует ряд ударов с земли, каждый наносит 40% от ATK близстоящим врагам к выбранной цели.<br>
+Накладывает эффект горения, наносит 46/95 огненного урона.
+<br><img src = "file:///android_res/drawable/weapon_guns_dominator_four.png" class="img-responsive">
+</body>
+</html>

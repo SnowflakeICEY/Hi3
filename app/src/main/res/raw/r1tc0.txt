@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body bgcolor="#cccccc" > 
+5th Sacred Relic
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      161  ?   ?  254
+CRT      41   ?   ?  59
+Load     14   15  17 18</pre>
+Пассивный навык: Пушка. Увеличивает физический урон на 12/?/?/20% при комбо выше 15.<br>
+Создает дополнительные бомбы во время взрыва. Уровень заряда определяет количество: 2, 4 и 9 соответственно, каждая бомба наносит урон в размере 22/?/?/30% от атаки, бомбы не восполняют SP.<br>
+
+</body>
+</html>
+<br><img src = "file:///android_res/drawable/weapon_cannon_sacred.png" class="img-responsive">
+</body>
+</html>

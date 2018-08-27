@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Ogier(T):
 Редкость  3   3/1 4
 Уровень   25  30  35  
@@ -9,7 +20,7 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:      При SP ниже 20%, увеличивает физический урон обычных атак (включая комбо и заряженные атаки) на  10 / 15 / 20 %<br>
 
-<img src = "file:///android_res/drawable/stig_knight_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_knight_t.png"  class="img-responsive">
 
 <pre>Ogier(M):
 Редкость  3   3/1 4
@@ -21,7 +32,7 @@ CRT       6   ?   10
 Load      6   7   8</pre>
 Навык:       При SP ниже 20%, уменьшает получаемый физический урон на 15 / ? / 25 %<br>
 
-<img src = "file:///android_res/drawable/stig_knight_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_knight_m.png"  class="img-responsive">
 
 <pre>Ogier(B):
 Редкость  3   3/1 4 
@@ -33,7 +44,7 @@ CRT       13  ?   20
 Load      6   7   8</pre>
 Навык:	При SP ниже 20%, повышает скорость передвижения на  15 / ? / 25 %.<br>
 
-<img src = "file:///android_res/drawable/stig_knight_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_knight_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -44,3 +55,6 @@ Load      6   7   8</pre>
 
 3		Повышает физический урон против врагов типа Creature на 20 %
                                Увеличивает силу критического удара на 40 % если используется на персонаже Bronya
+
+</body>
+</html>

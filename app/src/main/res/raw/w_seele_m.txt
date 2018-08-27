@@ -9,4 +9,4 @@ CRT      6   ?   ?   10
 Load     9   10  11  12</pre>
 Навык:		 Когда в бою максимальные SP больше 150, за каждые 20 SP сверху уменьшает получаемый физический урон на 2%/3%/4%/5%, суммируется до 6 раз (максимум 30% сопротивления при 270+ SP). <br>
 
-<img src = "file:///android_res/drawable/stig_seele_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_seele_m.png" width="300" height= "300">

@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+ Hellfire Type-III
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      181 ?   ?   285
+CRT      12  ?   ?   22
+Load     14  15  17  18</pre>
+Активный навык(Стоимость SP:76, перезарядка: 36 сек): Делает выстрелы перед собой, нанося 12*28/?/?/60% от атаки урона огнем и еще столько же физичекого.<br>
+Пассивный навык: Пулемет. Урон по замороженным и замедленным врагам увеличен на 12/?/?/20%<br>
+
+<br><img src = "file:///android_res/drawable/weapon_cannon_hellfire.png" class="img-responsive">
+</body>
+</html>

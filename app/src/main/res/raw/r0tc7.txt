@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Frost Rain:
+<pre>АТК     CRT
+179     20</pre>
+Пассивный навык: Пушка. "Медленный тип заряда": увеличивает физический урон, при заряжании на все 100%.
+<br><img src = "file:///android_res/drawable/weapon_cannon_frost.png" class="img-responsive">
+</body>
+</html>

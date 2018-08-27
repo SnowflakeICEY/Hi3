@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Theresa: Origin(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        221 257 307
+ATK       16  20  23
+DEF       44  54  65
+CRT       4   5   6
+Load      6   7   8</pre>
+Навык:	 После использования активного скилла оружия, увеличивает скорость атаки на 10/?/25%, следующие 4 сек.<br>
+
+<br><img src = "file:///android_res/drawable/stig_origin_b.png" width="300" height= "300">

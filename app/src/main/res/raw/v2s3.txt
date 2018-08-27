@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_breaker.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Dimensional Breaker<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"><img src = "file:///android_res/drawable/emoji_breaker.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Dimensional Breaker<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_breaker.png"width="112" height= "98"align= "left">Широко используется в Abyss,сильна своим массовым <font color="#8A2BE2">Time Lock</font> при смене персонажа.<br>
 
 <img src = "file:///android_res/drawable/valk_breaker_stat.png" width="300" height= "240">
@@ -38,21 +38,21 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tc0.txt"style="text-decoration: none;"><font color="696969">Markov Type A</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_gluttony_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Gluttony (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_m.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
 Увеличивает прирост SP, увеличивает шанс критического удара, <font color="#FFD700">парализует</font> при критическом ударе .<br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc10.txt"style="text-decoration: none;"><font color="696969">Tyr Wrist</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cat_t.txt"style="text-decoration: none;"><font color="#000000">Schrodinger (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_m.txt"style="text-decoration: none;"><font color="#000000">Planck (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>
 Увеличивает физический урон.<br>
 <br>
 
-<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
+<img src = "file:///android_res/drawable/icon_cannon.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tc2.txt"style="text-decoration: none;"><font color="696969">Briareus PRI</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_band_t.txt"style="text-decoration: none;"><font color="#000000">Tesla: Band (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_newton_b.txt"style="text-decoration: none;"><font color="#000000">Isaac Newton (B)</font></a><br>

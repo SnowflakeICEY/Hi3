@@ -1,3 +1,14 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
 <body bgcolor="#cccccc" >
 <pre>Elizabeth Bathory(T):
 Редкость  3   3/1 4
@@ -9,7 +20,7 @@ CRT       0    0  0
 Load      6    7  8</pre>
 Навык:      При здоровье выше 80%, повышает защиту на 19 / 24 / 31 %<br>
 
-<img src = "file:///android_res/drawable/stig_elizabeth_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_elizabeth_t.png"  class="img-responsive">
 
 <pre>Elizabeth Bathory(M):
 Редкость 3    3/1 4
@@ -21,7 +32,7 @@ CRT      4    5   6
 Load     6    7   8</pre>
 Навык:      При здоровье выше 80%, повышает физический урон на 13 / 16 / 20 %<br>
 
-<img src = "file:///android_res/drawable/stig_elizabeth_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_elizabeth_m.png"  class="img-responsive">
 
 <pre>Elizabeth Bathory(B):
 Редкость  3   3/1 4 
@@ -33,7 +44,7 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:	При здоровье выше 80%, повышает скорость передвижения на 25 / 33 / 41 %<br>
 
-<img src = "file:///android_res/drawable/stig_elizabeth_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_elizabeth_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -43,3 +54,6 @@ Load      6   7   8</pre>
                                количество SP  на 10% если используются на персонажах типа Creature.<br>
 
 3		10% шанс восстановить 3 % здоровья при ударе по врагу.     Перезарядка 2 сек
+
+</body>
+</html>

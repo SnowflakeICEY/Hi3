@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Nitro Crystal:
+<pre>АТК     CRT
+168     31</pre>
+Пассивный навык: Шанс 8% заморозить врага на 2.14 сек.
+<br><img src = "file:///android_res/drawable/weapon_greatsword_nitro_crystal.png" class="img-responsive">
+</body>
+</html>

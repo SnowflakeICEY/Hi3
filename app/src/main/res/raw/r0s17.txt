@@ -1,0 +1,58 @@
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+<pre>Bronya: Magic(T):
+Редкость  3   4
+Уровень   25  35  
+HP        226 325
+ATK       38  55
+DEF       53  72
+CRT       0   0
+Load      6   8</pre>
+Навык: Увеличивает урон от charge атак на 13/?/20%.
+<br><img src = "file:///android_res/drawable/stig_magic_t.png"  class="img-responsive">
+
+<pre>Bronya: Magic(M):
+Редкость  3   4
+Уровень   25  35
+HP        226 325
+ATK       0   0
+DEF       53  72
+CRT       6   9
+Load      6   8</pre>
+Навык: Увеличивает дистанционный урон на 11/13/15%. Если экипировано на Броне, увеличивает максимальные HP в бою на 6/8/10%.   <br>
+
+<br><img src = "file:///android_res/drawable/stig_magic_m.png"  class="img-responsive">
+
+<pre>Bronya: Magic(B):
+Редкость  3   4 
+Уровень   25  35
+HP        226 325
+ATK       19  27
+DEF       53  72
+CRT       4   6
+Load      6   8</pre>
+Навык: Увеличивает элементальный урон огнём на 13/16/20%.<br>
+
+<br><img src = "file:///android_res/drawable/stig_magic_b.png"  class="img-responsive">
+
+Бонус комплекта:<br>
+
+
+
+		  
+2 Увеличивает урон на 10%.<br> Если экипировано на Броне, увеличивает урон от switch (включая QTE) атак на 10%.<br>
+	         
+3 Увеличивает скорость передвижения на 15%.
+
+</body>
+</html>

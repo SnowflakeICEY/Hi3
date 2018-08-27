@@ -9,4 +9,4 @@ CRT      8   ?    ?   13
 Load     9   10   11  12</pre>
 Навык:		При HP выше 60% увеличивает скорость передвижения на 23%/?/?/36%.<br>
 
-<img src = "file:///android_res/drawable/stig_lier_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_lier_m.png" width="300" height= "300">

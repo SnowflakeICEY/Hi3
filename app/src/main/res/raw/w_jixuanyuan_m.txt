@@ -9,4 +9,4 @@ CRT      3   ?    ?   6
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый физический урон заряженных атак на 23%/?/?/36%.<br>
 
-<img src = "file:///android_res/drawable/stig_nyan_m.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_nyan_m.png" width="300" height= "300"> 

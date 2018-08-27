@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+ Artemis` Guardian
+<pre>Редкость 3/0 3/1 4/0
+Уровень  25  30  35
+ATK      117 ?   169
+CRT      21  ?   29
+Load     9   11  12</pre>
+Активный навык:(Стоимость SP: 12, перезарядка: 12 сек):<br>
+Отправляет врагов, ближайших к цели на маленькой площади в воздух
+и накладывает дебафф оковы на врагов, который действует в течение 3.08/?/3.30 сек.
+
+<br><img src = "file:///android_res/drawable/weapon_guns_artemis.png" class="img-responsive">
+</body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Fire Spirit Type-2
+<pre>Редкость 3/0 3/1 4/0
+Уровень  25  30  35  
+ATK      125 ?   182
+CRT      7   ?   12
+Load     9   11  12</pre>
+Активный скилл:(Стоимость SP: 9, перезарядка: 12 сек):
+Стреляет гранатами, нанося (250% ATK) физического урона и накладывая эффект горения,
+который наносит 48/?/113 огненного урона каждые 0.5 сек в течение 3 сек врагам на близкой дистанции.<br>
+Может быть заряжен до 2 раз.
+<br><img src = "file:///android_res/drawable/weapon_guns_fire2.png" class="img-responsive">
+</body>
+</html>

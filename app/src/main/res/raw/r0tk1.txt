@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Alloy Wind Wielder:
+<pre>Редкость:3  3/1 4
+Уровень: 25	30  35
+ATK:	 95	?   166
+CRT:	 7	?   14
+Load:	 9	11  12</pre>
+Активный навык (Стоимость SP: 14, Перезарядка: 15 сек):
+	Призывает торнадо, наносит 178 ледяного урона за удар.
+	<br><img src = "file:///android_res/drawable/weapon_katana_wind.png" class="img-responsive">
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+King Cobra:
+<pre>АТК     CRT
+185     7</pre>
+Пассивный навык: В начале боя даёт 19 SP.
+<br><img src = "file:///android_res/drawable/weapon_greatsword_cobra.png" class="img-responsive">
+</body>
+</html>

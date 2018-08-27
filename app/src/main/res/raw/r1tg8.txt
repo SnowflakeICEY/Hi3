@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" > 
+Mjolnir:
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      190 ?   ?   298     
+CRT      0   ?   ?   6
+Load     14  15  17  18</pre>
+Активный навык(Стоимость SP: 18, перезарядка: 13 сек):
+Кидает  молот, который откидывает врагов, нанося физический урон в размере 321/?/?/404%
+от ATK и ослабляет их. Защита ослабленных врагов уменьшена на 80% на 3.60/?/?/4 секунды<br>
+Пассивный навык:Увеличивает шанс криттического удара на 11/?/?/15%
+<br><img src = "file:///android_res/drawable/weapon_guns_mjolnir.png" class="img-responsive">
+</body>
+</html>

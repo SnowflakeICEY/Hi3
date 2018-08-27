@@ -9,4 +9,4 @@ CRT      4   ?    ?   7
 Load     9   10   11  12</pre>
 Навык: Создаёт силовое поле вокруг сетя,которое уменьшает получаемый урон на 15/?/?/30% от любых врагов,которые были за пределами поля более 3 сек. Эффект спадает, если персонаж вышел за поле более чем на 2 сек.
 
-<img src = "file:///android_res/drawable/stig_nagamitsu_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_nagamitsu_b.png" width="300" height= "300">

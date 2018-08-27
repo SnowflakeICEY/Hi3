@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Alloy Lurker's Cannon:
+<pre>АТК     CRT
+163     17</pre>
+Активный навык:	(Стоимость SP: 12, перезарядка: 9 сек):
+	Бьёт механической рукой по земле, создавая ударные волны. Ударная волна наносит физический урон, равный 90% от АТК.<br>
+Пассивный навык: Пушка."Быстрый тип заряда": уменьшен физический урон от базовых атак на 30%.
+<br><img src = "file:///android_res/drawable/weapon_cannon_lurker.png" class="img-responsive">
+</body>
+</html>

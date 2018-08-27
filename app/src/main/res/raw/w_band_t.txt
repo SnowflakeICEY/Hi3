@@ -9,4 +9,4 @@ CRT      0   ?   ?   0
 Load     9   10  11  12</pre>
 Навык:		Призывает боевого робота-помощника и разблокирует его способность атаковать лазером, которая наносит значительный урон. Увеличивает урон персонажа на 10%/15%/20%/25%, когда на поле боя 2 или более противника.
 
-<img src = "file:///android_res/drawable/stig_einsteint_band_t.jpg" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_einstein_band_t.jpg" width="300" height= "300"> 

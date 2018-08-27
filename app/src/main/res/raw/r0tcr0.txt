@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+ Lightning Angel
+<pre>Редкость: 3   3/1 4
+Уровень:  25  30  35
+АТК:      116 ?   168
+CTR:      22  ?   31 
+Load:     9   11  12</pre>
+Активный навык(Стоимость SP: 15, перезарядка: 15 сек): Призывает крест на 6 сек, спустя 0.7 сек парализует,каждые 1.5 сек наносит 834 Lightning элементального урона.
+
+<br><img src = "file:///android_res/drawable/weapon_crosses_lightning.png" class="img-responsive">
+</body>
+</html>

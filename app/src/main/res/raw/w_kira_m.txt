@@ -1,1 +1,12 @@
 <body bgcolor="#cccccc" >
+<pre>Shigure Kira(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        244 ?   353
+ATK       0   0   0
+DEF       61  ?   90
+CRT       3   ?   4
+Load      9   ?   12</pre>
+Навык:  В бою увеличивает HP и защиту на 8/?/15%.    <br>
+
+<br><img src = "file:///android_res/drawable/stig_kira_m.png" width="300" height= "300">

@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Mutated - Bow of Hel:
+<pre>АТК     CRT
+287     31</pre>
+Активный навык:	(Стоимость SP: 16, перезарядка: 18 сек):
+	Стреляет лучом, которой превращается в поток пуль, который наносит 9*59.8% физического урона от АТК и замораживая врагов на 5 сек.<br>
+Пассивный навык: Увеличивает шанс критического удара на 5%, увеличивает физический урон на 40% по врагам в стане и по замороженым врагам.
+<br><img src = "file:///android_res/drawable/weapon_guns_mutated.png" class="img-responsive">
+</body>
+</html>

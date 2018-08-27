@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<body bgcolor="#cccccc" > 
+Holy Guns - Kallen
+<pre>Редкость 3/0 3/1 4/0
+Уровень  25  30  35              
+ATK      126 ?   183
+CRT      6   ?   10
+Load     9   11  12</pre>
+Пассивный навык:При получении урона, отражает 25/?/40% урона, высвобождая священный свет нанося 290% от ATK,
+уменьшет скорость атаки врага на 75% в течение 4.5 сек. Время восстановления 15 сек.
+<br><img src = "file:///android_res/drawable/weapon_guns_holy.png" class="img-responsive">
+</body>
+</html>

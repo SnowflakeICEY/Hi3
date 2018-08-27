@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Nikola Tesla(T):
 Редкость  3   3/1 4
 Уровень   25  30  35  
@@ -9,7 +20,7 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:      Повышает весь урон по парализованным врагам на  32 / ? / 51 %<br>
 
-<img src = "file:///android_res/drawable/stig_tesla_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_tesla_t.png"  class="img-responsive">
 
 <pre>Nikola Tesla(M):
 Редкость  3   3/1 4
@@ -21,7 +32,7 @@ CRT       3   4   5
 Load      6   7   8</pre>
 Навык:       Повышает весь урон по замороженным врагам на  32 / ? / 51 %<br>
 
-<img src = "file:///android_res/drawable/stig_tesla_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_tesla_m.png"  class="img-responsive">
 
 <pre>Nikola Tesla(B):
 Редкость  3   3/1 4 
@@ -33,7 +44,7 @@ CRT       1   1   1
 Load      6   7   8</pre>
 Навык:	Повышает весь урон по оглушенным врагам на  32 / ? / 51 %<br>
 
-<img src = "file:///android_res/drawable/stig_tesla_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_tesla_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -42,3 +53,7 @@ Load      6   7   8</pre>
 2		  Повышает урон на 15% при разрушенном элитном щите врага<br>
 
 3		Повышает lightning урон на 30%
+
+
+</body>
+</html>

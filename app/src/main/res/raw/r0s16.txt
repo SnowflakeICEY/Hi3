@@ -1,0 +1,60 @@
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
+<pre>Naoe Kanetsugu(T):
+Редкость  3   3/1 4
+Уровень   25  30  35  
+HP        266 ?   386
+ATK       40  ?   58
+DEF       27  ?   40
+CRT       0   0   0
+Load      6   7   8</pre>
+Навык: При условии, что элитный щит не разрушен, увеличивает урон на 15/?/25%.<br>
+При условии, что элитный щит разрушен, увеличивает шанс критического удара на 8/?/15%.
+
+<br><img src = "file:///android_res/drawable/stig_naoe_t.png"  class="img-responsive">
+
+<pre>Naoe Kanetsugu(M):
+Редкость  3   3/1 4
+Уровень   25  30  35
+HP        266 ?   386
+ATK       0   0   0
+DEF       27  ?   40
+CRT       4   ?   6
+Load      6   7   8</pre>
+Навык:  Уменьшает получаемый урон от огня на 10/?/25%. После получения огненного элементального урона, увеличивает физический урон на 20/?/40%, следующие 4 сек, время восстановления 10 сек.    <br>
+
+<br><img src = "file:///android_res/drawable/stig_naoe_m.png"  class="img-responsive">
+
+<pre>Naoe Kanetsugu(B):
+Редкость  3   3/1 4 
+Уровень   25  30  35
+HP        266 ?   386
+ATK       20  ?   29
+DEF       27  ?   40
+CRT       2   ?   3
+Load      6   7   8</pre>
+Навык: Когда враг рядом, восстанавливает 2% HP каждые 6/?/4 сек.<br>
+
+<br><img src = "file:///android_res/drawable/stig_naoe_b.png"  class="img-responsive">
+
+Бонус комплекта:<br>
+
+
+
+		  
+2 Уменьшает получаемый физический урон на 15%.<br>
+	         
+3 Увеличивает урон на 15%.
+
+</body>
+</html>

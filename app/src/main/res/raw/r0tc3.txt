@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Cathode Type-09:
+<pre>АТК     CRT
+182     12</pre>
+Пассивный навык: Лазер. Шанс 1.5% при попадании парализовать врага, длится 2.99 сек.
+<br><img src = "file:///android_res/drawable/weapon_cannon_cathode_9.png" class="img-responsive">
+</body>
+</html>

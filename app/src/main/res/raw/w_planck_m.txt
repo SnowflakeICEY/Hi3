@@ -9,4 +9,4 @@ CRT      4   ?    ?   7
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый физический урон базовых атак (в том числе комбо и заряженных атак) на 34%/51%, но и увеличивает получаемый урон на  46%/?/?/72%<br>
 
-<img src = "file:///android_res/drawable/stig_planck_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_planck_m.png" width="300" height= "300">

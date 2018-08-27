@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"<img src = "file:///android_res/drawable/emoji_rose.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Blood Rose<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"><img src = "file:///android_res/drawable/emoji_rose.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Blood Rose<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_rose.png"width="112" height= "98" align = "left">Хороша в убийстве Abyss боссов.<br>
 
 <img src = "file:///android_res/drawable/valk_rose_stat.png" width="300" height= "240">
@@ -38,27 +38,27 @@ QTE:<img src = "file:///android_res/drawable/effect_stun.png" width="20" height=
 
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Dragon Spine</font></a><br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts4.txt"style="text-decoration: none;"><font color="696969">Dragon Spine</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rowland_t.txt"style="text-decoration: none;"><font color="#000000">Rowland (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dono_m.txt"style="text-decoration: none;"><font color="#000000">Yodo Dono (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</font></a><br>
 Увеличивает урон <font color="#FF8COO">огнём</font>,восстанавливает HP при критическом ударе.<br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Xuanyuan greatsword</font></a><br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts2.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_t.txt"style="text-decoration: none;"><font color="#000000">Planck (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_m.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_b.txt"style="text-decoration: none;"><font color="#000000">Planck (B)</font></a><br>
 Легче получить SP, когда неактивна, после использования ультимативного навыка восстанавливает HP. Увеличивает урон в зависимости от потери HP. Увеличивает урон <font color="#FF8COO">огнём</font>.<br>
 
 
-<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts2.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_t.txt"style="text-decoration: none;"><font color="#000000">Planck (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nuwa_m.txt"style="text-decoration: none;"><font color="#000000">Nuwa (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_fuxi_b.txt"style="text-decoration: none;"><font color="#000000">Fuxi (B)</font></a><br>
 Когда неактивна, после использования ультимативного навыка восстанавливает HP. Увеличивает урон в зависимости от потери HP. Увеличивает урон <font color="#FF8COO">огнём</font> и урон по горящим врагам.<br>
 
-<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
+<img src = "file:///android_res/drawable/icon_greatsword.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1ts2.txt"style="text-decoration: none;"><font color="696969">Blood Dance</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_planck_t.txt"style="text-decoration: none;"><font color="#000000">Planck (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_m.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_fuxi_b.txt"style="text-decoration: none;"><font color="#000000">Fuxi (B)</font></a><br>

@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Rowland(T):
 Редкость  3   3/1 4
 Уровень   25  30  35  
@@ -9,7 +20,7 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:      Восстанавливает 22 / ? / 46 HP каждые 3 сек.<br>
 
-<img src = "file:///android_res/drawable/stig_roland_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_rowland_t.png"  class="img-responsive">
 
 <pre>Rowland(M):
 Редкость  3   3/1 4
@@ -21,7 +32,7 @@ CRT       2   3   4
 Load      6   7   8</pre>
 Навык:       При наложении дебаффа, 35 / 42 / 51 % шанс незамедлительно его снять.<br>
 
-<img src = "file:///android_res/drawable/stig_roland_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_rowland_m.png"  class="img-responsive">
 
 <pre>Rowland(B):
 Редкость  3   3/1 4 
@@ -33,7 +44,7 @@ CRT       2   3   4
 Load      6   7   8</pre>
 Навык:	При HP более 80%, повышает защиту на 19 / 25 / 31 %<br>
 
-<img src = "file:///android_res/drawable/stig_roland_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_rowland_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -45,3 +56,7 @@ Load      6   7   8</pre>
 3		Уменьшает получаемый урон от врагов типа Psychic на 20%
                                 Повышает HP на 20 % в бою, если используется на персонажах Kiana или Kallen.
                                
+
+
+</body>
+</html>

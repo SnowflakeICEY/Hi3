@@ -1,1 +1,13 @@
-﻿<img src = "file:///android_res/drawable/tab_salvate.jpg" align= "left" align= "right">
+Информация о Critical Rate или шансе крита.<br>
+Формула для нахождения шанса критического удара:<br>
+critical rate = crt/(уровень валькирии * 5 +75)<br>
+Пример:<br>
+<pre>
+Уровень валькирии = 60
+crt = 70
+60 * 5 + 75 = 375
+70 : 375 = 0.19%
+0.19 * 100% = 19%
+</pre>
+Из этой формулы можно понять, что Critical rate намного лучше crt.
+ 

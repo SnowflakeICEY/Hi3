@@ -9,4 +9,4 @@ CRT      6   ?    ?   9
 Load     9   10   11  12</pre>
 Навык: Во время Time Fracture увеличивает скорость передвижения на 15/?/?/30% и скорость атаки на 10/?/?/25%.
 
-<img src = "file:///android_res/drawable/stig_dark_nyan_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_dark_nyan_b.png" width="300" height= "300">

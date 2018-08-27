@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Lier Scarlet(T):
 Редкость 4   4/1  4/2  5
 Уровень  35  40   45  50
@@ -9,7 +20,7 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый урон базовых атак (в том числе комбо и заряженных атак) на 23%/?/?/36%, но уменьшает максимальные HP на 20% в бою.<br>
 
-<img src = "file:///android_res/drawable/stig_scarlet_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_scarlet_t.png"  class="img-responsive">
 
 <pre>Lier Scarlet(M):
 Редкость 4   4/1  4/2  5
@@ -21,7 +32,7 @@ CRT      3   ?    ?   5
 Load     9   10   11  12</pre>
 Навык:		Каждую секунду наносит физический урон всем ближайшим противникам в размере 60%/?/?/103% от ATK персонажа и каждые 3 секунды восстанавливает владельцу 12/?/?/20 HP, но уменьшает максимальные HP на 15% в бою.<br>
 
-<img src = "file:///android_res/drawable/stig_scarlet_m.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_scarlet_m.png"  class="img-responsive">
 
 <pre>Lier Scarlet(B):
 Редкость 4   4/1  4/2  5
@@ -33,7 +44,7 @@ CRT      3   ?    ?   5
 Load     9   10   11  12</pre>
 Навык:		Увеличивает скорость передвижения на 11%/?/?/15% и скорость атаки на 16%/?/?/20%, но уменьшает максимальные HP на 15% в бою.
 
-<img src = "file:///android_res/drawable/stig_scarlet_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_scarlet_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -43,3 +54,6 @@ Load     9   10   11  12</pre>
 		Уменьшает получаемый урон от отрицательных эффектов на 70% (например, кровотечения или даже температура в Infinite abyss, но не действует на Ultimate skill Bloody Rose).<br>
 
 3		Активируется, когда HP владельца ниже 5%: в течение 6 секунд персонаж не может умереть и увеличивает шанс и урон критического удара на 80%. Перезарядка 60 секунд.
+
+</body>
+</html>

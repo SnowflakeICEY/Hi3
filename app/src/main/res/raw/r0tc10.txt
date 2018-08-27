@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Xuanyuan Cannon:
+<pre>АТК     CRT
+165     16</pre>
+Активный навык:	(Стоимость SP: 18, перезарядка: 10 сек):
+	Создаёт огненный шар, при попадании огненный шар наносит огненный элементальный урон, равный 419% от АТК, поджигает врагов на 3 сек, горящие враги получают огненный элементальный урон, равный 18% от АТК каждые 0.5 сек.<br>
+Пассивный навык: Пушка.
+<br><img src = "file:///android_res/drawable/weapon_cannon_xyanyuan.png" class="img-responsive">
+</body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Raider Missiles:
+<pre>АТК     CRT
+169     29</pre>
+Активный навык:	(Стоимость SP: 6, перезарядка: 15 сек):
+	Увеличивает скорость передвижения персонажа на 100%.<br>
+Пассивный навык: Самонаводящиеся ракеты.
+<br><img src = "file:///android_res/drawable/weapon_cannon_raider.png" class="img-responsive">
+</body>
+</html>

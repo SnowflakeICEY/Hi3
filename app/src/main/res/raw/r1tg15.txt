@@ -1,0 +1,21 @@
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Usurper Cannon:
+<pre>АТК     CRT
+272     27</pre>
+Активный навык:	(Стоимость SP: 15, перезарядка: 15 сек):
+	Стреляет низкочастотным звуком, который наносит физический урон, равный 379% от АТК, ослабляет врагов, уменьшая их силу атаки на 60% в течение 6 сек. <br>
+Пассивный навык: Увеличивает дистанционный урон на 40%.<br> Снижает исходящий урон на 10% за каждый метр от врага, стак до 80%.
+<br><img src = "file:///android_res/drawable/weapon_guns_usurper.png" class="img-responsive">
+</body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Alloy Godfather Greatsword:
+<pre>АТК     CRT
+155     17</pre>
+Активный навык:	(Стоимость SP: 18, перезарядка: 16 сек):
+	Стреляет лазером вперед, взрывается при ударе по врагу, наносит 536 АОЕ огненного элементальныого урона.<br>
+<br><img src = "file:///android_res/drawable/weapon_greatsword_godfather.png" class="img-responsive">
+</body>
+</html>

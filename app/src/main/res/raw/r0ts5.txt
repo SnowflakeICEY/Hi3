@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Crimson Queen:
+<pre>АТК     CRT
+120     15</pre>
+Пассивный навык: Увеличивает исходящий физический урон на 0.6% за каждые потеряные 1% HP.
+<br><img src = "file:///android_res/drawable/weapon_greatsword_crimson.png" class="img-responsive">
+</body>
+</html>

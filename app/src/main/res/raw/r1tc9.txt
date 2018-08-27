@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+ Flint Sanada
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      175 ?   ?   275
+CRT      21  ?   ?   34
+Load     14  15  17  18</pre>
+Активный навык(Стоимость SP:20, перезярядка: 120 сек): Увеличивает скорость атаки на 100% на 8.01/?/?/12 секунд.<br>
+Пассивный навык: Самонаводящиеся ракеты. Каждое попадание наносит дополнительно 27/?/?/56 урона огнем и вызывает отложенный взрыв, который наносит 274/?/?/490 урона огнем по области.<br>
+<br><img src = "file:///android_res/drawable/weapon_cannon_sanada.png" class="img-responsive">
+</body>
+</html>

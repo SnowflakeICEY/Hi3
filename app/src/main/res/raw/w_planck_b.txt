@@ -9,4 +9,4 @@ CRT      1   ?    ?   2
 Load     9   10   11  12</pre>
 Навык:		Увеличивает скорость атаки на 22%/?/?/31%, но уменьшает скорость передвижения на 32%/?/?/41%<br>
 
-<img src = "file:///android_res/drawable/stig_planck_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_planck_b.png" width="300" height= "300">

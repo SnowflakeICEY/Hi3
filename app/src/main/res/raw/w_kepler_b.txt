@@ -1,4 +1,4 @@
-﻿<body bgcolor="#cccccc" >
+<body bgcolor="#cccccc" >
 <pre>Kepler(B)
 Редкость 4   4/1 4/2 5
 Уровень  35  40  45  50
@@ -8,4 +8,4 @@ DEF      43  ?   ?   70
 CRT      6   ?   ?   11      
 Load     9   10  11  12</pre>
 Навык: Критический удар восстанавливает 130 / ? / ? / 250 HP. Перезарядка 6 сек.
-<img src = "file:///android_res/drawable/stig_kepler_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_kepler_b.png" width="300" height= "300">

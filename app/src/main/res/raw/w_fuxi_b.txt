@@ -9,4 +9,4 @@ CRT      5   ?    ?   8
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый стихийный урон против подожженных врагов на 34%/?/?/51%.<br>
 
-<img src = "file:///android_res/drawable/stig_fuxi_b.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_fuxi_b.png" width="300" height= "300"> 

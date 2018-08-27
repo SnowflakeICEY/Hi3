@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Balmung
+<pre>Редкость 4   4/1 4/2  5
+Уровень  35  40  45   50
+ATK      181  ?   ?   285
+CRT      20   ?   ?   32
+Load     14   15  17  18</pre>
+Пассивный навык: Каждая атака вызывает волну, которая наносит 44/?/?/80% урона. 15% шанс вызвать усиленную волну, которая наносит 88/?/?/160% урона. Перезарядка 0.8 секунд.<br>
+Активный навык(Стоимость SP: 20, перезарядка: 25 сек): Увеличивает физический урон на 13/?/?/25% и делает все волны усиленными на 8 секунд.<br>
+
+<br><img src = "file:///android_res/drawable/weapon_greatsword_balmung.png" class="img-responsive">
+
+</body>
+</html>

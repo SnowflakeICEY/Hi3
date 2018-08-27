@@ -1,4 +1,15 @@
-﻿<body bgcolor="#cccccc" >
+﻿<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" >
 <pre>Ji Xuanyuan(T):
 Редкость 4   4/1  4/2  5
 Уровень  35  40   45  50
@@ -9,7 +20,7 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый физический урон от атак при смене персонажа (в том числе QTE) на 36%/?/?/62%.<br>
 
-<img src = "file:///android_res/drawable/stig_nyan_t.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_nyan_t.png"  class="img-responsive">
 
 <pre>Ji Xuanyuan(M):
 Редкость 4   4/1  4/2  5
@@ -21,7 +32,7 @@ CRT      3   ?    ?   6
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый физический урон заряженных атак на 23%/?/?/36%.<br>
 
-<img src = "file:///android_res/drawable/stig_nyan_m.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_nyan_m.png"  class="img-responsive">
 
 <pre>Ji Xuanyuan(B):
 Редкость 4   4/1  4/2  5
@@ -33,7 +44,7 @@ CRT      0   ?    ?   1
 Load     9   10   11  12</pre>
 Навык:		Увеличивает ВЕСЬ наносимый урон от активной способности оружия на 24%/?/?/41%.<br>
 
-<img src = "file:///android_res/drawable/stig_nyan_b.png" width="300" height= "300"> 
+<br><img src = "file:///android_res/drawable/stig_nyan_b.png"  class="img-responsive">
 
 Бонус комплекта:<br>
 
@@ -45,3 +56,7 @@ Load     9   10   11  12</pre>
 		следующей базовой атаки (в том числе комбо и заряженной атаки) и на небольшой промежуток после неё.
 
 
+
+
+</body>
+</html>

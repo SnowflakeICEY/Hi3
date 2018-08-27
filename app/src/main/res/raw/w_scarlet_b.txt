@@ -9,4 +9,4 @@ CRT      3   ?    ?   5
 Load     9   10   11  12</pre>
 Навык:		Увеличивает скорость передвижения на 11%/?/?/15% и скорость атаки на 16%/?/?/20%, но уменьшает максимальные HP на 15% в бою.
 
-<img src = "file:///android_res/drawable/stig_scarlet_b.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_scarlet_b.png" width="300" height= "300">

@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Project Bunny 19C
+<pre>Редкость 4   4/1 4/2 5
+Уровень  35  40  45  50
+ATK      183 ?   ?   287
+CRT      10  ?   ?   19
+Load     14  15  17  18</pre>
+Пассивный навык: Лазер. Физический урон по нормальным врагам (не боссам) увеличен на 36/?/?/60%.<br>
+36/?/?/60% шанс увеличить физический урон персонажа на 55/?/?/75% на 3 секунды после убийства врага.<br>
+
+<br><img src = "file:///android_res/drawable/weapon_cannon_bunny.png" class="img-responsive">
+</body>
+</html>

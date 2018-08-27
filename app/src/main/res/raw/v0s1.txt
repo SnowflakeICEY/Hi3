@@ -17,7 +17,7 @@ body {
     margin: 0; 
    }
 </style>
-<p align="center" <img src = "file:///android_res/drawable/emoji_ranger.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*Valkyrie Ranger<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"> <img src = "file:///android_res/drawable/emoji_ranger.png" width="20" height= "20"align= "top" align= "middle">Kiana Kaslana*Valkyrie Ranger<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_ranger.png"width="112" height= "98"align="left">
 Может стягивать ближайших врагов в кучу при успешном уклонении.Комбинации с этой валькирией часто используются в Abyss.Удобна для прохождения матрицы.<br>
 
@@ -36,14 +36,14 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 <img src = "file:///android_res/drawable/emoji_chariot.png" width="20" height= "20"align= "top" align= "middle">Valkyrie Chariot  >>><br>
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tg0.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/r0tg6.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rowland_t.txt"style="text-decoration: none;"><font color="#000000">Rowland (T)</a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)</a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_rinaldo_b.txt"style="text-decoration: none;"><font color="#000000">Rinaldo (B)</a><br>
 Позволяет активировать QTE одного из напарников используя активный скилл оружия .<br>
 <br>
 
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tg0.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/r0tg6.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-I</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_t.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_m.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_origins_b.txt"style="text-decoration: none;"><font color="#000000">Theresa: Origins (B)</font></a><br>
@@ -51,27 +51,27 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a><br>
-<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopathra_t.txt"style="text-decoration: none;"><font color="#000000">Cleopathra (T)</font></a><br>
-<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopathra_m.txt"style="text-decoration: none;"><font color="#000000">Cleopathra (M)</font></a><br>
-<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopathra_b.txt"style="text-decoration: none;"><font color="#000000">Cleopathra (B)</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tg8.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_t.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_m.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_cleopatra_b.txt"style="text-decoration: none;"><font color="#000000">Cleopatra (B)</font></a><br>
 Увеличивает скорость персонажа. Увеличивает урон по врагам без элитного щита и врагов в стане<br>
 <br>
 
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"><a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-II</a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"><a href="file:///android_res/raw/r1tg8.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a>/<a href="file:///android_res/raw/r0tg0.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/r0tg7.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-II</a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"><a href="file:///android_res/raw/w_seele_t.txt"style="text-decoration: none;"><font color="#000000"> Seele Vollerei (T)</a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"><a href="file:///android_res/raw/w_siegfried_m.txt"style="text-decoration: none;"><font color="#000000"> Siegfried Kaslana (M)</a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"><a href="file:///android_res/raw/w_seele_b.txt"style="text-decoration: none;"><font color="#000000"> Seele Vollerei (B)</font></a><br>
 Увеличивает физический урон и скорост атаки если SP больше 150<br>
 <br>
 Abyss Setup<br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</a></font>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-II</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</a></font>/<a href="file:///android_res/raw/r0tg0.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/r0tg7.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-II</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_siegfried_m.txt"style="text-decoration: none;"><font color="#000000">Siegfried Kaslana (M)</a></font><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>
 Увеличивает физический урон и уменьшает урон от температуры.<br>
 <br>
-<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/w_.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-II</font></a><br>
+<img src = "file:///android_res/drawable/icon_guns.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tg8.txt"style="text-decoration: none;"><font color="696969">Mjolnir</font></a>/<a href="file:///android_res/raw/r0tg0.txt"style="text-decoration: none;"><font color="696969">Artemist Guardian</font></a>/<a href="file:///android_res/raw/r0tg7.txt"style="text-decoration: none;"><font color="696969">Water Spirit Type-II</font></a><br>
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kepler_b.txt"style="text-decoration: none;"><font color="#000000">Kepler (B)</font></a><br>

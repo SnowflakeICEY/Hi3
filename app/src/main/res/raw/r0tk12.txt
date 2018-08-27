@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Phoenix Sword:
+<pre>Редкость:3   4
+Уровень: 25  35
+ATK:	 108 158
+CRT:	 18  25
+Load:	 9   12</pre>
+Пассивный навык: наносится дополнительно 15/?/36 огненного урона при попадании в цель.
+		 увеличение огненного урона по подожженым противникам на 11/?/18% при наличии Kiana в отряде.
+		 <br><img src = "file:///android_res/drawable/weapon_katana_phoenix.png" class="img-responsive">
+</body>
+</html>

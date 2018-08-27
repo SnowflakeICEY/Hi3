@@ -1,4 +1,4 @@
-﻿<body bgcolor="#cccccc" >
+<body bgcolor="#cccccc" >
 <pre>Schrodinger(T):
 Редкость 4   4/1  4/2 5
 Уровень  35  40   45  50
@@ -9,4 +9,4 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		Раз в 6 секунд ваша следущая базовая атака (в том числе комбо и заряженные атаки) с 50% шансом нанесет на 120%/?/?/205% (в ином случае на 26%/?/?/52%) урона больше и на столько же увеличит наносимый урон на короткий отрезок времени.<br>
 
-<img src = "file:///android_res/drawable/stig_schrodinger_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_schrodinger_t.png" width="300" height= "300">

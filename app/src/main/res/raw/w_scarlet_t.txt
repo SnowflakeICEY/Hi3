@@ -9,4 +9,4 @@ CRT      0   0    0   0
 Load     9   10   11  12</pre>
 Навык:		Увеличивает наносимый урон базовых атак (в том числе комбо и заряженных атак) на 23%/?/?/36%, но уменьшает максимальные HP на 20% в бою.<br>
 
-<img src = "file:///android_res/drawable/stig_scarlet_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_scarlet_t.png" width="300" height= "300">

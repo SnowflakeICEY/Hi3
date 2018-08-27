@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Inquisition Torch:
+<pre>АТК     CRT
+165     16</pre>
+Пассивный навык: Каждый удар имеет шанс нанести 302 огненного элементального урона по врагу и его окружению.
+<br><img src = "file:///android_res/drawable/weapon_greatsword_inquisition.png" class="img-responsive">
+</body>
+</html>

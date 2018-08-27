@@ -9,4 +9,4 @@ CRT       0   0   0
 Load      6   7   8</pre>
 Навык:      Увеличивает физический урон от атак типа Charge(Атаки персонажей Bronya и Himeko) на 11 / 14 / 18 % <br>
 
-<img src = "file:///android_res/drawable/stig_ryouma_t.png" width="300" height= "300">
+<br><img src = "file:///android_res/drawable/stig_ryouma_t.png" width="300" height= "300">

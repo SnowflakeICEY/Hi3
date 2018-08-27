@@ -5,10 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ExpandableListView;
-import android.widget.ListView;
 import android.widget.SimpleExpandableListAdapter;
 
 import java.util.ArrayList;
@@ -21,13 +18,21 @@ import java.util.Map;
 
 public class StigmataActivity extends AppCompatActivity {
     private String[] mGroupsArray = new String[]{"★★★☆/☆","★★★★☆/☆☆",};
-    private String mThreeStars[] = { "Attila","Charlemagne","Dragon Boat Festival","Edison","Elizabeth Bathory","Ji Xuanyuan Aqua","Nikola Tesla","Ogier","Rinaldo","Rowland","Sakamoto Ryouma"
-    ,"Wang Zhaojun","Yodo Dono",};
+    private String mThreeStars[] = { "Attila","Charlemagne","Dragon Boat Festival",
+            "Edison","Elizabeth Bathory","Ji Xuanyuan Aqua","Nikola Tesla","Ogier",
+            "Rinaldo","Rowland","Sakamoto Ryouma"
+    ,"Wang Zhaojun",
+            "Yodo Dono" ,
+            "Theresa: Origin" ,
+            "Sakura: Blistering Summer" ,
+            "Shigure Kira" ,
+            "Naoe Kanetsugu" ,
+            "Bronya: Magic",};
     //Создаем массив разделов:
     private String mFourStars[] = {
             "Beach Party",
             "Bronya Sloth ",
-           "Cleopathra",
+           "Cleopatra",
             "Dracula",
            "Einstein",
            "Einstein Band",
@@ -47,13 +52,20 @@ public class StigmataActivity extends AppCompatActivity {
            "Shakspeare",
             "Shennong",
             "Tesla Band",
-            "Theresa",
+            "Theresa Gluttony",
            "Yae Sakura",
            "Yae Sakura Prayer",
             "Zhugekongming",
             "Dark Jixuanyuan",
             "Higokumaru",
-            "Nagamitsu",
+            "Nagamitsu" ,
+            "Sin Mal" ,
+            "Kukuria" ,
+            "Kallen: Hymn" ,
+            "Celine" ,
+            "Mary Shelley" ,
+            "Siegfried Kaslana" ,
+            "Picasso",
     };
 
     public void onCreate(Bundle savedInstanceState) {

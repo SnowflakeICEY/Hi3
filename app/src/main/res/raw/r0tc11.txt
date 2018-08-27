@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<body bgcolor="#cccccc" > 
+Ai-Chan's Cannon:
+<pre>АТК     CRT
+174     3</pre>
+Пассивный навык: Пушка. На 3 этапе заряда, каждый удар имеет шанс 66.3% повесить дебафф "уязвимость" на врага, дебафф снижает скорость передвижения врага, не стакается с другими эффектами на снижение скорости.
+<br><img src = "file:///android_res/drawable/weapon_cannon_aichan.png" class="img-responsive">
+</body>
+</html>
