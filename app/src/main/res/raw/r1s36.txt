@@ -1,0 +1,53 @@
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<pre>Kiana: One Year Anniversary  (T)       
+Редкость 4   5
+Уровень  35  50
+HP       261 411       
+ATK      53  83       
+DEF      41  66       
+CRT      0   0      
+Load     9   12</pre>
+Навык: При HP выше 800, за каждые 400 HP сверху увеличивает физический урон на 1/4% (стак до 7 раз). 
+
+<img src = "file:///android_res/drawable/stig_one_t.png" class="img-responsive">
+   
+<pre>Mei: One Year Anniversary  (M)      
+Редкость 4   5
+Уровень  35  50
+HP       261 411      
+ATK      0   0       
+DEF      124 199       
+CRT      3   7      
+Load     9   12</pre>
+Навык: При HP выше 800, за каждые 400 HP сверху уменьшает получаемый физический урон на 1/4% (стак до 7 раз).
+
+<img src = "file:///android_res/drawable/stig_one_m.png" class="img-responsive">  
+   
+<pre>Bronya: One Year Anniversary (B)         
+Редкость 4   5
+Уровень  35  50
+HP       292 459     
+ATK      26  42      
+DEF      28  44       
+CRT      5   8       
+Load     9   12</pre>
+Навык: При HP выше 800, за каждые 400 HP сверху увеличивает скорость атаки на 1/2% (стак до 7 раз).
+
+<img src = "file:///android_res/drawable/stig_one_b.png" class="img-responsive">
+Бонус комплекта:<br>
+
+2 Увеличивает CRT на 30. Увеличивает критический урон на 40%.<br>
+
+3 Увеличивает показатель HP в бою на 15%. Уменьшает стоимость умений на 30%.
+</body>
+</html>

@@ -1,0 +1,77 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<p align="center"><img src = "file:///android_res/drawable/emoji_hymn.png" width="20" height= "20"align= "top" align= "middle">Theresa Apocalypse*Celestial Hymn<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<img src = "file:///android_res/drawable/valk_hymn.png"width="112" height= "98"align= "left"><br>
+
+<img src = "file:///android_res/drawable/valk_hymn_stat.png" width="300" height= "240">
+<br>
+Основные комбинации:<img src = "file:///android_res/drawable/effect_charge.png" width="20" height= "20"align= "top" align= "middle"><img src = "file:///android_res/drawable/effect_impared.png" width="20" height= "20"align= "top" align= "middle"><img src = "file:///android_res/drawable/effect_attract.png" width="20" height= "20"align= "top" align= "middle"><br>
+QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle">Замедление времени<br>
+При активации QTE наносит 5 х 250% физического урона от АТК и уменьшает защиту врагов на 50%, длится 7 сек.
+<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Навыки:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Evasion Skill: После уклонения при нажатии кнопки атаки есть шанс атаковать заряженной атакой. При успешном уклонении даёт всей команде "набор thornmail", который значительно увеличивает стойкость и наносит физический урон, равный 30% от АТК каждые 0.4 сек, длится 5 сек.  <br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Ultimate Skill: При активации призывает лезвие, которое стягивает и рубит врагов, нанося физический урон, равный 50х40% от АТК. После окончания стяжки враги,которые были в ней, получают срез защиты на 75%, длится 10 сек. Потребляет 125 SP.  <br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Leader Skill: Увеличивает максимальные SP на 12%, если в команде 3 персонажа типа <font color="#B8860B">Creature</font> увеличивает их физический урон на 20%</font>. <br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Passive Skill: При старте SP + 36. Критический урон увеличен на 30% для всех союзников по противникам с уменьшенной защитой. После призыва креста у всей команды физический урон увеличен на 25%, длится 7.5 сек.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Basic Attack: 3 × 40% / 3 × 40% / 4 × 40% / 6 × 40% / 5 × 45% ATK. Шанс критического удара увеличен на 25%. При комбо 45 и выше базовые атаки имеют шанс 40% восстановить 2SP всей команде.<br>
+<br>
+ sS-Ранг:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Evasion Skill: При успешном уклонении дополнительно наносит физический урон, равный 40.1% от АТК.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Ultimate Skill: Каждый удар дополнительно наносит физический урон, равный 30% от АТК.<br>
+ sSs-Ранг:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Ultimate Skill: У врагов в стяжке уменьшена скорость атаки на 75% и они дополнительно получают 1001 ледяного элементального урона, каждые 0.4 сек.<br>
+ 
+Рекомендации:<br>
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_snow.png" width="20" height= "20"align= "top" align= "middle">Snowy Sniper >>>>><br>
+<img src = "file:///android_res/drawable/emoji_breaker.png" width="20" height= "20"align= "top" align= "middle">Dimensional Breaker >>>>><br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr4.txt"style="text-decoration: none;"><font color="696969">11th Sacred Relic</font></a>/<a href="file:///android_res/raw/r1tcr0.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a>/<a href="file:///android_res/raw/r1tcr1.txt"style="text-decoration: none;"><font color="696969">Blood Embrace</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_hymn_t.txt"style="text-decoration: none;"><font color="#000000">Kallen: Hymn (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_hymn_m.txt"style="text-decoration: none;"><font color="#000000">Kallen: Hymn (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_hymn_b.txt"style="text-decoration: none;"><font color="#000000">Kallen: Hymn (B)</font></a><br>
+Быстрее накапливается SP, увеличивает физический урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr0.txt"style="text-decoration: none;"><font color="696969">Oath of Judah</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a>/<a href="file:///android_res/raw/w_siegfried_m.txt"style="text-decoration: none;"><font color="#000000">Siegfried Kaslana (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>
+Увеличивает физический урон, уменьшает перезарядку активного скилла оружия(Если используется Siegfried Kaslana (M)), увеличивает <font color="#FFFF00">lightning</font> урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr4.txt"style="text-decoration: none;"><font color="696969">11th Sacred Relic</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_m.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_kepler_b.txt"style="text-decoration: none;"><font color="#000000">Kepler (B)</font></a><br>
+Уменьшает урон от температуры, увеличивает физический урон, восстанавливает HP при критическом ударе.<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tcr4.txt"style="text-decoration: none;"><font color="696969">11th Sacred Relic</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dracula_m.txt"style="text-decoration: none;"><font color="#000000">Dracula (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>
+Уменьшает урон от температуры, увеличивает физический урон и скорость, восстанавливает HP при атаке ослабленного врага, восстанавливает больше SP при атаке по врагам с кровотечением.
+
+

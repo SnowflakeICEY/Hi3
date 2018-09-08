@@ -1,0 +1,74 @@
+<html>
+<head>
+<script type="text/javascript">
+function toggle_show(id) {
+	document.getElementById(id).style.display = document.getElementById(id).style.display == 'none' ? 'block' : 'none';
+}
+</script>
+</head>
+<body bgcolor="#cccccc" >
+ <style type="text/css">
+body {
+    margin: 0;
+   }
+   ul, li {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+   }
+</style>
+
+<body bgcolor="#cccccc" >
+<p align="center"><img src = "file:///android_res/drawable/emoji_sakitama.png" width="20" height= "20"align= "top" align= "middle">Yae Sakura*Flame Sakitama<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<img src = "file:///android_res/drawable/valk_sakitama.png"width="112" height= "98"align= "left"> Awakening Soul(Valkurie Bladestrike)<br>
+
+<img src = "file:///android_res/drawable/valk_sakitama_stat.png" width="300" height= "240">
+<br>
+Основные комбинации: <img src = "file:///android_res/drawable/effect_fire.png" width="20" height= "20"align= "top" align= "middle"><img src = "file:///android_res/drawable/effect_float.png" width="20" height= "20"align= "top" align= "middle"><img src = "file:///android_res/drawable/effect_time.png" width="20" height= "20"align= "top" align= "middle"><img src = "file:///android_res/drawable/effect_knockback.png" width="20" height= "20"align= "top" align= "middle"><br>
+QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" height= "20"align= "top" align= "middle">Враг парализован<br>
+При активации QTE наносит 12 х 50% АТК + 100% огненного элементального урона в зависимости от нажатий.
+<br>
+Навыки:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Evasion Skill: При успешном уклонении создаёт <font color="#9400D3">Time Fracture</font> на 4 сек. Время восстанавления 15 сек.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Ultimate Skill: При активации атакует случайных противников несколько раз и вешает на них <font color="#8A2BE2">Time Lock</font>.<br> Атакует случайного противника 8 раз, каждый удар наносит элементальный огненный урон, равный 200% от АТК.<br> Наносит огненный элементальный урон огнём на большой территории в размере 400% от АТК и создаёт <font color="#8A2BE2">Time Slow</font>.<br> Усиливает персонажа на 9 сек, во время усиления персонаж игнорируеи урон и атакует быстрее.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Leader Skill: Увеличивает защиту на 30%</font>. Увеличивает максимальные HP персонажам типа <font color="#B8860B">Creature</font> на 7%</font>. <br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Passive Skill: Увеличивает урон по замедленным врагам на 30%.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Basic Attack: 100 / 100 / 150 / 150 / 150% ATK. При нажатии на кнопку атаки после 4-х слэшей производится дополнительная атака, которая наносит огненный элементальный урон, равный 650% от АТК.<br> При комбо выше 30/50 первые 4 слэша наносят 274/430 огненного элементального урона. Увеличена стойкость.<br>Скорость атаки первых 4-х слэшей увеличена на 30%. Во время 4-го слэша получаемый урон уменьшен на 80% и увеличена стойкость.<br>
+<br>
+ S-Ранг:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Passive Skill: Игнорирует прерывание комбо, каждые 30 сек, действует для всей команлы.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Ultimate Skill: Увеличивает урон на 19% на 10 сек после использования навыка.<br>
+ sS-Ранг:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Passive Skill: При успешной дополнительной атаке добавляет 240 энергии(Красная полоска). Каждый 200 энергии увеличивают урон на 17%(стак до 68%). Если Сакура активна, то потребляет 30 энергии в сек.<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Basic Attack: Базовая дополнительная атака восстанавливает 3.5 SP.<br>
+ sSs-Ранг:<br>
+ <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle">Ultimate Skill: Базовая дополнительная атака наносит больше на 19% огненного элементального урона от АТК <br>
+ 
+
+Рекомендации:<br>
+
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
+
+<img src = "file:///android_res/drawable/emoji_prayer.png" width="20" height= "20"align= "top" align= "middle">Divine Prayer >>>><br>
+<img src = "file:///android_res/drawable/emoji_breaker.png" width="20" height= "20"align= "top" align= "middle">Dimensional Breaker >>>><br>
+
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r0tk6.txt"style="text-decoration: none;"><font color="696969">Pulse Katana Type-19</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_naoe_t.txt"style="text-decoration: none;"><font color="#000000">Naoe Kanetsugu (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_dono_m.txt"style="text-decoration: none;"><font color="#000000">Yodo Dono (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_sakura_summer_b.txt"style="text-decoration: none;"><font color="#000000">Sakura: Blistering Summer (B)</font></a><br>
+Увеличивает физический и <font color="#FF8COO">огненный</font> урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Advanced Setup
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tk2.txt"style="text-decoration: none;"><font color="696969">Demon Blade - Florid Sakura</font></a>/<a href="file:///android_res/raw/r1tk3.txt"style="text-decoration: none;"><font color="696969">Fairy Sword Silven</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_higokumaru_t.txt"style="text-decoration: none;"><font color="#000000">Higokumaru (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nuwa_m.txt"style="text-decoration: none;"><font color="#000000">Nuwa (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_higokumaru_b.txt"style="text-decoration: none;"><font color="#000000">Higokumaru (B)</font></a><br>
+Увеличивает физический и <font color="#FF8COO">огненный</font> урон.<br>
+<br>
+<img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Abyss Setup<br>
+<img src = "file:///android_res/drawable/icon_cross.png" width="25" height= "25"align= "top" align= "middle"> <a href="file:///android_res/raw/r1tk2.txt"style="text-decoration: none;"><font color="696969">Demon Blade - Florid Sakura</font></a>/<a href="file:///android_res/raw/r1tk3.txt"style="text-decoration: none;"><font color="696969">Fairy Sword Silven</font></a><br>
+<img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_t.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (T)</font></a><br>
+<img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_nuwa_m.txt"style="text-decoration: none;"><font color="#000000">Nuwa  (M)</font></a><br>
+<img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_scarlet_b.txt"style="text-decoration: none;"><font color="#000000">Lier: Scarlet (B)</font></a><br>
+Уменьшает урон от температуры, увеличивает физический и <font color="#FF8COO">огненный</font> урон.<br>
