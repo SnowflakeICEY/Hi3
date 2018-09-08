@@ -28,7 +28,7 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Fusion Shuttle: Увеличивает скорость передвиждения на 40% в течении 3сек после уворота.При удачном увороте получает электрический заряд,увеличивает стойкость.Время восстановления 15 сек.  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Nexus Unlock: Nexus увеличивает физические способности Himeko. При активации увеличивает АТК,скорость атаки также наносит <font color="#FFFF00">lightning</font> урон с каждой атаки.Для активации нужно 100SP,потребляет 20SP при активации и 10SP/сек<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Fusion Arms: Увеличение урона на <font color="#2196F3">20%</font> при смене персонажа  <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Fusion Arms: Увеличение урона на 20%</font> при смене персонажа  <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

@@ -19,7 +19,7 @@ body {
 <ul>
 <body bgcolor="#cccccc" >
 
-<p align="center"><li onClick="toggle_show('himeko')" type="none"><img src = "file:///android_res/drawable/emoji_storm.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Battle Storm<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center" <li onClick="toggle_show('himeko')" type="none"><img src = "file:///android_res/drawable/emoji_storm.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Battle Storm<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
 <ul id="himeko" style="display: none" type="none"  >
 <li>
 Murata Himeko<br>
@@ -40,7 +40,7 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Sprint: После уворота увеличивает скорость на 40%,при удачном увороте создаёт <font color="#9400D3">Time Fracture</font>,Время восстановления 15 сек <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Tornado Storm: Вращается как торнадо и наносит окружающим врагам физический урон равный 7х80 от АТК. Последний удар наносит 400% от АТК. Притягивает врагов при активации.Потребляет 50 SP <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Stand By: Уменьшает физический урон нанесённый команде на <font color="#2196F3">20%</font>. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Stand By: Уменьшает физический урон нанесённый команде на 20%</font>. <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

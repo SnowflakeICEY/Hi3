@@ -16,6 +16,6 @@ Markov Type C:
 Активный навык:	(Стоимость SP: 12, перезарядка: 20 сек):
 	Улучшение оружия, увеличение его скорости атаки на 75%, длится 4.99 сек.<br>
 Пассивный навык: Самонаводящиеся ракеты.
-<br><img src = "file:///android_res/drawable/weapon_markov_c.png" class="img-responsive">
+<br><img src = "file:///android_res/drawable/weapon_cannon_markov_c.png" class="img-responsive">
 </body>
 </html>

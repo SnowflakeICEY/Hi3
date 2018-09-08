@@ -29,7 +29,7 @@ QTE:<img src = "file:///android_res/drawable/effect_stun.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Shadow Step: Быстро телепортируется и уворачивается от врагов. При удачном увороте создает свои копии. Время восстановления 10 сек<br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Tsukuyomi: при активации использует энергию валькирии и создает копию себя,потребляет 75 SP <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Monster Outbreak: увеличивает шанс критического удара на <font color="#2196F3">17%</font> если HP команды более 80% <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Monster Outbreak: увеличивает шанс критического удара на 17%</font> если HP команды более 80% <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

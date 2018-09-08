@@ -25,7 +25,7 @@ Load     9   10  11  12</pre>
 
 
 
-<br><img src = "file:///android_res/drawable/stig_bronya.png">  
+<br><img src = "file:///android_res/drawable/stig_bronya.png" class = "img-responsive">  
 
 </body>
 </html>

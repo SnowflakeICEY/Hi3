@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"><img src = "file:///android_res/drawable/emoji_triumph.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Valkyrie Triumph<img src = "file:///android_res/drawable/icon_mecha.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"><img src = "file:///android_res/drawable/emoji_triumph.png" width="20" height= "20"align= "top" align= "middle">Murata Himeko*Valkyrie Triumph<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_triumph.png"width="112" height= "98" align= "left">Устанавливает купол на врагов и атакует их, восстанаваливая HP команде.<br>
 
 <img src = "file:///android_res/drawable/valk_triumph_stat.png" width="300" height= "240">
@@ -28,7 +28,7 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Shock Wave: При удачном увороте оглушает всех врагов на 2 сек,Время восстановления 20 сек <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Blade Field: Создаёт купол над врагами, в зоне действия купола время идёт очень медленно,через 8 сек купол наносит физический урон равный 800% от АТК. Потребляет 125 SP <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Triumph: Увеличивает физический урон всей команде на <font color="#2196F3">20%</font>,союзникам типа Creature повышает защиту на <font color="#2196F3">30%</font> при условии,что HP команды более 80%.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Triumph: Увеличивает физический урон всей команде на 20%</font>,союзникам типа Creature повышает защиту на 30%</font> при условии,что HP команды более 80%.<br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

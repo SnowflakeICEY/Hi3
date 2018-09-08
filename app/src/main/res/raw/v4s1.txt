@@ -24,11 +24,11 @@ body {
 
 <img src = "file:///android_res/drawable/valk_memento_stat.png" width="300" height= "240">
 <br>
-QTE:<img src = "file:///android_res/drawable/effect_shild_break.png" width="20" height= "20"align= "top" align= "middle"> элитный щит разрушен<br>
+QTE:<img src = "file:///android_res/drawable/effect_shild_break.png" width="20" height= "20"align= "top" align= "middle"> Элитный щит разрушен<br>
 <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Clone Step: При удачном увороте создаёт ледяную статую,которая взрывается через 1 сек и наносит <font color="#6495ED">ледяной</font>  урон равный 200% от АТК. Время восстановления 15 сек <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Final Breath:Ледяной ветер наносит урон, равный в общей сложности 900% от ATK,последний удар <font color="#6495ED">замораживает</font> врага.Разбивает лёд,нанося физический урон,равный 1200% от АТК. Восстанавливает 250 единиц кинетической энергии. Стоимость 125 SP <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Sakura Dance: Увеличивает шанс критического удара на <font color="#2196F3">15%</font> <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Clone Step: При удачном увороте создаёт ледяную статую,которая взрывается через 1 сек и наносит <font color="#6495ED">ледяной</font>  урон равный 200% от АТК. Время восстановления 15 сек. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Final Breath:Ледяной ветер наносит урон, равный в общей сложности 900% от ATK,последний удар <font color="#6495ED">замораживает</font> врага.Разбивает лёд,нанося физический урон,равный 1200% от АТК. Восстанавливает 250 единиц кинетической энергии. Стоимость 125 SP.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Sakura Dance: Увеличивает шанс критического удара на 15%</font>. <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

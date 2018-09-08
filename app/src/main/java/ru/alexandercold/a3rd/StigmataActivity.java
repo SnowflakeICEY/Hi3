@@ -66,12 +66,13 @@ public class StigmataActivity extends AppCompatActivity {
             "Mary Shelley" ,
             "Siegfried Kaslana" ,
             "Picasso",
+            "One Year"
     };
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_stigmata);
+        setContentView(R.layout.activity_expandable);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<p align="center"><img src = "file:///android_res/drawable/emoji_strike.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei * Valkyrie Bladestrike<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"></p>
+<p align="center"><img src = "file:///android_res/drawable/emoji_striker.png" width="20" height= "20"align= "top" align= "middle">Raiden Mei * Valkyrie Bladestrike<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"></p>
 <img src = "file:///android_res/drawable/valk_strike.png" width ="112" height= "98"align="left">
 Хорошо набивает комбо.<br>
 
@@ -29,7 +29,7 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Phantom Blade: Быстро телепортируется и уворачивается от врагов. При удачном увороте запускает <font color="#9400D3">Time Fracture</font>. Время восстановления  15 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Susanoo: При активации выплёскивает энергию валькирии. Чтобы активировать нужно 100SP, потребляет 20SP при использовании и 10SP/сек <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Enchantment of Sakura: Увеличивает защиту на <font color="#2196F3">30%</font>. Увеличивает максимальные HP на <font color="#2196F3">7%</font> у Валькирий типа creature <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Enchantment of Sakura: Увеличивает защиту на 30%</font>. Увеличивает максимальные HP на 7%</font> у Валькирий типа creature <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

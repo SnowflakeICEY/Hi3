@@ -28,10 +28,6 @@
             android:label="@string/title_activity_valkuria"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".HonkaiActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".HonkaiStart"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
@@ -106,13 +102,9 @@
             android:label="@string/title_activity_table_view"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".QiwiActivity"
-            android:label="@string/title_activity_qiwi"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".ThankActivity"
             android:label="@string/title_activity_thank"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

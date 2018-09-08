@@ -12,7 +12,7 @@
         <item
             android:id="@+id/nav_thank"
             android:icon="@drawable/ic_gesture_black_24dp"
-            android:title="Благодарности" />
+            android:title="Участвовали в разработке" />
         <item
             android:id="@+id/nav_settings"
             android:icon="@drawable/ic_menu_manage"

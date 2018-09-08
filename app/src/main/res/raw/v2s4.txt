@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<img src = "file:///android_res/drawable/emoji_wolf.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik * Wolf's Dawn<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"><br>
+<p align="center"<img src = "file:///android_res/drawable/emoji_wolf.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik * Wolf's Dawn<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p><br>
 <img src = "file:///android_res/drawable/valk_wolf.png"width="112" height= "98"align= "left">Awakening Soul(Yamabuki Armor). Её робот (Project Bunny) привликает внимание врагов и защищается. <br>
 
 <img src = "file:///android_res/drawable/valk_wolf_stat.png" width="300" height= "240">
@@ -28,7 +28,7 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Simulated Flicker: При удачном уклонении призывает Project Bunny атаковать врагов. Project Bunny наносит физический урон, равный 350% от своего АТК и запускает <font color="#9400D3">Time Fracture</font>, время восстановления 15 сек. Также при удачном уклонении восстановливает 50% HP парализованного Project Bunny  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Thundershock: При активации Project Bunny запускает мощные атаки, он ударяет в землю 3 раза, нанося урон окружающим врагам и оглушая их, также вешает <font color="#8A2BE2">Time Lock</font> на ослабленных врагов. <br> Первый удар наносит физический урон, равный 275 от АТК Project Bunny.<br> Второй удар наносит урон, равный 425% от АТК Project Bunny.<br> Третий удар наносит урон, равный 575% от АТК Project Bunny.<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Harmonic Resonance: Увеличивает шанс критического удара на <font color="#2196F3">22%</font>, также увеличивает критический урон персонажам типа <font color="#800080">Psychic</font><br> на <font color="#2196F3">23%</font> при комбо более 30 .<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Harmonic Resonance: Увеличивает шанс критического удара на 22%</font>, также увеличивает критический урон персонажам типа <font color="#800080">Psychic</font><br> на 23%</font> при комбо более 30 .<br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

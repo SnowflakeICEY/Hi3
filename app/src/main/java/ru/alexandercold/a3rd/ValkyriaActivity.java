@@ -23,13 +23,13 @@ public class ValkyriaActivity extends AppCompatActivity {
     private String[] mMei = new String[]{ "Crimson Impulse","Valkyrie Bladestrike","Shadow Dash","Lightning Empress",};
     private String[] mBronya = new String[]{ "Valkyrie Chariot","Yamabuki Armor","Snowy Sniper","Dimensional Breaker","Wolf's Dawn","Black Nucleus"};
     private String[] mHimeko= new String[]{ "Battlestorm","Valkyrie Triumph","Scarlet Fusion","Blood Rose",};
-    private String[] mSakura = new String[]{ "Gyakushin Miko","Goushinnso Memento",};
-    private String[] mTheresa = new String[]{ "Valkyrie Pledge","Violet Executer", "Sakuno Rondo",};
+    private String[] mSakura = new String[]{ "Gyakushin Miko","Goushinnso Memento","Flame Sakitama"};
+    private String[] mTheresa = new String[]{ "Valkyrie Pledge","Violet Executer", "Sakuno Rondo","Celestial Hymn"};
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_valkyria);
+        setContentView(R.layout.activity_expandable);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

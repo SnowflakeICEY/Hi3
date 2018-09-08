@@ -15,14 +15,12 @@ import android.view.View;
 public class HonkaiStart extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     Intent intent;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_honkai_start);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -34,7 +32,9 @@ public class HonkaiStart extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
 
+
     }
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -61,8 +61,8 @@ public class HonkaiStart extends AppCompatActivity
 intent = new Intent(HonkaiStart.this, ThankActivity.class);
 startActivity(intent);
         } else if (id == R.id.nav_settings) {
-       //     intent = new Intent(HonkaiStart.this, SettingsActivity.class);
-         //   startActivity(intent);
+        //   intent = new Intent(HonkaiStart.this, SettingsActivity.class);
+            // startActivity(intent);
         } else if (id == R.id.nav_share) {
             intent =  new Intent(android.content.Intent.ACTION_VIEW);
             startActivity(new Intent(Intent.ACTION_VIEW)
@@ -73,8 +73,24 @@ startActivity(intent);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
-    public void onClickHonkai(View view) {
-        Intent intent = new Intent(HonkaiStart.this, HonkaiActivity.class);
+    public void guid(View view) {
+        Intent intent = new Intent(HonkaiStart.this, GuidActivity.class);
+        startActivity(intent);
+    }
+    public void tab(View view) {
+        Intent intent = new Intent(HonkaiStart.this, TableActivity.class);
+        startActivity(intent);
+    }
+    public void weapon(View view) {
+        Intent intent = new Intent(HonkaiStart.this, WeaponActivity.class);
+        startActivity(intent);
+    }
+    public void stig(View view) {
+        Intent intent = new Intent(HonkaiStart.this, StigmataActivity.class);
+        startActivity(intent);
+    }
+    public void valk(View view) {
+        Intent intent = new Intent(HonkaiStart.this, ValkyriaActivity.class);
         startActivity(intent);
     }
 }

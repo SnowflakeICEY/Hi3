@@ -32,7 +32,7 @@ CRT      3   4
 Load     9   12</pre>
 Навык: В бою создаёт щит, который может поглотить урон, равный 150/?/?/400, после получение максимального возможного урона, щит разрушается, время восстановления 6 сек. Также во время работы щита получаемый урон уменьшен на 20/?/?/30%.
 
-<br><img src = "file:///android_res/drawable/stig_hymn_m.png"width ="300" height = "300" class="img-responsive">    
+<br><img src = "file:///android_res/drawable/stig_hymn_m.png" class="img-responsive">    
    
 <pre>Kallen: Hymn (B)         
 Редкость 4   5

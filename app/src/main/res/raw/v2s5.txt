@@ -19,7 +19,7 @@ body {
 </style>
 
 <body bgcolor="#cccccc" >
-<img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik * Black Nucleus<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"><br>
+<p align="center"<img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik * Black Nucleus<img src = "file:///android_res/drawable/icon_creature.png" width="20" height= "20"align= "top" align= "middle"></p><br>
 <img src = "file:///android_res/drawable/valk_black.png"width="112" height= "98"align= "left">Awakening Soul(Snowy Sniper). <br>
 
 <img src = "file:///android_res/drawable/valk_black_stat.png" width="300" height= "240">
@@ -28,7 +28,7 @@ QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimensional Interruption: При успешном уклонении переходит в режим "Стелса", время восстановления 20 сек. Когда в "Стелсе" не может стать целью врагов,блокирует весь входящий урон и невосприимчива к негативным эффектам при атаке. Значительно увеличивает скорость передвижения и скорость атаки. Также статус "Стелс" убирается при нажатии кнопки атаки, при использовании ультимативного навыка или навыка оружия и при переключении персонажей.<br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Universal Murder: При активации бомбандирует обозначенную зону. Создаёт обездвиживающее поле вокруг цели и окружающих её врагов, нанося физический урон, равный 20х80% от АТК. Стоимость 125 SP.<br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Virtual Maneuver: Уменьшает время восстановления эффектов таких как  успешный уворот и успешная защита на <font color="#2196F3">3.5<font><font> сек всей команде.<br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Virtual Maneuver: Уменьшает время восстановления эффектов таких как  успешный уворот и успешная защита на 3.5<font><font> сек всей команде.<br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

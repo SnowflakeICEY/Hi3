@@ -28,7 +28,7 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Flaming Sword Dance: При удачном уклонении создаёт ауру меча, которая бьёт 3 раза и наносит физический урон, равный 10% от АТК окружающим врагам. Увеличивает скорость передвижения на 40% в течение 3 сек. Каждый удар ауры меча добавляет метку на врага. Время восстановления 15 сек. <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Ballistic Sakura: При активации входит в состоянии "Сакуры" и наносит 3 комбо удара по всем целям на большой площади, каждый удар наносит физический урон, равный 100% от АТК и ставит метку. Во время этого навыка удары наносят урон огнём и имеют шанс поставить метку на врага. Чтобы активировать нужно 100 SP, тратит 20 SP при активации и 8SP/сек.  <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Ritual Dance: Увеличивает урон по врагам в воздухе на <font color="#2196F3">18%</font> всей команде. Если все персонажи в команде разного типа увеличивает елементальный урон на <font color="#2196F3">14%</font>. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Ritual Dance: Увеличивает урон по врагам в воздухе на 18%</font> всей команде. Если все персонажи в команде разного типа увеличивает елементальный урон на 14%</font>. <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
@@ -56,6 +56,6 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <img src = "file:///android_res/drawable/icon_top.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_shakespeare_t.txt"style="text-decoration: none;"><font color="#000000">Shakespeare (T)</font></a><br>
 <img src = "file:///android_res/drawable/icon_mid.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_party_m.txt"style="text-decoration: none;"><font color="#000000">Mei: Pool Party (M)</font></a>/<a href="file:///android_res/raw/w_siegfried_m.txt"style="text-decoration: none;"><font color="#000000">Siegfried Kaslana (M)</font></a><br>
 <img src = "file:///android_res/drawable/icon_bot.png" width="20" height= "20"align= "top" align= "middle"> <a href="file:///android_res/raw/w_otto_b.txt"style="text-decoration: none;"><font color="#000000">Otto Apocalypse (B)</font></a><br>
-Увеличивает физический урон, уменьшает перезарядку активного скилла оружия(Если используется Siegfried Kaslana (M)), увеличивает <font color="#FFFF00">lightning</font> урон .<br>
+Увеличивает физический урон, уменьшает перезарядку активного скилла оружия(Если используется Siegfried Kaslana (M)), увеличивает <font color="#FFFF00">lightning</font> урон.<br>
 <br>
 

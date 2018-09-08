@@ -1,4 +1,14 @@
-<body bgcolor="#cccccc" >
+<html>
+<head>
+<style>
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
 <pre> (T)       
 Редкость 4   5
 Уровень  35  50
@@ -9,7 +19,7 @@ CRT      4   7
 Load     9   12</pre>
 Навык: . 
 
-<img src = "file:///android_res/drawable/stig_sin_t.png" width="300" height= "300">
+<img src = "file:///android_res/drawable/stig_sin_t.png" class="img-responsive">
    
 <pre> (M)      
 Редкость 4   5
@@ -21,7 +31,7 @@ CRT      8   13
 Load     9   12</pre>
 Навык: .
 
-<img src = "file:///android_res/drawable/stig_sin_m.png" width="300" height= "300">      
+<img src = "file:///android_res/drawable/stig_sin_m.png" class="img-responsive">      
    
 <pre> (B)         
 Редкость 4   5
@@ -33,10 +43,12 @@ CRT      9   12
 Load     9   12</pre>
 Навык: .
 
-<img src = "file:///android_res/drawable/stig_sin_b.png" width="300" height= "300">
+<img src = "file:///android_res/drawable/stig_sin_b.png" class="img-responsive">
 
 Бонус комплекта:<br>
 
 2 .<br>
 
 3 В режиме "Стелс" восстанавливает 2% HP и SP каждые 0.9 сек.
+</body>
+</html>

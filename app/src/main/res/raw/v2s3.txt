@@ -28,7 +28,7 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Down Dimension: Прикрывается бронёй,непроходят лобовые атаки,чтобы сделать идеальную защиту нужно отпустить кнопку защиты во время лобовой атаки. При идеальной защите вешает на атакующего врага <font color="#8A2BE2">Time Lock</font> <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Project Bunny: Робот "Project Bunny" отделяется от персонажа и начинать бить автоматически,во время этого режима Dimensional Breaker наносит урон лазером <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Metal Gear: Увеличивает получаемые с атаки SP всей команде на <font color="#2196F3">25%</font>,если все союзники типа <font color="#1E90FF">Mecha</font> увеличивает урон на <font color="#2196F3">20%</font> <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Metal Gear: Увеличивает получаемые с атаки SP всей команде на 25%</font>,если все союзники типа <font color="#1E90FF">Mecha</font> увеличивает урон на 20%</font> <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

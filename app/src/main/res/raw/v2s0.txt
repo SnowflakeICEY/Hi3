@@ -29,7 +29,7 @@ QTE:<img src = "file:///android_res/drawable/effect_stun.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Shift: При удачном увороте создаёт <font color="#9400D3">Time Fracture</font> на 5 сек. Время восстановления 15 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Void Explosion: Призывает <font color="#9932CC">Black Hole</font> на 10 сек,которая стягивает врагов,враги получают дебафф  и наносят на 50% меньше физического урона,потребляет 50 SP.  <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Riot Armor: Уменьшает получаемый  физический урон всей команде на <font color="#2196F3">26%</font>  <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Riot Armor: Уменьшает получаемый  физический урон всей команде на 26%</font>  <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

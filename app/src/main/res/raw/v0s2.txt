@@ -29,13 +29,13 @@ QTE:<img src = "file:///android_res/drawable/effect_paralyze.png" width="20" hei
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Fetter: Накладывает на врага <font color="#8A2BE2">Time Lock</font> и подкидывает его (Роботы на последней стадии не подкидываются).Время восстановления 8 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate skill - Valkyrie Refuge: При активации выплёскивает энергию валькирии и каждые 0.5 сек восстанавливает HP команде.Чтобы активировать нужно 75SP , потребляет 20 SP при активации и 10 SP/сек  <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Protection: Увеличивает элементный урон всей команде на <font color="#2196F3">28%</font>. Так же даёт к нему защиту на <font color="#2196F3">24%</font> <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Protection: Увеличивает элементный урон всей команде на 28%</font>. Так же даёт к нему защиту на 24%</font> <br>
 Рекомендации:<br>
 
-<pre><img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
 
-<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning Empress >>>>>
-<img src = "file:///android_res/drawable/emoji_snow.png" width="20" height= "20"align= "top" align= "middle">Snowy Sniper  >>></pre>
+<img src = "file:///android_res/drawable/emoji_lightning.png" width="20" height= "20"align= "top" align= "middle">Lightning Empress >>>>><br>
+<img src = "file:///android_res/drawable/emoji_snow.png" width="20" height= "20"align= "top" align= "middle">Snowy Sniper  >>><br>
 <br>
 
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>

@@ -29,6 +29,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Фан приложение-справка к Honkai Impact." />
+        android:text="Приложение-справка от фанатов игры Honkai Impact" />
 
 </LinearLayout>

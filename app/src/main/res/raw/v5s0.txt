@@ -18,7 +18,7 @@ body {
    }
 </style>
 <ul>
-<p align="center">	<li onClick="toggle_show('theresa')" type="none"><img src = "file:///android_res/drawable/emoji_theresa.png" width="20" height= "20"align= "top" align= "middle" align="left">Theresa Apocalypse*Valkyrie Pledge<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"	<li onClick="toggle_show('theresa')" type="none"><img src = "file:///android_res/drawable/emoji_theresa.png" width="20" height= "20"align= "top" align= "middle" align="left">Theresa Apocalypse*Valkyrie Pledge<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 		<ul id="theresa" style="display: none" type="none"  >
 			<li>
 			Theresa Apocalypse:<br>
@@ -43,7 +43,7 @@ QTE:<img src = "file:///android_res/drawable/effect_freeze.png" width="20" heigh
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Refuge: После уклонения увеличивает свою скорость на 40% в течении 3 сек. При удачном уклонении запускает <font color="#9400D3">Time Fracture</font> на 3 сек. Время восстановления 15 сек. <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Spearsss: Бросает копьё в воздух,которое превращается в дождь и атакует врагов. Наносит физический урон равный 25х75% от АТК. Потребляет 75 SP. <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Our Pledge: Уменьшает продолжительность негативных эффектов на <font color="#2196F3">35%</font>. Увеличивает урон персонажам типа Psychic на <font color="#2196F3">21%</font>. <br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Our Pledge: Уменьшает продолжительность негативных эффектов на 35%</font>. Увеличивает урон персонажам типа Psychic на 21%</font>. <br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

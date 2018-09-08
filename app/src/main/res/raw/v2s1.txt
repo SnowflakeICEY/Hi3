@@ -19,7 +19,7 @@ body {
 </style>
 <body bgcolor="#cccccc" >
 
-<p align="center"><img src = "file:///android_res/drawable/emoji_yamabuki.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Yamabuki Armor<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
+<p align="center"><img src = "file:///android_res/drawable/emoji_armor.png" width="20" height= "20"align= "top" align= "middle">Bronya Zaychik*Yamabuki Armor<img src = "file:///android_res/drawable/icon_psychic.png" width="20" height= "20"align= "top" align= "middle"></p>
 <img src = "file:///android_res/drawable/valk_armor.png"width="112" height= "98" align="left">
 Хороший саппорт,накладывает щит на каждого из союзников,что очень полезно в матрице.<br>
 
@@ -29,7 +29,7 @@ QTE:<img src = "file:///android_res/drawable/effect_time.png" width="20" height=
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Dimension Field: Прикрывается бронёй,непроходят лобовые атаки,чтобы сделать идеальную защиту нужно отпустить кнопку защиты во время лобовой атаки. При идеальной защите создаёт <font color="#9400D3">Time Fracture</font> на 5 сек. Время восстановления 15 сек  <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Overdrive: При активации переводит броню в режим "Овердрайва" в котором броня бьёт сама,если до этого режима повесить на врага дебафф(быстрое нажатие на кнопку атаки),то в этом режиме противник будет замедлен и удары по нему будут восстанавливать HP всей команде.Для активации нужно 40 SP, потребляет 10 SP при активации  и еще 10SP/сек <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Spiritual Conherence: Увеличивает шанс критического удара на <font color="#2196F3">22%</font>,если союзник типа <font color="#800080">Psychic</font> увеличивает его критический урон на <font color="#2196F3">23%</font><br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Spiritual Conherence: Увеличивает шанс критического удара на 22%</font>,если союзник типа <font color="#800080">Psychic</font> увеличивает его критический урон на 23%</font><br>
 Рекомендации:<br>
 
 <img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>

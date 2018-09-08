@@ -29,13 +29,13 @@ QTE:<img src = "file:///android_res/drawable/effect_float.png" width="20" height
 <br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Evasion Skill - Time Fissure: Запускает Time Fracture и значительно увеличивает скорость движения. Время восстановления 20 сек<br>
 <img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Ultimate Skill - Gungnir Execution:При активации используя энергию валькирии создаёт пушку в воздухе,которая бомбандирует врагов.Пушка наносит физический урон,равный 1900% от АТК. Потребляет 125 SP. <br>
-<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Glitter: Увеличивает критический урон всей команды на <font color="#2196F3">30%</font>,если все союзники типа <font color="#FFA500">Creature</font> увеличивает еще на <font color="#2196F3">20%</font><br>
+<img src = "file:///android_res/drawable/icon_skill.png" width="20" height= "20"align= "top" align= "middle"> Leader Skill - Nebula Glitter: Увеличивает критический урон всей команды на 30%</font>,если все союзники типа <font color="#FFA500">Creature</font> увеличивает еще на 20%</font><br>
 Рекомендации:<br>
 
-<pre><img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:
+<img src = "file:///android_res/drawable/valk.png" width="20" height= "20"align= "top" align= "middle"> Команда:<br>
 
-<img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle"> Black Nucleus >>>>>
-<img src = "file:///android_res/drawable/emoji_violet.png" width="20" height= "20"align= "top" align= "middle"> Violet Executer >>>></pre>
+<img src = "file:///android_res/drawable/emoji_black.png" width="20" height= "20"align= "top" align= "middle"> Black Nucleus >>>>><br>
+<img src = "file:///android_res/drawable/emoji_violet.png" width="20" height= "20"align= "top" align= "middle"> Violet Executer >>>><br>
 
 <br>
 <img src = "file:///android_res/drawable/icon_weapon.png" width="20" height= "20"align= "top" align= "middle">Beginner Setup<br>
